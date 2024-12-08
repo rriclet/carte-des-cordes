@@ -178,6 +178,16 @@ categories:
             logo: accedeAtout.png
             second_path: 
               - "Bretagne / Morbihan (56)"
+          - name: Accordes
+            homepage_url: https://accordes.fr/
+            logo: accordes.png
+            second_path: 
+              - "Bretagne / Ile-et-Vilaine (35)"
+          - name: Accroche Net
+            homepage_url: https://accroche.net/
+            logo: accrocheNet.png
+            second_path: 
+              - "Bretagne / Ile-et-Vilaine (35)"
           - name: Acrobat
             homepage_url: https://acrobat.fr/
             logo: acrobat.webp
@@ -199,6 +209,11 @@ categories:
             logo: aas.png
             second_path: 
               - "Île-de-France / Val-d'Oise (95)"
+          - name: Alpi Ouest
+            homepage_url: https://www.alpi-ouest.fr/
+            logo: alpiOuest.webp
+            second_path: 
+              - "Bretagne / Ile-et-Vilaine (35)"    
           - name: Alpiroc
             homepage_url: https://www.alpiroc.fr/
             logo: alpiroc.png
@@ -239,11 +254,26 @@ categories:
             logo: bcs.jpg
             second_path: 
               - "Auvergne-Rhône-Alpes / Rhône (69)"
+          - name: Celticorde
+            homepage_url: https://www.celticorde.com/
+            logo: celticorde.webp
+            second_path: 
+              - "Bretagne / Ile-et-Vilaine (35)"
+          - name: Cord'Attitude
+            homepage_url: https://www.cordattitude.fr/
+            logo: cordAttitude.png
+            second_path: 
+              - "Bretagne / Ile-et-Vilaine (35)"   
           - name: CTS Travaux Spéciaux
             homepage_url: https://www.chenutravauxspeciaux.fr
             logo: cts.avif
             second_path: 
               - "Occitanie / Lot (46)"
+          - name: DGE Acrotech
+            homepage_url: https://www.facebook.com/Dge.acrotech
+            logo: dgeAcrotech.png
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Ain (01)"
           - name: FMI 
             homepage_url: https://fmipro.fr/
             logo: fmi.png
@@ -329,6 +359,11 @@ categories:
             logo: verticalSecurite.jpg
             second_path: 
               - "Occitanie / Aveyron (12)"
+          - name: Verticale Solution
+            homepage_url: https://www.verticale-solution.com
+            logo: verticaleSolution.png
+            second_path: 
+              - "Bretagne / Ile-et-Vilaine (35)"
           - name: Vertika
             homepage_url: http://vertika.fr/
             logo: vertika.png
