@@ -44,6 +44,11 @@ categories:
             logo: atoutcorde.jpeg
             second_path: 
               - "Auvergne-Rhône-Alpes / Isère (38)"
+          - name: Cairn Formation
+            homepage_url: https://cairn-formation.com
+            logo: cairnFormation.svg
+            second_path:
+              - "National / -"    
           - name: Formacan
             homepage_url: https://www.formacan.fr/
             logo: formacan.png
@@ -61,6 +66,13 @@ categories:
             logo: hauteurSecurite.png
             second_path: 
               - "Occitanie / Aveyron (12)"
+          - name: Jarnias Formation
+            homepage_url: https://www.jarniasformation.fr
+            logo: jarniasFormation.gif
+            second_path:
+              - "National / -"
+            extra: 
+              parent_project: Groupe Jarnias 
           - name: Rig'Up Formation
             homepage_url: https://rigupformation.fr/
             logo: rigUpFormation.jpeg
@@ -104,6 +116,9 @@ categories:
     subcategories:
       - name: Autres
         items: 
+          - name: Annuaire des travaux en hauteur
+            homepage_url: https://www.annuairedestravauxenhauteur.com
+            logo: annuaireTravauxHauteur.webp
           - name: GIPAH
             homepage_url: https://www.gipah.fr/
             logo: gipah.jpg
@@ -112,6 +127,10 @@ categories:
             homepage_url: https://www.francetravauxsurcordes.fr
             logo: ftc.jpg
             description: France Travaux sur Cordes est un syndicat français professionnel. Il a pour vocation de regrouper les entreprises appartenant aux secteurs des Travaux Publics ou du Bâtiment qui ont pour activité principale ou secondaire les travaux d'accès difficiles sur cordes.
+          - name: SYFFORHA
+            homepage_url: https://www.syfforha.fr
+            logo: syfforha.jpg
+            description: Syndicat Français pour la Formation en Hauteur
 
       - name: Intérim
         items:
@@ -180,6 +199,16 @@ categories:
             logo: aas.png
             second_path: 
               - "Île-de-France / Val-d'Oise (95)"
+          - name: Alpiroc
+            homepage_url: https://www.alpiroc.fr/
+            logo: alpiroc.png
+            second_path: 
+              - "Occitanie / Hérault (34)"
+          - name: Altitech
+            homepage_url: https://altitech.fr/lentreprise/
+            logo: altitech.jpeg
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Ain (01)"   
           - name: Altitude Construction
             homepage_url: http://www.altitude-construction.com/
             logo: altitudeConstruction.png
@@ -195,21 +224,64 @@ categories:
             logo: apic.png
             second_path: 
               - "Île-de-France / Hauts-de-Seine (92)"
+          - name: Art Camp'
+            homepage_url: https://www.art-camp.com/
+            logo: artCamp.png
+            second_path: 
+              - "Bretagne / Côtes-d'Armor (22)"    
           - name: A.T.S
             homepage_url: https://www.ats-accessibilite.com/
             logo: ats.jpg
             second_path: 
               - "Île-de-France / Val-de-Marne (94)" 
+          - name: B.C.S
+            homepage_url: https://www.bcs-lyon.fr
+            logo: bcs.jpg
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Rhône (69)"
           - name: CTS Travaux Spéciaux
             homepage_url: https://www.chenutravauxspeciaux.fr
             logo: cts.avif
             second_path: 
-              - "Occitanie / Lot (46)"     
+              - "Occitanie / Lot (46)"
+          - name: FMI 
+            homepage_url: https://fmipro.fr/
+            logo: fmi.png
+            second_path: 
+              - "Île-de-France / Val-de-Marne (94)"
+          - name: HAUTLINE 
+            homepage_url: https://www.hautline.fr/
+            logo: hautline.webp
+            second_path: 
+              - "Hauts-de-France / Pas-de-Calais (62)"
+            extra: 
+              parent_project: Groupe Jarnias     
           - name: Les Cordistes de l'Ouest
             homepage_url: https://www.lescordistesdelouest.fr/
             logo: lesCordistesdeLouest.png
             second_path: 
-              - "Bretagne / Morbihan (56)"     
+              - "Bretagne / Morbihan (56)"   
+          - name: L'étoile Acrobat
+            homepage_url: https://www.letoile-acrobat.fr
+            logo: etoileAcrobat.png
+            second_path: 
+              - "Corse / -"   
+          - name: MS Access
+            homepage_url: https://msaccess.fr/
+            logo: msAccess.jpg
+            second_path: 
+              - "Nouvelle-Aquitaine / Gironde (33)"
+          - name: MV2
+            homepage_url: http://www.mv2acro.com/
+            logo: mv2.jpg
+            second_path: 
+              - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
+              - "Provence-Alpes-Côte d'Azur / Var (83)"
+          - name: Pons
+            homepage_url: https://ponstravaux.fr/
+            logo: pons.webp
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Rhône (69)"
           - name: Python Hauteur
             homepage_url: https://www.python-hauteur.com/
             logo: pythonHauteur.jpg
@@ -225,6 +297,23 @@ categories:
             logo: rts.jpg
             second_path: 
               - "Occitanie / Lot (46)"
+          - name: Sky Work 
+            homepage_url: https://www.skywork.fr
+            logo: skyWork.jpeg
+            second_path: 
+              - "Centre-Val de Loire / Loiret (45)"  
+          - name: TAF69 
+            homepage_url: https://www.taf69.com/
+            logo: taf69.png
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Rhône (69)"
+          - name: TAN 
+            homepage_url: https://www.tanacro.fr/
+            logo: tan.svg
+            second_path: 
+              - "Normandie / Seine-Maritime (76)"
+            extra: 
+              parent_project: Groupe Jarnias
           - name: Työ
             homepage_url: https://www.tyo.work/
             logo: tyo.png
@@ -258,6 +347,12 @@ categories:
             logo: acrobatica.svg
             second_path:
               - "National / -"
+          - name: Acrosys
+            homepage_url: https://www.acrosys.eu
+            logo: acrosys.png
+            second_path:
+              - "Occitanie / Ariège (09)"
+              - "Formation / Centres"
           - name: Adrenaline
             homepage_url: https://adrenaline-ee.com/
             logo: adrenaline.png
@@ -272,6 +367,11 @@ categories:
               - "Bretagne / Finistère (29)"
             extra: 
               parent_project: Groupe Jarnias   
+          - name: Altipol
+            homepage_url: https://www.altipol.com
+            logo: altipol.png
+            second_path:
+              - "Auvergne-Rhône-Alpes / Isère (38)"    
           - name: ALTITAD
             homepage_url: https://www.altitad.fr/
             logo: altitad.svg
@@ -279,26 +379,57 @@ categories:
               - "La Réunion / -"
             extra: 
               parent_project: Groupe Jarnias  
-          - name: ASAP
-            homepage_url: https://w-asap.fr/
-            logo: asap.jpg
+          - name: Altius
+            homepage_url: https://www.altius.fr
+            logo: altius.jpeg
             second_path:
-              - "Hauts-de-France / Oise"          
+              - "National / -"   
+          - name: Aplomb
+            homepage_url: https://www.aplomb.fr/
+            logo: aplomb.png
+            second_path:
+              - "National / -"              
           - name: Altitude Services
             homepage_url: https://www.altitude-services.pro
             logo: altitudeServices.png
             second_path:
               - "National / -"
-          - name: CAN
-            homepage_url: https://www.can.fr
-            logo: can.jpeg
+          - name: ASAP
+            homepage_url: https://w-asap.fr/
+            logo: asap.jpg
             second_path:
-              - "National / -"
+              - "Hauts-de-France / Oise (60)"          
+          - name: Citem
+            homepage_url: https://citem.fr
+            logo: citem.png
+            second_path:
+              - "Auvergne-Rhône-Alpes / Savoie (73)"    
+              - "Occitanie / Gard (30)"    
           - name: Colibri
             homepage_url: https://www.colibri-cordiste.fr/
             logo: colibri.jpeg
             second_path:
               - "Île-de-France / Val-de-Marne (94)"
+          - name: Etair IDF
+            homepage_url: https://www.etair-idf.fr
+            logo: etair.png
+            second_path:
+              - "Île-de-France / Essonne (91)"
+          - name: Everest
+            homepage_url: https://everest-travaux.com/
+            logo: everest.png
+            second_path:
+              - "Auvergne-Rhône-Alpes / Rhône (69)"    
+          - name: Fil A Plomb
+            homepage_url: https://filaplomb.wixsite.com
+            logo: filAPlomb.avif
+            second_path:
+              - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
+          - name: GGM Travaux Acrobatiques
+            homepage_url: https://www.ggm-travaux-acrobatiques.fr
+            logo: ggm.png
+            second_path:
+              - "Auvergne-Rhône-Alpes / Haute-Savoie (74)"
           - name: Gratte Ciel
             homepage_url: https://gratteciel.fr/
             logo: gratteCiel.png
@@ -316,11 +447,22 @@ categories:
             logo: nordAccess.png
             second_path:
               - "National / -"
+          - name: Réseau Jade
+            homepage_url: https://reseau-jade.com
+            logo: reseauJade.png
+            second_path:
+              - "Hauts-de-France / Nord (59)" 
+              - "Formation / Centres" 
           - name: Roc Confortation
             homepage_url: https://roc-confortation.fr/
             logo: rocConfortation.svg
             second_path:
-              - "Centre-Val de Loire / Indre-et-Loire (37)"    
+              - "Centre-Val de Loire / Indre-et-Loire (37)" 
+          - name: Sky Scrapper
+            homepage_url: https://skyscrapper.fr/
+            logo: skyScrapper.avif
+            second_path:
+              - "Île-de-France / Essonne (91)"        
           - name: Versant
             homepage_url: https://versant-groupe.com
             logo: versant.png
@@ -329,6 +471,18 @@ categories:
 
       - name: Grandes entreprises
         items: 
+          - name: AcroBTP
+            homepage_url: https://www.acrobtp.fr/
+            logo: acrobtp.png
+            second_path:
+              - "National / -"
+            extra: 
+              parent_project: Groupe Jarnias  
+          - name: CAN
+            homepage_url: https://www.can.fr
+            logo: can.jpeg
+            second_path:
+              - "National / -"
           - name: Garelli Travaux Publics
             homepage_url: https://www.garelli.fr/metier/travaux-acrobatiques
             logo: garelli.jpeg
@@ -344,6 +498,12 @@ categories:
             logo: hydrokarst.jpeg
             second_path:
               - "National / -"
+          - name: Ouest Acro
+            homepage_url: https://www.ouestacro.fr/
+            logo: ouestAcro.svg
+            second_path:
+              - "National / -"
+              
   
   - name: Auvergne-Rhône-Alpes
     subcategories:
