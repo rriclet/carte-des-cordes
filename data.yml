@@ -1,0 +1,106 @@
+# Landscape2 data
+#
+# This file contains the data that will be used to generate the landscape.
+#
+# Reference documentation: https://github.com/cncf/landscape2/blob/main/docs/config/data.yml
+
+categories:
+
+  - name: Solidarité
+    subcategories: 
+      - name: Collectifs
+        items: 
+          - name: Collectif BTP autonome
+            homepage_url: https://www.facebook.com/people/Collectif-BTP-autonome/100089338942143
+            logo: collectifBtpAutonome.jpg
+            second_path:
+              - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
+          - name: Cordistes en colère
+            homepage_url: https://cordistesencolere.fr/
+            logo: cordistesEnColere.jpg
+          - name: Syndicat National Indépendant des Cordistes de France
+            description: Un syndicat indépendant qui défend les droits et intérêts individuels et collectifs, professionnels, matériels et moraux des Cordistes en France, à l'exception de ceux ayant un rôle d'employeur.
+            homepage_url: https://solidaritecordistes.fr/
+            logo: sysoco.jpg
+
+  - name: Employeurs
+    subcategories:
+      - name: Intérim
+        items:
+          - name: "2.0"
+            homepage_url: https://www.2p0.fr/
+            logo: 2.0.png
+          - name: 2W
+            homepage_url: https://2w-rh.fr/
+            logo: 2W.jpg
+          - name: Acro Intérim
+            homepage_url: https://www.intwee-emploi.com/agence/acro-interim-agence-france/
+            logo: acroInterim.png
+          - name: Cordial
+            homepage_url: https://www.proman-emploi.fr/groupe-proman-cordial
+            logo: cordial.png
+          - name: Jint
+            homepage_url: https://www.jint.jobs/
+            logo: jint.png
+          - name: Menco
+            homepage_url: https://www.menco-rh.fr/nos-domaines-d-activites/travaux-speciaux/
+            logo: menco.png
+          - name: Motiv Intérim
+            homepage_url: https://www.motivinterim.fr/evreux.html
+            logo: motivInterim.png
+          - name: Satis
+            homepage_url: https://satis-jobscenter.com/
+            logo: satis.webp
+          - name: Sett
+            homepage_url: https://www.groupeactual.eu/interim-recrutement-formation/solutions/sett
+            logo: sett.png
+          - name: Soluce RH
+            homepage_url: https://solucesrh.nous-recrutons.fr/
+            logo: soluceRh.jpeg
+          - name: Tag System Solutions
+            homepage_url: https://www.tagsystem.fr/
+            logo: tagSystemSolutions.jpeg
+        
+      - name: Petites entreprises
+        items: 
+          - name: Acrobat
+            homepage_url: https://acrobat.fr/
+            logo: acrobat.webp
+            second_path: 
+              - "Normandie / Seine-Maritime (76)"
+          - name: Acro Bat
+            homepage_url: https://www.acro-bat.com
+            logo: acro-bat.png
+          - name: Action Altitude
+            homepage_url: https://www.action-altitude.fr/
+            logo: actionAltitude.jpg
+
+      - name: Moyennes entreprises
+        items: 
+          - name: Altitude Services
+            homepage_url: https://www.altitude-services.pro
+            logo: altitudeServices.png
+          - name: CAN
+            homepage_url: https://www.can.fr
+            logo: can.jpeg
+          - name: Nord Access
+            homepage_url: http://www.nord-access.fr/
+            logo: nordAccess.png
+
+      - name: Grandes entreprises
+        items: 
+          - name: Groupe Jarnias
+            homepage_url: https://www.jarnias.fr/legroupe
+            logo: groupeJarnias.png
+
+  - name: Formation
+    subcategories: 
+      - name: Centres
+        items: 
+          - name: Atoutcorde
+            homepage_url: https://atoutcorde.com/accueil.htm
+            logo: atoutcorde.jpeg
+    
+  
+  - name: Auvergne-Rhône-Alpes
+    subcategories:
