@@ -6,12 +6,11 @@ on:
       - master
   workflow_dispatch:
 
-permissions:
-  id-token: write
-  pages: write
-
 jobs:
   build:
+    permissions:
+      contents: write
+      pages: write
     runs-on:
       labels: ubuntu-latest
     container:
