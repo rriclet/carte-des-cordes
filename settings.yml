@@ -23,11 +23,13 @@ groups:
   - name: Tout
     categories:
       - Solidarité
+      - Formation 
+      - Matériel
       - Employeurs
-      - Formation
 
   - name: par région
     categories: 
+      - National
       - Auvergne-Rhône-Alpes
       - Bourgogne-Franche-Comté
       - Bretagne
@@ -44,8 +46,7 @@ groups:
       - Occitanie
       - Pays de la Loire
       - Provence-Alpes-Côte d'Azur
-      - Réunion
-
+      - La Réunion
 
 header:
   links:

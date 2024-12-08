@@ -18,13 +18,101 @@ categories:
           - name: Cordistes en colère
             homepage_url: https://cordistesencolere.fr/
             logo: cordistesEnColere.jpg
+            second_path:
+              - "National / -"
           - name: Syndicat National Indépendant des Cordistes de France
             description: Un syndicat indépendant qui défend les droits et intérêts individuels et collectifs, professionnels, matériels et moraux des Cordistes en France, à l'exception de ceux ayant un rôle d'employeur.
             homepage_url: https://solidaritecordistes.fr/
             logo: sysoco.jpg
+            second_path:
+              - "National / -"
+      
+      - name: Réseaux sociaux
+        items: 
+          - name: je suis cordiste et j'ai des trucs à dire
+            homepage_url: https://www.facebook.com/groups/jesuiscordiste/
+            logo: facebook.png
+            second_path:
+              - "National / -"
+
+  - name: Formation
+    subcategories: 
+      - name: Centres
+        items: 
+          - name: Atoutcorde
+            homepage_url: https://atoutcorde.com/accueil.htm
+            logo: atoutcorde.jpeg
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Isère (38)"
+          - name: Formacan
+            homepage_url: https://www.formacan.fr/
+            logo: formacan.png
+            second_path:
+              - "National / -"
+            extra:
+              parent_project: CAN
+          - name: Greta Ardèche Drôme
+            homepage_url: https://greta-ardechedrome.fr
+            logo: greta.jpeg
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Drôme (26)"
+          - name: Hauteur & Sécurité
+            homepage_url: https://www.formation-hauteur-securite.fr/
+            logo: hauteurSecurite.png
+            second_path: 
+              - "Occitanie / Aveyron (12)"
+          - name: Rig'Up Formation
+            homepage_url: https://rigupformation.fr/
+            logo: rigUpFormation.jpeg
+            second_path: 
+              - "Pays de la Loire / Loire-Atlantique (44)"
+
+  - name: Matériel
+    subcategories: 
+      - name: Constructeurs
+        items: 
+          - name: Climbing Technology
+            homepage_url: https://www.climbingtechnology.com/fr
+            logo: ct.png
+          - name: Courant
+            homepage_url: https://www.mycourant.com/fr
+            logo: courant.svg
+          - name: Elderid
+            homepage_url: https://edelrid.com/fr-fr
+            logo: edelrid.png
+          - name: Kratos Safety
+            homepage_url: https://kratossafety.com/fr/
+            logo: kratosSafety.jpg
+          - name: Petzl
+            homepage_url: https://www.petzl.com/FR/fr
+            logo: petzl.svg
+          - name: Taz
+            homepage_url: https://taz3d.fr
+            logo: taz.jpg
+      - name: Gestion
+        items: 
+          - name: OpenSafe
+            homepage_url: https://www.opensafe.io/fr
+            logo: openSafe.svg
+            description:  Simplifiez la gestion des EPI et VGP.
+          - name: Registre-EPI
+            homepage_url: https://www.registre-epi.com
+            logo: registreEpi.png
+            description: Registre-EPI peut vous proposer des solutions de pucage pour faciliter la gestion de vos EPI.
 
   - name: Employeurs
     subcategories:
+      - name: Autres
+        items: 
+          - name: GIPAH
+            homepage_url: https://www.gipah.fr/
+            logo: gipah.jpg
+            description: Groupement des Installateurs de Protection Antichute de Hauteur
+          - name: France Travaux sur Cordes
+            homepage_url: https://www.francetravauxsurcordes.fr
+            logo: ftc.jpg
+            description: France Travaux sur Cordes est un syndicat français professionnel. Il a pour vocation de regrouper les entreprises appartenant aux secteurs des Travaux Publics ou du Bâtiment qui ont pour activité principale ou secondaire les travaux d'accès difficiles sur cordes.
+
       - name: Intérim
         items:
           - name: "2.0"
@@ -33,6 +121,9 @@ categories:
           - name: 2W
             homepage_url: https://2w-rh.fr/
             logo: 2W.jpg
+          - name: AcceDIF
+            homepage_url: https://www.accedif.fr/
+            logo: accedif.png  
           - name: Acro Intérim
             homepage_url: https://www.intwee-emploi.com/agence/acro-interim-agence-france/
             logo: acroInterim.png
@@ -63,44 +154,196 @@ categories:
         
       - name: Petites entreprises
         items: 
+          - name: Accede Atout
+            homepage_url: https://www.accede-atout.fr/
+            logo: accedeAtout.png
+            second_path: 
+              - "Bretagne / Morbihan (56)"
           - name: Acrobat
             homepage_url: https://acrobat.fr/
             logo: acrobat.webp
             second_path: 
               - "Normandie / Seine-Maritime (76)"
-          - name: Acro Bat
-            homepage_url: https://www.acro-bat.com
-            logo: acro-bat.png
+          - name: Acro Gecko
+            homepage_url: https://www.acrogecko.com/
+            logo: acroGecko.jpg
+            second_path: 
+              - "Occitanie / Haute-Garonne (31)"
+              - "Occitanie / Hérault (34)"
           - name: Action Altitude
             homepage_url: https://www.action-altitude.fr/
             logo: actionAltitude.jpg
+            second_path: 
+              - "Pays de la Loire / Maine-et-Loire (49)"
+          - name: Alpinistes Accès Services
+            homepage_url: https://a-a-s.fr/
+            logo: aas.png
+            second_path: 
+              - "Île-de-France / Val-d'Oise (95)"
+          - name: Altitude Construction
+            homepage_url: http://www.altitude-construction.com/
+            logo: altitudeConstruction.png
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Haute-Savoie (74)"  
+          - name: Antecime
+            homepage_url: https://antecime.fr/
+            logo: antecime.webp
+            second_path: 
+              - "Île-de-France / Val-de-Marne (94)"    
+          - name: APIC
+            homepage_url: http://apic-sa.fr/
+            logo: apic.png
+            second_path: 
+              - "Île-de-France / Hauts-de-Seine (92)"
+          - name: A.T.S
+            homepage_url: https://www.ats-accessibilite.com/
+            logo: ats.jpg
+            second_path: 
+              - "Île-de-France / Val-de-Marne (94)" 
+          - name: CTS Travaux Spéciaux
+            homepage_url: https://www.chenutravauxspeciaux.fr
+            logo: cts.avif
+            second_path: 
+              - "Occitanie / Lot (46)"     
+          - name: Les Cordistes de l'Ouest
+            homepage_url: https://www.lescordistesdelouest.fr/
+            logo: lesCordistesdeLouest.png
+            second_path: 
+              - "Bretagne / Morbihan (56)"     
+          - name: Python Hauteur
+            homepage_url: https://www.python-hauteur.com/
+            logo: pythonHauteur.jpg
+            second_path: 
+              - "Île-de-France / Val-de-Marne (94)"
+          - name: Services Acro Alsace
+            homepage_url: https://servicesacroalsace.fr/
+            logo: servicesAcroAlsace.png
+            second_path: 
+              - "Grand Est / Bas-Rhin (67)"
+          - name: RTS 
+            homepage_url: https://rts-travaux.com
+            logo: rts.jpg
+            second_path: 
+              - "Occitanie / Lot (46)"
+          - name: Työ
+            homepage_url: https://www.tyo.work/
+            logo: tyo.png
+            second_path: 
+              - "Grand Est / Bas-Rhin (67)"
+          - name: Vertical-R
+            homepage_url: https://vertical-r.com/
+            logo: verticalR.png
+            second_path: 
+              - "Normandie / Eure (27)"
+          - name: Vertical Sécurité
+            homepage_url: https://www.vertical-securite.com/
+            logo: verticalSecurite.jpg
+            second_path: 
+              - "Occitanie / Aveyron (12)"
+          - name: Vertika
+            homepage_url: http://vertika.fr/
+            logo: vertika.png
+            second_path: 
+              - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
 
       - name: Moyennes entreprises
         items: 
+          - name: Abside
+            homepage_url: http://www.abside.fr
+            logo: abside.jpeg
+            second_path:
+              - "Île-de-France / Seine-Saint-Denis (93)"
+          - name: Acrobatica
+            homepage_url: https://acrobatica.fr/
+            logo: acrobatica.svg
+            second_path:
+              - "National / -"
+          - name: Adrenaline
+            homepage_url: https://adrenaline-ee.com/
+            logo: adrenaline.png
+            second_path:
+              - "National / -"
+            extra:
+              facebook_url: https://www.facebook.com/adrenaline.cordiste.ee
+          - name: ALTi CiTY
+            homepage_url: https://www.alticity.eu
+            logo: altiCity.png
+            second_path:
+              - "Bretagne / Finistère (29)"
+            extra: 
+              parent_project: Groupe Jarnias   
+          - name: ALTITAD
+            homepage_url: https://www.altitad.fr/
+            logo: altitad.svg
+            second_path:
+              - "La Réunion / -"
+            extra: 
+              parent_project: Groupe Jarnias  
+          - name: ASAP
+            homepage_url: https://w-asap.fr/
+            logo: asap.jpg
+            second_path:
+              - "Hauts-de-France / Oise"          
           - name: Altitude Services
             homepage_url: https://www.altitude-services.pro
             logo: altitudeServices.png
+            second_path:
+              - "National / -"
           - name: CAN
             homepage_url: https://www.can.fr
             logo: can.jpeg
+            second_path:
+              - "National / -"
+          - name: Colibri
+            homepage_url: https://www.colibri-cordiste.fr/
+            logo: colibri.jpeg
+            second_path:
+              - "Île-de-France / Val-de-Marne (94)"
+          - name: Gratte Ciel
+            homepage_url: https://gratteciel.fr/
+            logo: gratteCiel.png
+            second_path:
+              - "Île-de-France / Hauts-de-Seine (92)"
+          - name: Profil
+            homepage_url: https://profil-acro.fr
+            logo: profil.png
+            second_path:
+              - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
+            extra: 
+              parent_project: Groupe Jarnias
           - name: Nord Access
             homepage_url: http://www.nord-access.fr/
             logo: nordAccess.png
+            second_path:
+              - "National / -"
+          - name: Roc Confortation
+            homepage_url: https://roc-confortation.fr/
+            logo: rocConfortation.svg
+            second_path:
+              - "Centre-Val de Loire / Indre-et-Loire (37)"    
+          - name: Versant
+            homepage_url: https://versant-groupe.com
+            logo: versant.png
+            second_path:
+              - "Île-de-France / Hauts-de-Seine (92)"
 
       - name: Grandes entreprises
         items: 
+          - name: Garelli Travaux Publics
+            homepage_url: https://www.garelli.fr/metier/travaux-acrobatiques
+            logo: garelli.jpeg
+            second_path:
+              - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
           - name: Groupe Jarnias
             homepage_url: https://www.jarnias.fr/legroupe
             logo: groupeJarnias.png
-
-  - name: Formation
-    subcategories: 
-      - name: Centres
-        items: 
-          - name: Atoutcorde
-            homepage_url: https://atoutcorde.com/accueil.htm
-            logo: atoutcorde.jpeg
-    
+            second_path:
+              - "National / -"
+          - name: Hydrokarst
+            homepage_url: https://hydrokarst.fr/
+            logo: hydrokarst.jpeg
+            second_path:
+              - "National / -"
   
   - name: Auvergne-Rhône-Alpes
     subcategories:
