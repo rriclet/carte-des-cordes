@@ -44,7 +44,7 @@ jobs:
           rm -rf *
           cp -R /tmp/landscape/* .
           cp index.html 404.html
-          git cherry-pick d119f68
+          git cherry-pick --skip d119f68
           git add .
           git commit -m "Build landscape"
           git push origin build
