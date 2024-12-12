@@ -34,10 +34,7 @@ groups:
       - Bourgogne-Franche-Comté
       - Bretagne
       - Centre-Val de Loire
-      - Corse
       - Grand Est
-      - Guadeloupe
-      - Guyane
       - Hauts-de-France
       - Île-de-France
       - Martinique
@@ -46,6 +43,10 @@ groups:
       - Occitanie
       - Pays de la Loire
       - Provence-Alpes-Côte d'Azur
+      - Corse
+      - Guadeloupe
+      - Guyane
+      - Monaco
       - La Réunion
 
 header:

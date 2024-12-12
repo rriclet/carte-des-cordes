@@ -435,6 +435,11 @@ categories:
               - "Normandie / Seine-Maritime (76)"
             extra: 
               parent_project: Groupe Jarnias
+          - name: Techni Travaux
+            homepage_url: https://www.facebook.com/profile.php?id=61558731191291
+            logo: techniTravaux.jpeg
+            second_path: 
+              - "Monaco / -"
           - name: Techniques Verticales
             homepage_url: https://techniquesverticales.com/
             logo: techniquesVerticales.png
@@ -578,7 +583,7 @@ categories:
             second_path:
               - "Île-de-France / Essonne (91)"          
               - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"          
-              - "Guyanne / -"          
+              - "Guyane / -"       
           - name: Citem
             homepage_url: https://citem.fr
             logo: citem.png
