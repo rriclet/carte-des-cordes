@@ -173,6 +173,11 @@ categories:
         
       - name: Petites entreprises
         items: 
+          - name: 7ème Ciel
+            homepage_url: https://www.7-ciel.net/
+            logo: 7emeCiel.png
+            second_path: 
+              - "Provence-Alpes-Côte d'Azur / Var (83)" 
           - name: Accede Atout
             homepage_url: https://www.accede-atout.fr/
             logo: accedeAtout.png
@@ -199,6 +204,22 @@ categories:
             second_path: 
               - "Occitanie / Haute-Garonne (31)"
               - "Occitanie / Hérault (34)"
+          - name: Acroservices
+            homepage_url: https://www.acroservices.org/
+            logo: acroservices.jpg
+            second_path: 
+              - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
+          - name: Acrosystems
+            homepage_url: https://www.acrosystems.com/
+            logo: acrosystems.webp
+            second_path: 
+              - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
+          - name: Acrotempo
+            homepage_url: https://acrotempo.fr/
+            logo: acrotempo.png
+            second_path: 
+              - "Occitanie / Gers (32)"
+              - "Occitanie / Pyrénées-Atlantiques (64)"
           - name: Action Altitude
             homepage_url: https://www.action-altitude.fr/
             logo: actionAltitude.jpg
@@ -214,11 +235,21 @@ categories:
             logo: alpiOuest.webp
             second_path: 
               - "Bretagne / Ile-et-Vilaine (35)"    
+          - name: Alpine Access
+            homepage_url: https://alpine-access.fr
+            logo: alpineAccess.jpg
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Savoie (73)"    
           - name: Alpiroc
             homepage_url: https://www.alpiroc.fr/
             logo: alpiroc.png
             second_path: 
-              - "Occitanie / Hérault (34)"
+              - "Occitanie / Hérault (34)"    
+          - name: Alpi-Tech
+            homepage_url: https://www.alpi-tech.fr
+            logo: alpiTech.png
+            second_path: 
+              - "Provence-Alpes-Côte d'Azur / Hautes-Alpes (05)"
           - name: Altitech
             homepage_url: https://altitech.fr/lentreprise/
             logo: altitech.jpeg
@@ -253,7 +284,12 @@ categories:
             homepage_url: https://www.bcs-lyon.fr
             logo: bcs.jpg
             second_path: 
-              - "Auvergne-Rhône-Alpes / Rhône (69)"
+              - "Auvergne-Rhône-Alpes / Rhône (69)" 
+          - name: Cap Vertical
+            homepage_url: https://www.capverticalcordiste.fr
+            logo: capVertical.jpg
+            second_path: 
+              - "Grand Est / Haut-Rhin (68)"
           - name: Celticorde
             homepage_url: https://www.celticorde.com/
             logo: celticorde.webp
@@ -274,6 +310,21 @@ categories:
             logo: dgeAcrotech.png
             second_path: 
               - "Auvergne-Rhône-Alpes / Ain (01)"
+          - name: Esprit de cordée
+            homepage_url: https://www.espritdecordee.fr/
+            logo: espritDeCordee.webp
+            second_path: 
+              - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
+          - name: ETNA
+            homepage_url: https://etna06.fr/
+            logo: etna.jpg
+            second_path: 
+              - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
+          - name: France Acrobatique
+            homepage_url: https://france-acrobatique.fr/
+            logo: franceAcrobatique.jpg
+            second_path:  
+              - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
           - name: FMI 
             homepage_url: https://fmipro.fr/
             logo: fmi.png
@@ -286,6 +337,11 @@ categories:
               - "Hauts-de-France / Pas-de-Calais (62)"
             extra: 
               parent_project: Groupe Jarnias     
+          - name: Les Cordes Briançonnaises
+            homepage_url: https://www.les-cordes-brianconnaises.fr/
+            logo: lesCordesBriançonnaises.png
+            second_path: 
+              - "Provence-Alpes-Côte d'Azur / Hautes-Alpes (05)"   
           - name: Les Cordistes de l'Ouest
             homepage_url: https://www.lescordistesdelouest.fr/
             logo: lesCordistesdeLouest.png
@@ -296,6 +352,11 @@ categories:
             logo: etoileAcrobat.png
             second_path: 
               - "Corse / -"   
+          - name: MAD Services
+            homepage_url: https://www.mad-services.fr/
+            logo: madServices.jpeg
+            second_path: 
+              - "Hauts-de-France / Aisne (02)"
           - name: MS Access
             homepage_url: https://msaccess.fr/
             logo: msAccess.jpg
@@ -307,6 +368,21 @@ categories:
             second_path: 
               - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
               - "Provence-Alpes-Côte d'Azur / Var (83)"
+          - name: Nature Verticale
+            homepage_url: https://natureverticale04.fr/
+            logo: natureVerticale.png
+            second_path: 
+              - "Provence-Alpes-Côte d'Azur / Alpes-de-Haute-Provence (04)"
+          - name: NVS
+            homepage_url: https://nettoyagevitresol.fr/
+            logo: nvs.png
+            second_path: 
+              - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
+          - name: Ozé 
+            homepage_url: https://www.oze05.fr
+            logo: ozé.webp
+            second_path: 
+              - "Provence-Alpes-Côte d'Azur / Hautes-Alpes (05)"
           - name: Pons
             homepage_url: https://ponstravaux.fr/
             logo: pons.webp
@@ -317,6 +393,11 @@ categories:
             logo: pythonHauteur.jpg
             second_path: 
               - "Île-de-France / Val-de-Marne (94)"
+          - name: ROPES
+            homepage_url: https://ropes.fr/
+            logo: ropes.png
+            second_path:
+              - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
           - name: Services Acro Alsace
             homepage_url: https://servicesacroalsace.fr/
             logo: servicesAcroAlsace.png
@@ -327,6 +408,16 @@ categories:
             logo: rts.jpg
             second_path: 
               - "Occitanie / Lot (46)"
+          - name: Spider Color
+            homepage_url: https://spidercolor.fr/
+            logo: spiderColor.jpeg
+            second_path: 
+              - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
+          - name: Sud Acrobatique
+            homepage_url: https://www.sud-acrobatique.com/
+            logo: sudAcrobatique.avif
+            second_path: 
+              - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
           - name: Sky Work 
             homepage_url: https://www.skywork.fr
             logo: skyWork.jpeg
@@ -344,6 +435,28 @@ categories:
               - "Normandie / Seine-Maritime (76)"
             extra: 
               parent_project: Groupe Jarnias
+          - name: Techniques Verticales
+            homepage_url: https://techniquesverticales.com/
+            logo: techniquesVerticales.png
+            second_path: 
+              - "La Réunion / -"
+            extra: 
+              parent_project: Groupe Jarnias
+          - name: Totem 
+            homepage_url: https://www.totem-travaux.fr
+            logo: totem.jpg
+            second_path: 
+              - "Provence-Alpes-Côte d'Azur / Hautes-Alpes (05)"
+          - name: Trav'Haut
+            homepage_url: https://www.travhaut.com/
+            logo: travHaut.jpg
+            second_path: 
+              - "Bourgogne-Franche-Comté / Côte-d'Or (21)"
+          - name: TSC 
+            homepage_url: https://tsc-travauxsurcordes.fr/
+            logo: tsc.png
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Ardèche (07)"
           - name: Työ
             homepage_url: https://www.tyo.work/
             logo: tyo.png
@@ -354,6 +467,11 @@ categories:
             logo: verticalR.png
             second_path: 
               - "Normandie / Eure (27)"
+          - name: Vertical Concept
+            homepage_url: https://verticalconcept.fr/
+            logo: verticalConcept.svg
+            second_path: 
+              - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
           - name: Vertical Sécurité
             homepage_url: https://www.vertical-securite.com/
             logo: verticalSecurite.jpg
@@ -369,6 +487,11 @@ categories:
             logo: vertika.png
             second_path: 
               - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
+          - name: Yann Plan
+            homepage_url: https://www.yannplan.fr/
+            logo: yannPlan.png
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Allier (03)"
 
       - name: Moyennes entreprises
         items: 
@@ -377,11 +500,21 @@ categories:
             logo: abside.jpeg
             second_path:
               - "Île-de-France / Seine-Saint-Denis (93)"
+          - name: ABTS
+            homepage_url: https://abts06.com/
+            logo: abts.jpg
+            second_path:
+              - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
           - name: Acrobatica
             homepage_url: https://acrobatica.fr/
             logo: acrobatica.svg
             second_path:
               - "National / -"
+          - name: Acro Solution
+            homepage_url: https://www.acro-solution.fr
+            logo: acroSolution.png
+            second_path:
+              - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
           - name: Acrosys
             homepage_url: https://www.acrosys.eu
             logo: acrosys.png
@@ -428,12 +561,24 @@ categories:
             homepage_url: https://www.altitude-services.pro
             logo: altitudeServices.png
             second_path:
-              - "National / -"
+              - "National / -"              
+          - name: Altitude TS
+            homepage_url: https://www.altitude-26.fr
+            logo: altitudeTS.jpeg
+            second_path:
+              - "Auvergne-Rhône-Alpes / Drôme (26)"
           - name: ASAP
             homepage_url: https://w-asap.fr/
             logo: asap.jpg
             second_path:
-              - "Hauts-de-France / Oise (60)"          
+              - "Hauts-de-France / Oise (60)"
+          - name: Cabestan
+            homepage_url: https://www.cabestan-montgeron.fr/
+            logo: cabestan.webp
+            second_path:
+              - "Île-de-France / Essonne (91)"          
+              - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"          
+              - "Guyanne / -"          
           - name: Citem
             homepage_url: https://citem.fr
             logo: citem.png
@@ -497,7 +642,19 @@ categories:
             homepage_url: https://skyscrapper.fr/
             logo: skyScrapper.avif
             second_path:
-              - "Île-de-France / Essonne (91)"        
+              - "Île-de-France / Essonne (91)" 
+          - name: Stabilisation Protection
+            homepage_url: http://www.stabilisationprotection.fr
+            logo: stabilisationProtection.jpeg
+            second_path:
+              - "Provence-Alpes-Côte d'Azur / Hautes-Alpes (05)"    
+            extra: 
+              parent_project: CAN    
+          - name: Sud Acrobatic
+            homepage_url: https://www.sud-acrobatic.com
+            logo: sudAcrobatic.png
+            second_path:
+              - "Occitanie / Hérault (34)"
           - name: Versant
             homepage_url: https://versant-groupe.com
             logo: versant.png
