@@ -39,6 +39,28 @@ categories:
     subcategories: 
       - name: Centres
         items: 
+          - name: Académie de la Hauteur
+            homepage_url: https://academiedelahauteur.fr/
+            logo: adlh.png
+            second_path: 
+              - "Grand Est / Bas-Rhin (67)"
+          - name: Agence Altitude Formation
+            homepage_url: https://www.aaf.re/
+            logo: aaf.webp
+            second_path: 
+              - "La Réunion / -"
+            extra:
+              parent_project: Groupe Jarnias
+          - name: Alpic
+            homepage_url: https://www.alpic.fr/formation/travail-sur-corde/
+            logo: alpic.png
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Isère (38)"
+          - name: Altitude Formation
+            homepage_url: https://www.altitudeformation.fr/
+            logo: altitudeFormation.avif
+            second_path: 
+              - "National / -"
           - name: Atoutcorde
             homepage_url: https://atoutcorde.com/accueil.htm
             logo: atoutcorde.jpeg
@@ -49,13 +71,18 @@ categories:
             logo: cairnFormation.svg
             second_path:
               - "National / -"    
+          - name: Dimension Corde
+            homepage_url: https://www.dimension-corde.com/
+            logo: dimensionCorde.webp
+            second_path:
+              - "National / -"    
           - name: Formacan
             homepage_url: https://www.formacan.fr/
             logo: formacan.png
             second_path:
               - "National / -"
             extra:
-              parent_project: CAN
+              parent_project: Groupe CAN
           - name: Greta Ardèche Drôme
             homepage_url: https://greta-ardechedrome.fr
             logo: greta.jpeg
@@ -66,6 +93,13 @@ categories:
             logo: hauteurSecurite.png
             second_path: 
               - "Occitanie / Aveyron (12)"
+          - name: HTC Techniques Verticales
+            homepage_url: https://www.htc-tv.fr/
+            logo: htc.jpeg
+            second_path: 
+              - "Hauts-de-France / Nord (59)"
+              - "Pays de la Loire / Loire-Atlantique (44)"
+              - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
           - name: Jarnias Formation
             homepage_url: https://www.jarniasformation.fr
             logo: jarniasFormation.gif
@@ -73,16 +107,52 @@ categories:
               - "National / -"
             extra: 
               parent_project: Groupe Jarnias 
+          - name: NFHC
+            description: Nord Formations Hauteur Confinés
+            homepage_url: https://www.nord-formations-hauteur-confines.com/
+            logo: nfhc.png
+            second_path:
+              - "Hauts-de-France / Nord (59)"
+            extra: 
+              parent_project: Groupe NA 
+          - name: Progress
+            homepage_url: http://www.progress-hauteur.fr
+            logo: progress.png
+            second_path:
+              - "Grand Est / Moselle (57)"
+            extra: 
+              parent_project: Groupe NA
+          - name: Richers Prévention
+            homepage_url: https://www.richers.fr/
+            logo: richers.webp
+            second_path: 
+              - "Occitanie / Haute-Garonne (31)"
           - name: Rig'Up Formation
             homepage_url: https://rigupformation.fr/
             logo: rigUpFormation.jpeg
             second_path: 
               - "Pays de la Loire / Loire-Atlantique (44)"
+          - name: Safety Pack
+            homepage_url: http://www.safetypack.fr/
+            logo: safetyPack.png
+            second_path: 
+              - "Grand Est / Bas-Rhin (67)"
+          - name: Vertical Formation
+            homepage_url: https://www.vertical-formation.fr/
+            logo: verticalFormation.png
+            second_path: 
+              - "Pays de la Loire / Mayenne (53)" 
 
   - name: Matériel
     subcategories: 
       - name: Constructeurs
         items: 
+          - name: Beal
+            homepage_url: https://www.beal-planet.com/
+            logo: beal.webp
+          - name: Camp
+            homepage_url: https://www.camp.it/m/fr/fr/work
+            logo: camp.svg
           - name: Climbing Technology
             homepage_url: https://www.climbingtechnology.com/fr
             logo: ct.png
@@ -92,15 +162,27 @@ categories:
           - name: Elderid
             homepage_url: https://edelrid.com/fr-fr
             logo: edelrid.png
+          - name: Harken
+            homepage_url: https://www.harken.com/safetyandrescue/fr/home/
+            logo: harken.png
           - name: Kratos Safety
             homepage_url: https://kratossafety.com/fr/
             logo: kratosSafety.jpg
+            second_path: 
+              - "Formation / Centres"
+              - "Auvergne-Rhône-Alpes / Isère (38)"
           - name: Petzl
             homepage_url: https://www.petzl.com/FR/fr
             logo: petzl.svg
+          - name: Rock Exotica
+            homepage_url: https://www.rockexotica.com/
+            logo: rockExotica.webp
           - name: Taz
             homepage_url: https://taz3d.fr
             logo: taz.jpg
+          - name: Teufelberger
+            homepage_url: https://www.teufelberger.com/
+            logo: teufelberger.png
       - name: Gestion
         items: 
           - name: OpenSafe
@@ -110,7 +192,7 @@ categories:
           - name: Registre-EPI
             homepage_url: https://www.registre-epi.com
             logo: registreEpi.png
-            description: Registre-EPI peut vous proposer des solutions de pucage pour faciliter la gestion de vos EPI.
+            description: Registre-EPI peut vous proposer des solutions de pucage pour faciliter la gestion de vos EPI
 
   - name: Employeurs
     subcategories:
@@ -260,6 +342,16 @@ categories:
             logo: altitudeConstruction.png
             second_path: 
               - "Auvergne-Rhône-Alpes / Haute-Savoie (74)"  
+          - name: Anapurna
+            homepage_url: https://www.anapurna-35.fr/
+            logo: anapurna.png
+            second_path: 
+              - "Bretagne / Ile-et-Vilaine (35)"      
+          - name: Ancrage
+            homepage_url: https://ancrage.fr/
+            logo: ancrage.png
+            second_path: 
+              - "Occitanie / Haute-Garonne (31)"    
           - name: Antecime
             homepage_url: https://antecime.fr/
             logo: antecime.webp
@@ -383,6 +475,12 @@ categories:
             logo: ozé.webp
             second_path: 
               - "Provence-Alpes-Côte d'Azur / Hautes-Alpes (05)"
+          - name: Parfil
+            homepage_url: https://www.parfil.fr/
+            logo: parfil.png
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Haute-Savoie (74)"
+              - "Formation / Centres"
           - name: Pons
             homepage_url: https://ponstravaux.fr/
             logo: pons.webp
@@ -427,7 +525,12 @@ categories:
             homepage_url: https://www.taf69.com/
             logo: taf69.png
             second_path: 
-              - "Auvergne-Rhône-Alpes / Rhône (69)"
+              - "Auvergne-Rhône-Alpes / Rhône (69)"  
+          - name: TAFS
+            homepage_url: https://tafs-bunzac.com/
+            logo: tafs.png
+            second_path: 
+              - "Nouvelle-Aquitaine / Charente (16)"
           - name: TAN 
             homepage_url: https://www.tanacro.fr/
             logo: tan.svg
@@ -467,6 +570,8 @@ categories:
             logo: tyo.png
             second_path: 
               - "Grand Est / Bas-Rhin (67)"
+            extra: 
+              parent_project: Groupe Accsys
           - name: Vertical-R
             homepage_url: https://vertical-r.com/
             logo: verticalR.png
@@ -482,6 +587,11 @@ categories:
             logo: verticalSecurite.jpg
             second_path: 
               - "Occitanie / Aveyron (12)"
+          - name: Vertical Services
+            homepage_url: https://www.vertical-services.com/
+            logo: verticalServices.avif
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Haute-Savoie (74)"
           - name: Verticale Solution
             homepage_url: https://www.verticale-solution.com
             logo: verticaleSolution.png
@@ -557,6 +667,7 @@ categories:
             logo: altius.jpeg
             second_path:
               - "National / -"   
+              - "Formation / Centres"   
           - name: Aplomb
             homepage_url: https://www.aplomb.fr/
             logo: aplomb.png
@@ -627,11 +738,20 @@ categories:
               - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
             extra: 
               parent_project: Groupe Jarnias
+          - name: Nord Accès Difficle
+            homepage_url: https://www.nord-acces-difficiles.fr/
+            logo: nordAccesDifficiles.jpg
+            second_path:
+              - "National / -"
+            extra: 
+              parent_project: Groupe NA
           - name: Nord Access
             homepage_url: http://www.nord-access.fr/
             logo: nordAccess.png
             second_path:
               - "National / -"
+            extra: 
+              parent_project: Groupe NA
           - name: Réseau Jade
             homepage_url: https://reseau-jade.com
             logo: reseauJade.png
@@ -642,7 +762,15 @@ categories:
             homepage_url: https://roc-confortation.fr/
             logo: rocConfortation.svg
             second_path:
-              - "Centre-Val de Loire / Indre-et-Loire (37)" 
+              - "Centre-Val de Loire / Indre-et-Loire (37)"
+          - name: Services Voltige
+            homepage_url: https://www.voltige-services.com/
+            logo: servicesVoltige.jpeg
+            second_path:
+              - "Pays de la Loire / Loire-Atlantique (44)"
+              - "Normandie / Seine-Maritime (76)"
+            extra: 
+              parent_project: Groupe NA 
           - name: Sky Scrapper
             homepage_url: https://skyscrapper.fr/
             logo: skyScrapper.avif
@@ -680,16 +808,40 @@ categories:
             logo: can.jpeg
             second_path:
               - "National / -"
+            extra: 
+              parent_project: Groupe CAN
           - name: Garelli Travaux Publics
             homepage_url: https://www.garelli.fr/metier/travaux-acrobatiques
             logo: garelli.jpeg
             second_path:
               - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
+          - name: Groupe Accsys
+            homepage_url: https://www.accsys.fr/
+            logo: groupeAccsys.jpeg
+            second_path:
+              - "National / -"
+          - name: Groupe CAN
+            homepage_url: https://groupe-can.com/
+            logo: groupeCAN.jpg
+            second_path:
+              - "National / -"
           - name: Groupe Jarnias
-            homepage_url: https://www.jarnias.fr/legroupe
+            homepage_url: https://www.legroupejarnias.eu/index.php/entreprises
             logo: groupeJarnias.png
             second_path:
               - "National / -"
+          - name: Groupe NA
+            homepage_url: https://www.legroupejarnias.eu/index.php/entreprises
+            logo: groupeNa.png
+            second_path:
+              - "National / -"
+          - name: Jarnias
+            homepage_url: https://www.jarnias.fr
+            logo: jarnias.png
+            second_path:
+              - "National / -"
+            extra: 
+              parent_project: Groupe Jarnias
           - name: Hydrokarst
             homepage_url: https://hydrokarst.fr/
             logo: hydrokarst.jpeg
