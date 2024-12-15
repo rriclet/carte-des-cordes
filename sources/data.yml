@@ -134,8 +134,8 @@ categories:
             homepage_url: https://www.positivformation.com/
             logo: positivFormation.png
             second_path:
-              - "Bretagne - Ile-et-Vilaine (35)" 
-              - "Pays de la Loire - Loire-Atlantique (44)" 
+              - "Bretagne / Ile-et-Vilaine (35)" 
+              - "Pays de la Loire / Loire-Atlantique (44)" 
           - name: Progress
             homepage_url: http://www.progress-hauteur.fr
             logo: progress.png
@@ -158,6 +158,8 @@ categories:
             logo: safetyPack.png
             second_path: 
               - "Grand Est / Bas-Rhin (67)"
+            extra: 
+              parent_project: Groupe Accsys
           - name: T&S Contrôle et Formation 
             homepage_url: https://controle-formation.fr/
             logo: ts.png
@@ -306,6 +308,16 @@ categories:
             logo: acrobat.webp
             second_path: 
               - "Normandie / Seine-Maritime (76)"
+          - name: Acrobatic
+            homepage_url: https://www.acrobatic.fr/
+            logo: acrobatic.png
+            second_path: 
+              - "Occitanie / Aude (11)"
+          - name: Acrofeel
+            homepage_url: https://acrofeel.fr/
+            logo: acrofeel.png
+            second_path: 
+              - "Occitanie / Ariège (09)"  
           - name: Acro Gecko
             homepage_url: https://www.acrogecko.com/
             logo: acroGecko.jpg
@@ -480,6 +492,11 @@ categories:
             logo: madServices.jpeg
             second_path: 
               - "Hauts-de-France / Aisne (02)"
+          - name: Monacro
+            homepage_url: https://www.monacro.com/
+            logo: monacro.avif
+            second_path: 
+              - "Monaco / -"
           - name: MS Access
             homepage_url: https://msaccess.fr/
             logo: msAccess.jpg
@@ -517,6 +534,11 @@ categories:
             logo: pons.webp
             second_path: 
               - "Auvergne-Rhône-Alpes / Rhône (69)"
+          - name: Procorde
+            homepage_url: https://www.procorde.fr/
+            logo: procorde.svg
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Ardèche (07)"
           - name: Python Hauteur
             homepage_url: https://www.python-hauteur.com/
             logo: pythonHauteur.jpg
@@ -537,6 +559,11 @@ categories:
             logo: rts.jpg
             second_path: 
               - "Occitanie / Lot (46)"
+          - name: SAD & S
+            homepage_url: https://www.sadesexpertise.com/
+            logo: sadS.png
+            second_path: 
+              - "Occitanie / Ariège (09)"
           - name: Spider Color
             homepage_url: https://spidercolor.fr/
             logo: spiderColor.jpeg
@@ -547,6 +574,11 @@ categories:
             logo: sudAcrobatique.avif
             second_path: 
               - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
+          - name: Skyline-Base
+            homepage_url: https://www.skyline-base.fr/
+            logo: skylineBase.png
+            second_path: 
+              - "Occitanie / Ariège (09)"
           - name: Sky Work 
             homepage_url: https://www.skywork.fr
             logo: skyWork.jpeg
@@ -596,6 +628,11 @@ categories:
             logo: tsc.png
             second_path: 
               - "Auvergne-Rhône-Alpes / Ardèche (07)"
+          - name: T.S.M
+            homepage_url: https://www.tsm-monaco.com/
+            logo: tsm.png
+            second_path: 
+              - "Monaco / -"
           - name: Työ
             homepage_url: https://www.tyo.work/
             logo: tyo.png
@@ -737,6 +774,11 @@ categories:
             logo: colibri.jpeg
             second_path:
               - "Île-de-France / Val-de-Marne (94)"
+          - name: EGITEC
+            homepage_url: https://egitec.fr/
+            logo: egitec.png
+            second_path:
+              - "Grand Est / Aube (10)"
           - name: Etair IDF
             homepage_url: https://www.etair-idf.fr
             logo: etair.png
