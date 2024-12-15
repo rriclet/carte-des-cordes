@@ -39,6 +39,11 @@ categories:
     subcategories: 
       - name: Centres
         items: 
+          - name: "3M Centre de formation : travaux en hauteur"
+            homepage_url: https://www.3mfrance.fr/3M/fr_FR/centre-formation-protection-antichute/
+            logo: 3m.png
+            second_path: 
+              - "Île-de-France / Hauts-de-Seine (92)"
           - name: Académie de la Hauteur
             homepage_url: https://academiedelahauteur.fr/
             logo: adlh.png
@@ -66,6 +71,11 @@ categories:
             logo: atoutcorde.jpeg
             second_path: 
               - "Auvergne-Rhône-Alpes / Isère (38)"
+          - name: CAFSAT
+            homepage_url: https://cafsat.biz/
+            logo: cafsat.png
+            second_path:
+              - "Grand Est / Meurthe-et-Moselle (54)"
           - name: Cairn Formation
             homepage_url: https://cairn-formation.com
             logo: cairnFormation.svg
@@ -88,11 +98,16 @@ categories:
             logo: greta.jpeg
             second_path: 
               - "Auvergne-Rhône-Alpes / Drôme (26)"
+          - name: Hauteur Prévention
+            homepage_url: https://www.hauteur-prevention.com/
+            logo: hauteurPrevention.svg
+            second_path: 
+              - hauteurPrevention.svg
           - name: Hauteur & Sécurité
             homepage_url: https://www.formation-hauteur-securite.fr/
             logo: hauteurSecurite.png
             second_path: 
-              - "Occitanie / Aveyron (12)"
+              - "Île-de-France / Hauts-de-Seine (92)"
           - name: HTC Techniques Verticales
             homepage_url: https://www.htc-tv.fr/
             logo: htc.jpeg
@@ -115,6 +130,12 @@ categories:
               - "Hauts-de-France / Nord (59)"
             extra: 
               parent_project: Groupe NA 
+          - name: Positiv' Formation
+            homepage_url: https://www.positivformation.com/
+            logo: positivFormation.png
+            second_path:
+              - "Bretagne - Ile-et-Vilaine (35)" 
+              - "Pays de la Loire - Loire-Atlantique (44)" 
           - name: Progress
             homepage_url: http://www.progress-hauteur.fr
             logo: progress.png
@@ -137,6 +158,11 @@ categories:
             logo: safetyPack.png
             second_path: 
               - "Grand Est / Bas-Rhin (67)"
+          - name: T&S Contrôle et Formation 
+            homepage_url: https://controle-formation.fr/
+            logo: ts.png
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Rhône (69)"
           - name: Vertical Formation
             homepage_url: https://www.vertical-formation.fr/
             logo: verticalFormation.png
@@ -429,6 +455,11 @@ categories:
               - "Hauts-de-France / Pas-de-Calais (62)"
             extra: 
               parent_project: Groupe Jarnias     
+          - name: L'antichute
+            homepage_url: https://antichute.re/
+            logo: lantichute.webp
+            second_path: 
+              - "La Réunion / -"
           - name: Les Cordes Briançonnaises
             homepage_url: https://www.les-cordes-brianconnaises.fr/
             logo: lesCordesBriançonnaises.png
@@ -670,7 +701,7 @@ categories:
               - "Formation / Centres"   
           - name: Aplomb
             homepage_url: https://www.aplomb.fr/
-            logo: aplomb.png
+            logo: aplomb.jpg
             second_path:
               - "National / -"              
           - name: Altitude Services
@@ -775,7 +806,13 @@ categories:
             homepage_url: https://skyscrapper.fr/
             logo: skyScrapper.avif
             second_path:
-              - "Île-de-France / Essonne (91)" 
+              - "Île-de-France / Essonne (91)"
+          - name: S.M.I.T.H
+            description: Société de Maintenance Industrielle et de Travail en Hauteur
+            homepage_url: https://www.smith-so.fr/
+            logo: smith.png
+            second_path:
+              - "Nouvelle-Aquitaine / Charente-Maritime (17)" 
           - name: Stabilisation Protection
             homepage_url: http://www.stabilisationprotection.fr
             logo: stabilisationProtection.jpeg
