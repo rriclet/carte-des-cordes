@@ -20,6 +20,17 @@ categories:
             logo: cordistesEnColere.jpg
             second_path:
               - "National / -"
+          - name: Festival des Derniers de cordée
+            homepage_url: https://derniersdecordee.noblogs.org
+            logo: derniersDeCordee.jpg
+            second_path:
+              - "National / -"
+          - name: Haut Pluri'Elles
+            description: "Collectif de femmes cordistes dont le but est : Promouvoir l'accessibilité des femmes dans la profession / Encourager les femmes à échanger sur leurs rôles et leurs problématiques / La montée en confiance et en compétences / Solliciter les acteurs du métier"
+            homepage_url: https://www.facebook.com/groups/319769895349010
+            logo: hautPluriElles.png
+            second_path:
+              - "National / -"
           - name: Syndicat National Indépendant des Cordistes de France
             description: Un syndicat indépendant qui défend les droits et intérêts individuels et collectifs, professionnels, matériels et moraux des Cordistes en France, à l'exception de ceux ayant un rôle d'employeur.
             homepage_url: https://solidaritecordistes.fr/
@@ -298,6 +309,11 @@ categories:
             logo: accordes.png
             second_path: 
               - "Bretagne / Ile-et-Vilaine (35)"
+          - name: Accro' Net
+            homepage_url: https://accronet.fr/
+            logo: accroNet.webp
+            second_path: 
+              - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
           - name: Accroche Net
             homepage_url: https://accroche.net/
             logo: accrocheNet.png
@@ -409,6 +425,11 @@ categories:
             homepage_url: https://www.ats-accessibilite.com/
             logo: ats.jpg
             second_path: 
+              - "Île-de-France / Val-de-Marne (94)"
+          - name: A.T.X
+            homepage_url: https://www.aloides-travaux.fr/
+            logo: atx.png
+            second_path: 
               - "Île-de-France / Val-de-Marne (94)" 
           - name: B.C.S
             homepage_url: https://www.bcs-lyon.fr
@@ -429,7 +450,12 @@ categories:
             homepage_url: https://www.cordattitude.fr/
             logo: cordAttitude.png
             second_path: 
-              - "Bretagne / Ile-et-Vilaine (35)"   
+              - "Bretagne / Ile-et-Vilaine (35)"
+          - name: Cordaix
+            homepage_url: https://www.cordaix.fr/
+            logo: cordaix.png
+            second_path: 
+              - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"   
           - name: CTS Travaux Spéciaux
             homepage_url: https://www.chenutravauxspeciaux.fr
             logo: cts.avif
@@ -492,6 +518,11 @@ categories:
             logo: madServices.jpeg
             second_path: 
               - "Hauts-de-France / Aisne (02)"
+          - name: Midi Cordes
+            homepage_url: https://midicordes.com/
+            logo: midiCordes.png
+            second_path: 
+              - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
           - name: Monacro
             homepage_url: https://www.monacro.com/
             logo: monacro.avif
@@ -518,11 +549,21 @@ categories:
             logo: nvs.png
             second_path: 
               - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
+          - name: O.C.O
+            homepage_url: https://www.travaux-sur-cordes-marseille.fr/
+            logo: oco.webp
+            second_path: 
+              - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
           - name: Ozé 
             homepage_url: https://www.oze05.fr
             logo: ozé.webp
             second_path: 
               - "Provence-Alpes-Côte d'Azur / Hautes-Alpes (05)"
+          - name: Paca Altitude
+            homepage_url: https://www.pacaaltitude.fr/
+            logo: pacaAltitude.png
+            second_path: 
+              - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
           - name: Parfil
             homepage_url: https://www.parfil.fr/
             logo: parfil.png
@@ -539,6 +580,11 @@ categories:
             logo: procorde.svg
             second_path: 
               - "Auvergne-Rhône-Alpes / Ardèche (07)"
+          - name: PTH13
+            homepage_url: https://romain-oliverio.wixsite.com/monsite
+            logo: pth13.avif
+            second_path: 
+              - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
           - name: Python Hauteur
             homepage_url: https://www.python-hauteur.com/
             logo: pythonHauteur.jpg
@@ -564,6 +610,11 @@ categories:
             logo: sadS.png
             second_path: 
               - "Occitanie / Ariège (09)"
+          - name: S.O.S Voltige
+            homepage_url: https://sos-voltige-marseille.fr/
+            logo: sosVoltige.png
+            second_path: 
+              - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
           - name: Spider Color
             homepage_url: https://spidercolor.fr/
             logo: spiderColor.jpeg
@@ -623,6 +674,11 @@ categories:
             logo: travHaut.jpg
             second_path: 
               - "Bourgogne-Franche-Comté / Côte-d'Or (21)"
+          - name: Travaux & Services 13
+            homepage_url: https://www.travauxetservices-13.fr/
+            logo: travauxServices13.jpg
+            second_path: 
+              - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
           - name: TSC 
             homepage_url: https://tsc-travauxsurcordes.fr/
             logo: tsc.png
@@ -670,6 +726,11 @@ categories:
             logo: vertika.png
             second_path: 
               - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
+          - name: Vitacro
+            homepage_url: https://vitacro.fr/
+            logo: vitacro.png
+            second_path: 
+              - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
           - name: Yann Plan
             homepage_url: https://www.yannplan.fr/
             logo: yannPlan.png
@@ -736,6 +797,11 @@ categories:
             second_path:
               - "National / -"   
               - "Formation / Centres"   
+          - name: Apesanteur
+            homepage_url: https://apesanteur.net/
+            logo: apesanteur.png
+            second_path:
+              - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"   
           - name: Aplomb
             homepage_url: https://www.aplomb.fr/
             logo: aplomb.jpg
@@ -756,6 +822,11 @@ categories:
             logo: asap.jpg
             second_path:
               - "Hauts-de-France / Oise (60)"
+          - name: Bothier
+            homepage_url: https://www.bothier.fr/
+            logo: bothier.png
+            second_path:
+              - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
           - name: Cabestan
             homepage_url: https://www.cabestan-montgeron.fr/
             logo: cabestan.webp
@@ -804,6 +875,16 @@ categories:
             logo: gratteCiel.png
             second_path:
               - "Île-de-France / Hauts-de-Seine (92)"
+          - name: Les Alpinistes Associés
+            homepage_url: https://www.alpinistes-associes.com/
+            logo: lesAlpinistesAssocies.png
+            second_path:
+              - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
+          - name: Les Couvreurs de Proximité
+            homepage_url: https://les-couvreurs-de-proximite.fr/
+            logo: lcdp.jpg
+            second_path:
+              - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
           - name: Profil
             homepage_url: https://profil-acro.fr
             logo: profil.png
@@ -854,7 +935,13 @@ categories:
             homepage_url: https://www.smith-so.fr/
             logo: smith.png
             second_path:
-              - "Nouvelle-Aquitaine / Charente-Maritime (17)" 
+              - "Nouvelle-Aquitaine / Charente-Maritime (17)"
+          - name: SMTA
+            description: Société Marseillaise Travaux Acrobatiques
+            homepage_url: https://www.travaux-acrobatiques-smta.fr/
+            logo: smta.png
+            second_path:
+              - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)" 
           - name: Stabilisation Protection
             homepage_url: http://www.stabilisationprotection.fr
             logo: stabilisationProtection.jpeg
@@ -867,6 +954,12 @@ categories:
             logo: sudAcrobatic.png
             second_path:
               - "Occitanie / Hérault (34)"
+          - name: TGH
+            homepage_url: http://www.tgh.fr/
+            logo: tgh.png
+            second_path:
+              - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
+              - "Provence-Alpes-Côte d'Azur / Vaucluse (84)"
           - name: Versant
             homepage_url: https://versant-groupe.com
             logo: versant.png
