@@ -420,7 +420,12 @@ categories:
             homepage_url: https://www.art-camp.com/
             logo: artCamp.png
             second_path: 
-              - "Bretagne / Côtes-d'Armor (22)"    
+              - "Bretagne / Côtes-d'Armor (22)"
+          - name: ATA
+            homepage_url: http://www.ata-ezagouri.fr/
+            logo: ata.png
+            second_path: 
+              - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
           - name: A.T.S
             homepage_url: https://www.ats-accessibilite.com/
             logo: ats.jpg
@@ -430,7 +435,7 @@ categories:
             homepage_url: https://www.aloides-travaux.fr/
             logo: atx.png
             second_path: 
-              - "Île-de-France / Val-de-Marne (94)" 
+              - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)" 
           - name: B.C.S
             homepage_url: https://www.bcs-lyon.fr
             logo: bcs.jpg
@@ -575,6 +580,11 @@ categories:
             logo: pons.webp
             second_path: 
               - "Auvergne-Rhône-Alpes / Rhône (69)"
+          - name: Prestacro
+            homepage_url: https://www.prestacro.fr/
+            logo: prestacro.png
+            second_path: 
+              - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
           - name: Procorde
             homepage_url: https://www.procorde.fr/
             logo: procorde.svg
