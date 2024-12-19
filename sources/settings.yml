@@ -20,6 +20,7 @@ colors:
 footer:
   links: 
     github: "https://github.com/rriclet/carte-des-cordes"
+  text: N'hésitez pas à écrire à contact@cordes.taxi pour signaler des erreurs, proposer des ajouts ou des suggestions d'amélioration :)
 
 grid_items_size: large
 
@@ -38,21 +39,18 @@ groups:
       - Bourgogne-Franche-Comté
       - Bretagne
       - Centre-Val de Loire
+      - Corse
       - Grand Est
       - Hauts-de-France
       - Île-de-France
-      - Martinique
+      - Monaco
       - Normandie
       - Nouvelle-Aquitaine
       - Occitanie
+      - Outre-mer
       - Pays de la Loire
       - Provence-Alpes-Côte d'Azur
-      - Corse
-      - Guadeloupe
-      - Guyane
-      - Monaco
-      - La Réunion
-
+  
 header:
   links:
     github: "https://github.com/rriclet/carte-des-cordes"
