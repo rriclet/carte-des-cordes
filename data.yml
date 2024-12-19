@@ -64,7 +64,7 @@ categories:
             homepage_url: https://www.aaf.re/
             logo: aaf.webp
             second_path: 
-              - "La Réunion / -"
+              - "Outre-mer / La Réunion"
             extra:
               parent_project: Groupe Jarnias
           - name: Alpic
@@ -113,7 +113,7 @@ categories:
             homepage_url: https://www.hauteur-prevention.com/
             logo: hauteurPrevention.svg
             second_path: 
-              - hauteurPrevention.svg
+              - "Île-de-France / Hauts-de-Seine (92)"
           - name: Hauteur & Sécurité
             homepage_url: https://www.formation-hauteur-securite.fr/
             logo: hauteurSecurite.png
@@ -216,6 +216,9 @@ categories:
           - name: Rock Exotica
             homepage_url: https://www.rockexotica.com/
             logo: rockExotica.webp
+          - name: Skylotec
+            homepage_url: https://www.skylotec.com/eu_fr/
+            logo: skylotec.png
           - name: Taz
             homepage_url: https://taz3d.fr
             logo: taz.jpg
@@ -303,7 +306,12 @@ categories:
             homepage_url: https://www.accede-atout.fr/
             logo: accedeAtout.png
             second_path: 
-              - "Bretagne / Morbihan (56)"
+              - "Bretagne / Morbihan (56)" 
+          - name: Accès Service
+            homepage_url: https://asn-cordiste.fr/
+            logo: accesService.png
+            second_path: 
+              - "Normandie / Calvados (14)"
           - name: Accordes
             homepage_url: https://accordes.fr/
             logo: accordes.png
@@ -445,7 +453,12 @@ categories:
             homepage_url: https://www.capverticalcordiste.fr
             logo: capVertical.jpg
             second_path: 
-              - "Grand Est / Haut-Rhin (68)"
+              - "Grand Est / Haut-Rhin (68)" 
+          - name: C.D.N.C
+            homepage_url: https://www.cdnc.fr/
+            logo: cdnc.png
+            second_path: 
+              - "Normandie / Calvados (14)"
           - name: Celticorde
             homepage_url: https://www.celticorde.com/
             logo: celticorde.webp
@@ -460,7 +473,12 @@ categories:
             homepage_url: https://www.cordaix.fr/
             logo: cordaix.png
             second_path: 
-              - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"   
+              - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
+          - name: Corsica Interventions
+            homepage_url: https://www.corsicainterventions.com/
+            logo: corsicaInterventions.png
+            second_path: 
+              - "Corse / -"   
           - name: CTS Travaux Spéciaux
             homepage_url: https://www.chenutravauxspeciaux.fr
             logo: cts.avif
@@ -471,6 +489,11 @@ categories:
             logo: dgeAcrotech.png
             second_path: 
               - "Auvergne-Rhône-Alpes / Ain (01)"
+          - name: ENT J.Léon
+            homepage_url: http://www.entleonjonathan.com/
+            logo: entJLéon.jpg
+            second_path: 
+              - "Centre-Val de Loire / Cher (18)"
           - name: Esprit de cordée
             homepage_url: https://www.espritdecordee.fr/
             logo: espritDeCordee.webp
@@ -486,6 +509,11 @@ categories:
             logo: franceAcrobatique.jpg
             second_path:  
               - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
+          - name: Franck Leger
+            homepage_url: https://www.facebook.com/profile.php?id=100090086675603
+            logo: franckLeger.jpg
+            second_path:  
+              - "Nouvelle-Aquitaine / Charente-Maritime (17)"
           - name: FMI 
             homepage_url: https://fmipro.fr/
             logo: fmi.png
@@ -502,7 +530,7 @@ categories:
             homepage_url: https://antichute.re/
             logo: lantichute.webp
             second_path: 
-              - "La Réunion / -"
+              - "Outre-mer / La Réunion"
           - name: Les Cordes Briançonnaises
             homepage_url: https://www.les-cordes-brianconnaises.fr/
             logo: lesCordesBriançonnaises.png
@@ -523,6 +551,12 @@ categories:
             logo: madServices.jpeg
             second_path: 
               - "Hauts-de-France / Aisne (02)"
+              - "Grand Est / Marne (51)"
+          - name: Maintenance Couverture Façade
+            homepage_url: https://www.mcf-14.com/
+            logo: mcf.png
+            second_path: 
+              - "Normandie / Calvados (14)"
           - name: Midi Cordes
             homepage_url: https://midicordes.com/
             logo: midiCordes.png
@@ -533,6 +567,11 @@ categories:
             logo: monacro.avif
             second_path: 
               - "Monaco / -"
+          - name: MP Cordes
+            homepage_url: https://www.mpcordes.fr/
+            logo: mpCordes.png
+            second_path: 
+              - "Nouvelle-Aquitaine / Charente (16)"
           - name: MS Access
             homepage_url: https://msaccess.fr/
             logo: msAccess.jpg
@@ -569,6 +608,11 @@ categories:
             logo: pacaAltitude.png
             second_path: 
               - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
+          - name: Pacific Acrobatic
+            homepage_url: https://www.pacificacrobatic.nc/
+            logo: pacificAcrobatic.jpg
+            second_path: 
+              - "Outre-mer / Nouvelle-Calédonie"
           - name: Parfil
             homepage_url: https://www.parfil.fr/
             logo: parfil.png
@@ -620,6 +664,11 @@ categories:
             logo: sadS.png
             second_path: 
               - "Occitanie / Ariège (09)"
+          - name: So'o
+            homepage_url: https://www.facebook.com/soo.multiservices/
+            logo: soo.jpg
+            second_path: 
+              - "Nouvelle-Aquitaine / Charente-Maritime (17)"
           - name: S.O.S Voltige
             homepage_url: https://sos-voltige-marseille.fr/
             logo: sosVoltige.png
@@ -630,6 +679,11 @@ categories:
             logo: spiderColor.jpeg
             second_path: 
               - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
+          - name: STH
+            homepage_url: https://sth-normandie.fr/
+            logo: sth.png
+            second_path: 
+              - "Normandie / Calvados (14)"
           - name: Sud Acrobatique
             homepage_url: https://www.sud-acrobatique.com/
             logo: sudAcrobatique.avif
@@ -671,9 +725,7 @@ categories:
             homepage_url: https://techniquesverticales.com/
             logo: techniquesVerticales.png
             second_path: 
-              - "La Réunion / -"
-            extra: 
-              parent_project: Groupe Jarnias
+              - "Outre-mer / La Réunion"
           - name: Totem 
             homepage_url: https://www.totem-travaux.fr
             logo: totem.jpg
@@ -694,6 +746,11 @@ categories:
             logo: tsc.png
             second_path: 
               - "Auvergne-Rhône-Alpes / Ardèche (07)"
+          - name: TSC 16
+            homepage_url: https://www.cordiste.expert/
+            logo: tsc16.png
+            second_path: 
+              - "Nouvelle-Aquitaine / Charente (16)"
           - name: T.S.M
             homepage_url: https://www.tsm-monaco.com/
             logo: tsm.png
@@ -731,6 +788,7 @@ categories:
             logo: verticaleSolution.png
             second_path: 
               - "Bretagne / Ile-et-Vilaine (35)"
+              - "Centre-Val de Loire / Cher (18)"
           - name: Vertika
             homepage_url: http://vertika.fr/
             logo: vertika.png
@@ -798,7 +856,7 @@ categories:
             homepage_url: https://www.altitad.fr/
             logo: altitad.svg
             second_path:
-              - "La Réunion / -"
+              - "Outre-mer / La Réunion"
             extra: 
               parent_project: Groupe Jarnias  
           - name: Altius
@@ -811,12 +869,7 @@ categories:
             homepage_url: https://apesanteur.net/
             logo: apesanteur.png
             second_path:
-              - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"   
-          - name: Aplomb
-            homepage_url: https://www.aplomb.fr/
-            logo: aplomb.jpg
-            second_path:
-              - "National / -"              
+              - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"              
           - name: Altitude Services
             homepage_url: https://www.altitude-services.pro
             logo: altitudeServices.png
@@ -827,11 +880,26 @@ categories:
             logo: altitudeTS.jpeg
             second_path:
               - "Auvergne-Rhône-Alpes / Drôme (26)"
+          - name: APEX Travaux Spéciaux
+            homepage_url: https://www.facebook.com/p/APEX-Travaux-Sp%C3%A9ciaux-100064395445810/
+            logo: apex.jpg
+            second_path:
+              - "Corse / -"
+          - name: Aplomb
+            homepage_url: https://www.aplomb.fr/
+            logo: aplomb.jpg
+            second_path:
+              - "National / -"
           - name: ASAP
             homepage_url: https://w-asap.fr/
             logo: asap.jpg
             second_path:
               - "Hauts-de-France / Oise (60)"
+          - name: Ascension
+            homepage_url: https://ascension.fr/
+            logo: ascension.gif
+            second_path:
+              - "Nouvelle-Aquitaine / Charente-Maritime (17)"
           - name: Bothier
             homepage_url: https://www.bothier.fr/
             logo: bothier.png
@@ -843,7 +911,7 @@ categories:
             second_path:
               - "Île-de-France / Essonne (91)"          
               - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"          
-              - "Guyane / -"       
+              - "Outre-mer / Guyane"       
           - name: Citem
             homepage_url: https://citem.fr
             logo: citem.png
@@ -880,6 +948,11 @@ categories:
             logo: ggm.png
             second_path:
               - "Auvergne-Rhône-Alpes / Haute-Savoie (74)"
+          - name: GMS Gambotti
+            homepage_url: https://sasgms.com/
+            logo: gmsGambotti.jpg
+            second_path:
+              - "Corse / -"
           - name: Gratte Ciel
             homepage_url: https://gratteciel.fr/
             logo: gratteCiel.png
@@ -895,6 +968,11 @@ categories:
             logo: lcdp.jpg
             second_path:
               - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
+          - name: Peretti Travaux Spéciaux
+            homepage_url: https://www.facebook.com/p/Peretti-Travaux-Speciaux-100076057965812/
+            logo: peretti.jpg
+            second_path:
+              - "Corse / "
           - name: Profil
             homepage_url: https://profil-acro.fr
             logo: profil.png
@@ -935,6 +1013,11 @@ categories:
               - "Normandie / Seine-Maritime (76)"
             extra: 
               parent_project: Groupe NA 
+          - name: STAM
+            homepage_url: https://stam.fr/
+            logo: stam.png
+            second_path:
+              - "Nouvelle-Aquitaine / Corrèze (19)"
           - name: Sky Scrapper
             homepage_url: https://skyscrapper.fr/
             logo: skyScrapper.avif
