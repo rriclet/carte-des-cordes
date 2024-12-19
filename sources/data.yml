@@ -549,6 +549,12 @@ categories:
             logo: fmi.png
             second_path: 
               - "Île-de-France / Val-de-Marne (94)"
+          - name: Green'Up
+            homepage_url: https://greenup-cordiste.com/
+            logo: greenUp.png
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Drôme (26)"
+              - "Grand Est / Moselle (57)"
           - name: HAUTLINE 
             homepage_url: https://www.hautline.fr/
             logo: hautline.webp
@@ -669,6 +675,11 @@ categories:
             logo: procorde.svg
             second_path: 
               - "Auvergne-Rhône-Alpes / Ardèche (07)"
+          - name: Pro-Tech-Foudre
+            homepage_url: https://www.protechfoudre.net/
+            logo: proTechfoudre.png
+            second_path: 
+              - "Nouvelle-Aquitaine / Dordogne (24)"
           - name: PTH13
             homepage_url: https://romain-oliverio.wixsite.com/monsite
             logo: pth13.avif
