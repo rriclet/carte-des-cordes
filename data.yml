@@ -943,6 +943,11 @@ categories:
             logo: egitec.png
             second_path:
               - "Grand Est / Aube (10)"
+          - name: Espace Vertical
+            homepage_url: https://www.espacevertical.fr/
+            logo: espaceVertical.png
+            second_path:
+              - "Bourgogne-Franche-Comté / Territoire de Belfort (90)"
           - name: Etair IDF
             homepage_url: https://www.etair-idf.fr
             logo: etair.png
