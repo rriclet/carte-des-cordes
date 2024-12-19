@@ -322,6 +322,11 @@ categories:
             logo: accroNet.webp
             second_path: 
               - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
+          - name: Accroch'Toit
+            homepage_url: http://www.accroch-toit.fr/
+            logo: accrochToit.png
+            second_path: 
+              - "Bretagne / Côtes-d'Armor (22)"
           - name: Accroche Net
             homepage_url: https://accroche.net/
             logo: accrocheNet.png
@@ -453,7 +458,12 @@ categories:
             homepage_url: https://www.bcs-lyon.fr
             logo: bcs.jpg
             second_path: 
-              - "Auvergne-Rhône-Alpes / Rhône (69)" 
+              - "Auvergne-Rhône-Alpes / Rhône (69)"  
+          - name: Bourchanin
+            homepage_url: https://www.bourchanin.fr/
+            logo: bourchanin.webp
+            second_path: 
+              - "Bretagne / Côtes-d'Armor (22)" 
           - name: Cap Vertical
             homepage_url: https://www.capverticalcordiste.fr
             logo: capVertical.jpg
@@ -474,6 +484,11 @@ categories:
             logo: cordAttitude.png
             second_path: 
               - "Bretagne / Ile-et-Vilaine (35)"
+          - name: Cordactions
+            homepage_url: https://cordactions.fr/
+            logo: cordactions.png
+            second_path: 
+              - "Bretagne / Côtes-d'Armor (22)"
           - name: Cordaix
             homepage_url: https://www.cordaix.fr/
             logo: cordaix.png
@@ -499,6 +514,11 @@ categories:
             logo: dgeAcrotech.png
             second_path: 
               - "Auvergne-Rhône-Alpes / Ain (01)"
+          - name: Elevation Service
+            homepage_url: https://www.elevation-service.fr/
+            logo: elevationService.png
+            second_path: 
+              - "Bretagne / Côtes-d'Armor (22)"
           - name: ENT J.Léon
             homepage_url: http://www.entleonjonathan.com/
             logo: entJLéon.jpg
