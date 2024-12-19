@@ -394,6 +394,11 @@ categories:
             logo: alpiTech.png
             second_path: 
               - "Provence-Alpes-Côte d'Azur / Hautes-Alpes (05)"
+          - name: Alternative Cordes
+            homepage_url: https://www.alternativecordes.fr/
+            logo: alternativeCordes.png
+            second_path: 
+              - "Bourgogne-Franche-Comté / Côte-d'Or (21)"
           - name: Altitech
             homepage_url: https://altitech.fr/lentreprise/
             logo: altitech.jpeg
@@ -474,6 +479,11 @@ categories:
             logo: cordaix.png
             second_path: 
               - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
+          - name: Corde Option
+            homepage_url: https://travauxaccesdifficile.fr/
+            logo: cordeOption.png
+            second_path: 
+              - "Bourgogne-Franche-Comté / Côte-d'Or (21)"
           - name: Corsica Interventions
             homepage_url: https://www.corsicainterventions.com/
             logo: corsicaInterventions.png
@@ -567,6 +577,11 @@ categories:
             logo: monacro.avif
             second_path: 
               - "Monaco / -"
+          - name: Monkey Access
+            homepage_url: https://www.monkeyaccess.com/
+            logo: monkeyAccess.png
+            second_path: 
+              - "Bourgogne-Franche-Comté / Côte-d'Or (21)"
           - name: MP Cordes
             homepage_url: https://www.mpcordes.fr/
             logo: mpCordes.png
@@ -1053,6 +1068,11 @@ categories:
             second_path:
               - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
               - "Provence-Alpes-Côte d'Azur / Vaucluse (84)"
+          - name: Traforex
+            homepage_url: https://www.facebook.com/Traforex/
+            logo: traforex.jpeg
+            second_path:
+              - "Bourgogne-Franche-Comté / Côte-d'Or (21)"
           - name: Versant
             homepage_url: https://versant-groupe.com
             logo: versant.png
