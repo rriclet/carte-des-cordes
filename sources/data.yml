@@ -195,6 +195,9 @@ categories:
           - name: Climbing Technology
             homepage_url: https://www.climbingtechnology.com/fr
             logo: ct.png
+          - name: Clone ind
+            homepage_url: https://clone-ind.com/
+            logo: cloneInd.png
           - name: Courant
             homepage_url: https://www.mycourant.com/fr
             logo: courant.svg
@@ -312,6 +315,11 @@ categories:
             logo: accesService.png
             second_path: 
               - "Normandie / Calvados (14)"
+          - name: AccesCible
+            homepage_url: https://accescible.sitew.fr/
+            logo: accesCible.jpg
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Drôme (26)"
           - name: Accordes
             homepage_url: https://accordes.fr/
             logo: accordes.png
@@ -514,6 +522,11 @@ categories:
             logo: dgeAcrotech.png
             second_path: 
               - "Auvergne-Rhône-Alpes / Ain (01)"
+          - name: Diw'Access
+            homepage_url: https://florianchaussinand.wixsite.com/
+            logo: diwAccess.avif
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Drôme (26)"
           - name: Elevation Service
             homepage_url: https://www.elevation-service.fr/
             logo: elevationService.png
@@ -534,6 +547,11 @@ categories:
             logo: etna.jpg
             second_path: 
               - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
+          - name: Facchineri & Fils
+            homepage_url: https://facchineri-et-fils.fr/
+            logo: facchineri.png
+            second_path:  
+            - "Auvergne-Rhône-Alpes / Drôme (26)"
           - name: France Acrobatique
             homepage_url: https://france-acrobatique.fr/
             logo: franceAcrobatique.jpg
@@ -555,6 +573,11 @@ categories:
             second_path: 
               - "Auvergne-Rhône-Alpes / Drôme (26)"
               - "Grand Est / Moselle (57)"
+          - name: Green Rope
+            homepage_url: https://www.greenrope.fr/
+            logo: greenRope.avif
+            second_path: 
+              - "Île-de-France / Val-d'Oise (95)"
           - name: HAUTLINE 
             homepage_url: https://www.hautline.fr/
             logo: hautline.webp
@@ -562,6 +585,11 @@ categories:
               - "Hauts-de-France / Pas-de-Calais (62)"
             extra: 
               parent_project: Groupe Jarnias     
+          - name: Jura Gravité
+            homepage_url: https://www.jura-gravite.com/
+            logo: juraGravite.png
+            second_path: 
+              - "Bourgogne-Franche-Comté / Doubs (25)"     
           - name: L'antichute
             homepage_url: https://antichute.re/
             logo: lantichute.webp
@@ -581,7 +609,12 @@ categories:
             homepage_url: https://www.letoile-acrobat.fr
             logo: etoileAcrobat.png
             second_path: 
-              - "Corse / -"   
+              - "Corse / -"      
+          - name: life-line
+            homepage_url: https://www.life-line.fr/
+            logo: lifeLine.avif
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Drôme (26)"
           - name: MAD Services
             homepage_url: https://www.mad-services.fr/
             logo: madServices.jpeg
@@ -809,6 +842,11 @@ categories:
               - "Grand Est / Bas-Rhin (67)"
             extra: 
               parent_project: Groupe Accsys
+          - name: Verticad
+            homepage_url: https://www.verticad.fr/
+            logo: verticad.webp
+            second_path: 
+              - "Bourgogne-Franche-Comté / Doubs (25)"
           - name: Vertical-R
             homepage_url: https://vertical-r.com/
             logo: verticalR.png
@@ -873,6 +911,7 @@ categories:
             logo: acroSolution.png
             second_path:
               - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
+              - "Bourgogne-Franche-Comté / Doubs (25)"
           - name: Acrosys
             homepage_url: https://www.acrosys.eu
             logo: acrosys.png
@@ -1009,6 +1048,11 @@ categories:
             logo: gratteCiel.png
             second_path:
               - "Île-de-France / Hauts-de-Seine (92)"
+          - name: L'Octant
+            homepage_url: https://www.loctant.com/
+            logo: lOctant.gif
+            second_path:
+              - "Auvergne-Rhône-Alpes / Drôme (26)"
           - name: Les Alpinistes Associés
             homepage_url: https://www.alpinistes-associes.com/
             logo: lesAlpinistesAssocies.png
@@ -1051,11 +1095,21 @@ categories:
             second_path:
               - "Hauts-de-France / Nord (59)" 
               - "Formation / Centres" 
+          - name: Roc Aménagement
+            homepage_url: http://www.roc-entreprises.com/
+            logo: rocAmenagement.png
+            second_path:
+              - "Bourgogne-Franche-Comté / Doubs (25)"
           - name: Roc Confortation
             homepage_url: https://roc-confortation.fr/
             logo: rocConfortation.svg
             second_path:
               - "Centre-Val de Loire / Indre-et-Loire (37)"
+          - name: SCAD
+            homepage_url: https://scad-est.fr/
+            logo: scad.png
+            second_path:
+              - "Bourgogne-Franche-Comté / Doubs (25)"
           - name: Services Voltige
             homepage_url: https://www.voltige-services.com/
             logo: servicesVoltige.jpeg
@@ -1098,6 +1152,11 @@ categories:
             logo: sudAcrobatic.png
             second_path:
               - "Occitanie / Hérault (34)"
+          - name: Tetra
+            homepage_url: https://tetra.fr/
+            logo: tetra.png
+            second_path:
+              - "Bourgogne-Franche-Comté / Doubs (25)"     
           - name: TGH
             homepage_url: http://www.tgh.fr/
             logo: tgh.png
