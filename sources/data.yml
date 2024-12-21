@@ -345,6 +345,11 @@ categories:
             logo: acrobat.webp
             second_path: 
               - "Normandie / Seine-Maritime (76)"
+          - name: Acrobat Travaux
+            homepage_url: https://www.acrobat-travaux.com/
+            logo: acrobatTravaux.png
+            second_path: 
+              - "Occitanie / Haute-Garonne (31)"
           - name: Acrobatic
             homepage_url: https://www.acrobatic.fr/
             logo: acrobatic.png
@@ -391,7 +396,12 @@ categories:
             homepage_url: https://www.alpi-ouest.fr/
             logo: alpiOuest.webp
             second_path: 
-              - "Bretagne / Ile-et-Vilaine (35)"    
+              - "Bretagne / Ile-et-Vilaine (35)"   
+          - name: Alpibat Services
+            homepage_url: https://www.alpibat-services.fr/
+            logo: alpibatServices.avif
+            second_path: 
+              - "Occitanie / Gard (30)"    
           - name: Alpine Access
             homepage_url: https://alpine-access.fr
             logo: alpineAccess.jpg
@@ -442,6 +452,11 @@ categories:
             logo: apic.png
             second_path: 
               - "Île-de-France / Hauts-de-Seine (92)"
+          - name: Arakné
+            homepage_url: https://www.arakne-peinture.fr/
+            logo: arakne.png
+            second_path: 
+              - "Bretagne / Finistère (29)"
           - name: Art Camp'
             homepage_url: https://www.art-camp.com/
             logo: artCamp.png
@@ -461,12 +476,22 @@ categories:
             homepage_url: https://www.aloides-travaux.fr/
             logo: atx.png
             second_path: 
-              - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)" 
+              - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
+          - name: Axis Services
+            homepage_url: https://www.axis-services.fr/
+            logo: axisServices.png
+            second_path: 
+              - "Occitanie / Haute-Garonne (31)" 
           - name: B.C.S
             homepage_url: https://www.bcs-lyon.fr
             logo: bcs.jpg
             second_path: 
-              - "Auvergne-Rhône-Alpes / Rhône (69)"  
+              - "Auvergne-Rhône-Alpes / Rhône (69)" 
+          - name: Belvédère TSC
+            homepage_url: https://www.belvedere-tsc.com/
+            logo: belvedereTsc.png
+            second_path: 
+              - "Centre-Val de Loire / Eure-et-Loir (28)"  
           - name: Bourchanin
             homepage_url: https://www.bourchanin.fr/
             logo: bourchanin.webp
@@ -487,6 +512,11 @@ categories:
             logo: celticorde.webp
             second_path: 
               - "Bretagne / Ile-et-Vilaine (35)"
+          - name: Citad
+            homepage_url: https://citad.fr/
+            logo: citad.png
+            second_path: 
+              - "Occitanie / Gard (30)"
           - name: Cord'Attitude
             homepage_url: https://www.cordattitude.fr/
             logo: cordAttitude.png
@@ -589,7 +619,17 @@ categories:
             homepage_url: https://www.jura-gravite.com/
             logo: juraGravite.png
             second_path: 
-              - "Bourgogne-Franche-Comté / Doubs (25)"     
+              - "Bourgogne-Franche-Comté / Doubs (25)"
+          - name: Kordenn
+            homepage_url: https://www.kordenn.bzh/
+            logo: kordenn.png
+            second_path: 
+              - "Bretagne / Finistère (29)"
+          - name: KSTRUCTURE
+            homepage_url: https://www.kstructure.com/
+            logo: kstructure.png
+            second_path: 
+              - "Occitanie / Haute-Garonne (31)"     
           - name: L'antichute
             homepage_url: https://antichute.re/
             logo: lantichute.webp
@@ -609,7 +649,17 @@ categories:
             homepage_url: https://www.letoile-acrobat.fr
             logo: etoileAcrobat.png
             second_path: 
-              - "Corse / -"      
+              - "Corse / -"   
+          - name: Les Grimpeurs Tout-Terrain
+            homepage_url: https://www.lesgrimpeurstoutterrain.fr/
+            logo: lesGrimpeursToutTerrain.avif
+            second_path: 
+              - "Occitanie / Haute-Garonne (31)"
+          - name: Les Trois Mousquetons
+            homepage_url: https://lestroismousquetons.com/
+            logo: lesTroisMousquetons.png
+            second_path: 
+              - "Occitanie / Haute-Garonne (31)"
           - name: life-line
             homepage_url: https://www.life-line.fr/
             logo: lifeLine.avif
@@ -672,6 +722,11 @@ categories:
             logo: oco.webp
             second_path: 
               - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
+          - name: OS Habitat
+            homepage_url: https://os-habitat.fr/
+            logo: osHabitat.webp
+            second_path: 
+              - "Bretagne / Finistère (29)"
           - name: Ozé 
             homepage_url: https://www.oze05.fr
             logo: ozé.webp
@@ -878,6 +933,11 @@ categories:
             logo: vertika.png
             second_path: 
               - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
+          - name: Vid'Alpi
+            homepage_url: https://www.vidalpi.com/
+            logo: vidAlpi.avif
+            second_path: 
+              - "Centre-Val de Loire / Eure-et-Loir (28)"
           - name: Vitacro
             homepage_url: https://vitacro.fr/
             logo: vitacro.png
@@ -901,6 +961,11 @@ categories:
             logo: abts.jpg
             second_path:
               - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
+          - name: A.C.O
+            homepage_url: https://accesdifficiles.acotoulouse.com/
+            logo: aco.png
+            second_path:
+              - "Occitanie / Haute-Garonne (31)"
           - name: Acrobatica
             homepage_url: https://acrobatica.fr/
             logo: acrobatica.svg
@@ -917,6 +982,7 @@ categories:
             logo: acrosys.png
             second_path:
               - "Occitanie / Ariège (09)"
+              - "Occitanie / Haute-Garonne (31)"
               - "Formation / Centres"
           - name: Adrenaline
             homepage_url: https://adrenaline-ee.com/
@@ -996,7 +1062,12 @@ categories:
             second_path:
               - "Île-de-France / Essonne (91)"          
               - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"          
-              - "Outre-mer / Guyane"       
+              - "Outre-mer / Guyane"     
+          - name: Catra BTP
+            homepage_url: https://www.catrabtp.com/
+            logo: catraBtp.png
+            second_path:
+              - "Occitanie / Haute-Garonne (31)"       
           - name: Citem
             homepage_url: https://citem.fr
             logo: citem.png
@@ -1048,6 +1119,11 @@ categories:
             logo: gratteCiel.png
             second_path:
               - "Île-de-France / Hauts-de-Seine (92)"
+          - name: Hypogée MCB
+            homepage_url: https://www.facebook.com/HypogeeMCB/
+            logo: hypogeeMCB.png
+            second_path:
+              - "Occitanie / Gard (30)"
           - name: L'Octant
             homepage_url: https://www.loctant.com/
             logo: lOctant.gif
@@ -1123,6 +1199,7 @@ categories:
             logo: stam.png
             second_path:
               - "Nouvelle-Aquitaine / Corrèze (19)"
+              - "Occitanie / Haute-Garonne (31)"
           - name: Sky Scrapper
             homepage_url: https://skyscrapper.fr/
             logo: skyScrapper.avif
@@ -1173,6 +1250,11 @@ categories:
             logo: versant.png
             second_path:
               - "Île-de-France / Hauts-de-Seine (92)"
+          - name: Vertica
+            homepage_url: https://vertica.bzh/
+            logo: vertica.png
+            second_path:
+              - "Bretagne / Finistère (29)"
 
       - name: Grandes entreprises
         items: 
