@@ -11,6 +11,7 @@ categories:
       - name: Collectifs
         items: 
           - name: Collectif BTP autonome
+            description: PERMANENCES TOUS LES MERCREDIS 18H30-20H / 29 Bd Longchamps - 13001 Marseille
             homepage_url: https://www.facebook.com/people/Collectif-BTP-autonome/100089338942143
             logo: collectifBtpAutonome.jpg
             second_path:
@@ -21,6 +22,7 @@ categories:
             second_path:
               - "National / -"
           - name: Festival des Derniers de cordée
+            description: https://derniersdecordee.noblogs.org/pagina-di-esempio/
             homepage_url: https://derniersdecordee.noblogs.org
             logo: derniersDeCordee.jpg
             second_path:
@@ -38,6 +40,33 @@ categories:
             second_path:
               - "National / -"
       
+      - name: Livres
+        items:
+          - name: Un jour j'irai là-haut
+            description: Objet de solidarité, de diffusion de nos luttes, témoin des combats de travailleuses et travailleurs cordistes, Un jour, j'irai là-haut te tend les bras. Loin des bavardages oiseux et stériles, il te racontera des histoires vécues. Pleines de larmes et de douleurs. Pleines surtout de dignité et de combativité. Du concret et de l'humain, en direct de la vraie vie.
+            homepage_url: https://cordistesencolere.fr/boutique/
+            logo: unJourJirai.jpg
+          - name: On a perdu Quentin
+            description: Mercredi 21 juin 2017. Il est 12h30. Éric Louis est d'après-midi sur le site industriel de Cristanol à Bazancourt.
+            homepage_url: https://www.editionsducommun.org/collections/all/products/on-a-perdu-quentin-eric-louis
+            logo: onAPerduQuentin.webp
+          - name: L'Hécatombe invisible
+            description: Ils s'appelaient Michel, Harouna, Franck, Romain, Hugo, Christiane, Yucel ou encore Teddy. Ils étaient ouvriers, travailleurs indépendants, apprentis, parfois même stagiaires. Tous ont en commun d'avoir perdu la vie dans l'exercice ou l'apprentissage de leur métier.
+            homepage_url: https://www.seuil.com/ouvrage/l-hecatombe-invisible-matthieu-lepine/9782021517385
+            logo: hecatombeInvisible.jpg
+
+      - name: Documentaires
+        items: 
+          - name: Cordiste, une profession mortelle
+            description: Le géant du sucre Cristal Union et son prestataire de nettoyage sont jugés aujourd'hui au tribunal correctionnel de Reims sept ans après la mort de deux cordistes ensevelis dans un silo. Reporterre a enquêté sur ces accidents mortels.
+            homepage_url: https://www.youtube.com/watch?v=XJnAld3nL7A
+            logo: cordisteUneProfessionMortelle.png
+          - name: "Régis, mort au travail : la situation dramatique des cordsites"
+            description: Une histoire dramatique. Un homme, un ouvrier, est mort au travail le 27 août 2018 dans le Parc naturel de la Brague, dans les Alpes-Maritimes. On lui avait demandé de manipuler un explosif, dans des conditions qui à l'évidence relèvent des dysfonctionnements. Régis Brugière avait 38 ans, le jour de l'accident. Il était père de famille, papa de deux enfants.               
+            homepage_url: https://www.youtube.com/watch?v=TJ9yilKoMHM
+            logo: regisBlast.jpeg
+            
+
       - name: Réseaux sociaux
         items: 
           - name: je suis cordiste et j'ai des trucs à dire
@@ -300,6 +329,11 @@ categories:
         
       - name: Petites entreprises
         items: 
+          - name: 2KM Travaux en Hauteur
+            homepage_url: https://2km.fr/
+            logo: 2KM.webp
+            second_path: 
+              - "Occitanie / Hérault (34)"
           - name: 7ème Ciel
             homepage_url: https://www.7-ciel.net/
             logo: 7emeCiel.png
@@ -315,6 +349,11 @@ categories:
             logo: accesService.png
             second_path: 
               - "Normandie / Calvados (14)"
+          - name: Accès Verticaux
+            homepage_url: https://www.accesverticaux.com/
+            logo: accesVerticaux.webp
+            second_path: 
+              - "Occitanie / Hérault (34)"
           - name: AccesCible
             homepage_url: https://accescible.sitew.fr/
             logo: accesCible.jpg
@@ -417,6 +456,16 @@ categories:
             logo: alpiTech.png
             second_path: 
               - "Provence-Alpes-Côte d'Azur / Hautes-Alpes (05)"
+          - name: Alt'Accro Services
+            homepage_url: https://altaccroservices.fr/
+            logo: altAccroServices.jpg
+            second_path: 
+              - "Occitanie / Hérault (34)"
+          - name: Alteo
+            homepage_url: https://www.alteo-acro.com/
+            logo: alteo.jpg
+            second_path: 
+              - "Occitanie / Hérault (34)"
           - name: Alternative Cordes
             homepage_url: https://www.alternativecordes.fr/
             logo: alternativeCordes.png
@@ -451,7 +500,12 @@ categories:
             homepage_url: http://apic-sa.fr/
             logo: apic.png
             second_path: 
-              - "Île-de-France / Hauts-de-Seine (92)"
+              - "Île-de-France / Hauts-de-Seine (92)"  
+          - name: Aquitaine Ascension BTP
+            homepage_url: https://aabtp.fr/
+            logo: aabtp.png
+            second_path: 
+              - "Nouvelle-Aquitaine / Gironde (33)"
           - name: Arakné
             homepage_url: https://www.arakne-peinture.fr/
             logo: arakne.png
@@ -512,6 +566,12 @@ categories:
             logo: celticorde.webp
             second_path: 
               - "Bretagne / Ile-et-Vilaine (35)"
+          - name: Centre Accès
+            homepage_url: https://www.centreacces.com/
+            logo: centreAcces.jpg
+            second_path: 
+              - "Occitanie / Hérault (34)"
+              - "Auvergne-Rhône-Alpes / Puy-de-Dôme (63)"
           - name: Citad
             homepage_url: https://citad.fr/
             logo: citad.png
@@ -587,6 +647,11 @@ categories:
             logo: franceAcrobatique.jpg
             second_path:  
               - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
+          - name: Francillon
+            homepage_url: https://francillon-cordiste-elagueur.fr/
+            logo: francillon.png
+            second_path:  
+              - "Nouvelle-Aquitaine / Gironde (33)"
           - name: Franck Leger
             homepage_url: https://www.facebook.com/profile.php?id=100090086675603
             logo: franckLeger.jpg
@@ -597,6 +662,11 @@ categories:
             logo: fmi.png
             second_path: 
               - "Île-de-France / Val-de-Marne (94)"
+          - name: GAT Solutions
+            homepage_url: https://gat-solutions.com/
+            logo: gatSolutions.png
+            second_path: 
+              - "Nouvelle-Aquitaine / Gironde (33)"
           - name: Green'Up
             homepage_url: https://greenup-cordiste.com/
             logo: greenUp.png
@@ -634,7 +704,12 @@ categories:
             homepage_url: https://antichute.re/
             logo: lantichute.webp
             second_path: 
-              - "Outre-mer / La Réunion"
+              - "Outre-mer / La Réunion"   
+          - name: L'étoile Acrobat
+            homepage_url: https://www.letoile-acrobat.fr
+            logo: etoileAcrobat.png
+            second_path:
+              - "Corse / -"   
           - name: Les Cordes Briançonnaises
             homepage_url: https://www.les-cordes-brianconnaises.fr/
             logo: lesCordesBriançonnaises.png
@@ -644,17 +719,17 @@ categories:
             homepage_url: https://www.lescordistesdelouest.fr/
             logo: lesCordistesdeLouest.png
             second_path: 
-              - "Bretagne / Morbihan (56)"   
-          - name: L'étoile Acrobat
-            homepage_url: https://www.letoile-acrobat.fr
-            logo: etoileAcrobat.png
-            second_path: 
-              - "Corse / -"   
+              - "Bretagne / Morbihan (56)"
           - name: Les Grimpeurs Tout-Terrain
             homepage_url: https://www.lesgrimpeurstoutterrain.fr/
             logo: lesGrimpeursToutTerrain.avif
             second_path: 
               - "Occitanie / Haute-Garonne (31)"
+          - name: Les Hommes du Vide
+            homepage_url: https://www.leshommesduvide.com/
+            logo: lesHommesDuVide.avif
+            second_path: 
+              - "Nouvelle-Aquitaine / Gironde (33)"
           - name: Les Trois Mousquetons
             homepage_url: https://lestroismousquetons.com/
             logo: lesTroisMousquetons.png
@@ -813,6 +888,16 @@ categories:
             logo: spiderColor.jpeg
             second_path: 
               - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
+          - name: STAC
+            homepage_url: https://www.stacmtp.fr/
+            logo: stac.avif
+            second_path: 
+              - "Occitanie / Hérault (34)"
+          - name: STAIPH
+            homepage_url: https://soctravauxacrobintervproblhauteur.site-solocal.com/
+            logo: staiph.webp
+            second_path: 
+              - "Nouvelle-Aquitaine / Gironde (33)"
           - name: STH
             homepage_url: https://sth-normandie.fr/
             logo: sth.png
@@ -823,6 +908,11 @@ categories:
             logo: sudAcrobatique.avif
             second_path: 
               - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
+          - name: Sud Vertical
+            homepage_url: https://sudvertical.com/
+            logo: sudVertical.jpg
+            second_path: 
+              - "Occitanie / Hérault (34)"
           - name: Skyline-Base
             homepage_url: https://www.skyline-base.fr/
             logo: skylineBase.png
@@ -907,6 +997,11 @@ categories:
             logo: verticalR.png
             second_path: 
               - "Normandie / Eure (27)"
+          - name: Vertical Accès
+            homepage_url: http://www.vertical-acces.fr/
+            logo: verticalAcces.jpg
+            second_path: 
+              - "Occitanie / Hérault (34)"
           - name: Vertical Concept
             homepage_url: https://verticalconcept.fr/
             logo: verticalConcept.svg
@@ -991,6 +1086,11 @@ categories:
               - "National / -"
             extra:
               facebook_url: https://www.facebook.com/adrenaline.cordiste.ee
+          - name: Adret France
+            homepage_url: https://www.adretfrance.fr/
+            logo: adret.jpg
+            second_path:
+              - "Nouvelle-Aquitaine / Gironde (33)"
           - name: ALTi CiTY
             homepage_url: https://www.alticity.eu
             logo: altiCity.png
@@ -1098,7 +1198,12 @@ categories:
             homepage_url: https://everest-travaux.com/
             logo: everest.png
             second_path:
-              - "Auvergne-Rhône-Alpes / Rhône (69)"    
+              - "Auvergne-Rhône-Alpes / Rhône (69)"
+          - name: Extrem
+            homepage_url: https://www.extrem-sarl.com/
+            logo: extrem.gif
+            second_path:
+              - "Nouvelle-Aquitaine / Gironde (33)"    
           - name: Fil A Plomb
             homepage_url: https://filaplomb.wixsite.com
             logo: filAPlomb.avif
