@@ -419,17 +419,26 @@ categories:
             logo: acrosystems.webp
             second_path: 
               - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
-          - name: Acrotempo
-            homepage_url: https://acrotempo.fr/
-            logo: acrotempo.png
+          - name: Acrowatt
+            homepage_url: http://www.acrowatt.fr/
+            logo: acrowatt.svg
             second_path: 
-              - "Occitanie / Gers (32)"
-              - "Occitanie / Pyrénées-Atlantiques (64)"
+              - "Auvergne-Rhône-Alpes / Isère (38)"
           - name: Action Altitude
             homepage_url: https://www.action-altitude.fr/
             logo: actionAltitude.jpg
             second_path: 
               - "Pays de la Loire / Maine-et-Loire (49)"
+          - name: AgilBat
+            homepage_url: https://www.agilbat.fr/
+            logo: agilBat.jpg
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Isère (38)"
+          - name: Alp'Ime
+            homepage_url: https://www.alpime.com/
+            logo: alpIme.jpg
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Isère (38)"
           - name: Alpinistes Accès Services
             homepage_url: https://a-a-s.fr/
             logo: aas.png
@@ -475,6 +484,16 @@ categories:
             logo: alternativeCordes.png
             second_path: 
               - "Bourgogne-Franche-Comté / Côte-d'Or (21)"
+          - name: Alti Services
+            homepage_url: https://www.altiservices.net/
+            logo: altiServices.avif
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Isère (38)"
+          - name: Altimaitre
+            homepage_url: https://www.altimaitre-travaux.fr/
+            logo: altimaitre.webp
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Isère (38)"
           - name: Altitech
             homepage_url: https://altitech.fr/lentreprise/
             logo: altitech.jpeg
@@ -489,7 +508,12 @@ categories:
             homepage_url: http://www.altitude-construction.com/
             logo: altitudeConstruction.png
             second_path: 
-              - "Auvergne-Rhône-Alpes / Haute-Savoie (74)"  
+              - "Auvergne-Rhône-Alpes / Haute-Savoie (74)"
+          - name: Altitude Océane
+            homepage_url: https://www.altitudeoceane.com/
+            logo: altitudeOceane.avif
+            second_path: 
+              - "Nouvelle-Aquitaine / Landes (40)"  
           - name: Anapurna
             homepage_url: https://www.anapurna-35.fr/
             logo: anapurna.png
@@ -616,6 +640,11 @@ categories:
             logo: cts.avif
             second_path: 
               - "Occitanie / Lot (46)"
+          - name: Delta Acro
+            homepage_url: https://www.delta-acro.fr/
+            logo: deltaAcro.png
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Isère (38)"
           - name: DGE Acrotech
             homepage_url: https://www.facebook.com/Dge.acrotech
             logo: dgeAcrotech.png
@@ -646,6 +675,11 @@ categories:
             logo: etna.jpg
             second_path: 
               - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
+          - name: EURL Cordage
+            homepage_url: https://www.eurl-cordage.fr/
+            logo: eurlCordage.png
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Isère (38)"
           - name: Facchineri & Fils
             homepage_url: https://facchineri-et-fils.fr/
             logo: facchineri.png
@@ -693,7 +727,17 @@ categories:
             second_path: 
               - "Hauts-de-France / Pas-de-Calais (62)"
             extra: 
-              parent_project: Groupe Jarnias     
+              parent_project: Groupe Jarnias
+          - name: IFAC
+            homepage_url: https://www.ifac-securite.fr/
+            logo: ifac.png
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Isère (38)"
+          - name: Inter Faces 
+            homepage_url: https://inter-faces.fr/
+            logo: interfaces.png
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Isère (38)"     
           - name: Jura Gravité
             homepage_url: https://www.jura-gravite.com/
             logo: juraGravite.png
@@ -765,6 +809,11 @@ categories:
             logo: mcf.png
             second_path: 
               - "Normandie / Calvados (14)"
+          - name: Michel Girard
+            homepage_url: https://www.michel-girard.fr/
+            logo: michelGirard.jpg
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Isère (38)"
           - name: Midi Cordes
             homepage_url: https://midicordes.com/
             logo: midiCordes.png
@@ -1006,6 +1055,16 @@ categories:
             logo: verticad.webp
             second_path: 
               - "Bourgogne-Franche-Comté / Doubs (25)"
+          - name: Vercors Lavage de Vitres 
+            homepage_url: https://www.lavage-vitres-grenoble-vercors.com/
+            logo: vercorsLavageDeVitres.avif
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Isère (38)"
+          - name: Vertaco
+            homepage_url: https://www.vertaco-cordiste.fr/
+            logo: vertaco.webp
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Isère (38)"
           - name: Vertical-R
             homepage_url: https://vertical-r.com/
             logo: verticalR.png
@@ -1052,6 +1111,11 @@ categories:
             logo: vitacro.png
             second_path: 
               - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
+          - name: VTA
+            homepage_url: https://www.vta38.com/
+            logo: vta38.png
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Isère (38)"
           - name: Yann Plan
             homepage_url: https://www.yannplan.fr/
             logo: yannPlan.png
@@ -1086,6 +1150,11 @@ categories:
             second_path:
               - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
               - "Bourgogne-Franche-Comté / Doubs (25)"
+          - name: Acro-Pôles
+            homepage_url: http://acro-poles.com/
+            logo: acropoles.png
+            second_path:
+              - "Auvergne-Rhône-Alpes / Isère (38)"
           - name: Acrosys
             homepage_url: https://www.acrosys.eu
             logo: acrosys.png
@@ -1093,6 +1162,13 @@ categories:
               - "Occitanie / Ariège (09)"
               - "Occitanie / Haute-Garonne (31)"
               - "Formation / Centres"
+          - name: Acrotempo
+            homepage_url: https://acrotempo.fr/
+            logo: acrotempo.png
+            second_path: 
+              - "Bourgogne-Franche-Comté / Jura (39)"
+              - "Occitanie / Gers (32)"
+              - "Occitanie / Pyrénées-Atlantiques (64)"
           - name: Adrenaline
             homepage_url: https://adrenaline-ee.com/
             logo: adrenaline.png
@@ -1223,6 +1299,11 @@ categories:
             logo: filAPlomb.avif
             second_path:
               - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
+          - name: FTTA
+            homepage_url: https://www.ftta.fr/
+            logo: ftta.png
+            second_path:
+              - "Bourgogne-Franche-Comté / Jura (39)"
           - name: GGM Travaux Acrobatiques
             homepage_url: https://www.ggm-travaux-acrobatiques.fr
             logo: ggm.png
@@ -1258,18 +1339,11 @@ categories:
             logo: lcdp.jpg
             second_path:
               - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
-          - name: Peretti Travaux Spéciaux
-            homepage_url: https://www.facebook.com/p/Peretti-Travaux-Speciaux-100076057965812/
-            logo: peretti.jpg
+          - name: MB2A
+            homepage_url: https://www.travaux-grande-hauteur.com/
+            logo: mb2a.png
             second_path:
-              - "Corse / "
-          - name: Profil
-            homepage_url: https://profil-acro.fr
-            logo: profil.png
-            second_path:
-              - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
-            extra: 
-              parent_project: Groupe Jarnias
+              - "Auvergne-Rhône-Alpes / Isère (38)"
           - name: Nord Accès Difficle
             homepage_url: https://www.nord-acces-difficiles.fr/
             logo: nordAccesDifficiles.jpg
@@ -1284,11 +1358,28 @@ categories:
               - "National / -"
             extra: 
               parent_project: Groupe NA
+          - name: Peretti Travaux Spéciaux
+            homepage_url: https://www.facebook.com/p/Peretti-Travaux-Speciaux-100076057965812/
+            logo: peretti.jpg
+            second_path:
+              - "Corse / -"
+          - name: Prism
+            homepage_url: https://prism-color.fr/
+            logo: prism.webp
+            second_path:
+              - "Auvergne-Rhône-Alpes / Isère (38)"
+          - name: Profil
+            homepage_url: https://profil-acro.fr
+            logo: profil.png
+            second_path:
+              - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
+            extra: 
+              parent_project: Groupe Jarnias
           - name: Réseau Jade
             homepage_url: https://reseau-jade.com
             logo: reseauJade.png
             second_path:
-              - "Hauts-de-France / Nord (59)" 
+              - "National / -" 
               - "Formation / Centres" 
           - name: Roc Aménagement
             homepage_url: http://www.roc-entreprises.com/
@@ -1426,6 +1517,11 @@ categories:
           - name: Hydrokarst
             homepage_url: https://hydrokarst.fr/
             logo: hydrokarst.jpeg
+            second_path:
+              - "National / -"
+          - name: NGE Fondations
+            homepage_url: https://nge-fondations.fr/nge_service/travaux-dacces-difficile/
+            logo: ngeFondations.png
             second_path:
               - "National / -"
           - name: Ouest Acro
