@@ -54,6 +54,10 @@ categories:
             description: Ils s'appelaient Michel, Harouna, Franck, Romain, Hugo, Christiane, Yucel ou encore Teddy. Ils étaient ouvriers, travailleurs indépendants, apprentis, parfois même stagiaires. Tous ont en commun d'avoir perdu la vie dans l'exercice ou l'apprentissage de leur métier.
             homepage_url: https://www.seuil.com/ouvrage/l-hecatombe-invisible-matthieu-lepine/9782021517385
             logo: hecatombeInvisible.jpg
+          - name: The Housing Monter
+            description: Une maison, ce n'est pas seulement quatre murs et un toit. Depuis sa conception et sa production jusqu'à la façon dont elle vendue, habitée, revendue et finalement démolie, cette baraque ne cesse d'être traversée par des conflits. Depuis le travail sur le chantier jusqu'au quotidien du quartier, forces économiques impersonnelles et conflits très personnels se nourrissent mutuellement. Du béton, de la ferraille, du bois et des clous. De la frustration, de la colère, de la rancœur et du désespoir. Les tragédies individuelles reflètent une tragédie sociale infiniment plus large. 
+            homepage_url: https://niet-editions.fr/catalogue/the-housing-monster/ 
+            logo: theHousingMonster.jpg
 
       - name: Documentaires
         items: 
@@ -476,6 +480,11 @@ categories:
             logo: altitech.jpeg
             second_path: 
               - "Auvergne-Rhône-Alpes / Ain (01)"   
+          - name: Altitude 37
+            homepage_url: https://altitude37.fr/
+            logo: altitude37.png
+            second_path: 
+              - "Centre-Val de Loire / INdre-et-Loire (37)"
           - name: Altitude Construction
             homepage_url: http://www.altitude-construction.com/
             logo: altitudeConstruction.png
@@ -690,6 +699,11 @@ categories:
             logo: juraGravite.png
             second_path: 
               - "Bourgogne-Franche-Comté / Doubs (25)"
+          - name: Kanope
+            homepage_url: http://www.kanopeweb.com/
+            logo: kanope.gif
+            second_path: 
+              - "Centre-Val de Loire / Indre-et-Loire (37)"
           - name: Kordenn
             homepage_url: https://www.kordenn.bzh/
             logo: kordenn.png
