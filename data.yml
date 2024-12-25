@@ -383,6 +383,21 @@ categories:
             logo: accrocheNet.png
             second_path: 
               - "Bretagne / Ile-et-Vilaine (35)"
+          - name: Acro Tec
+            homepage_url: https://www.acrotec-travauxacrobatiques.com/
+            logo: acroTec.png
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Loire (42)"
+          - name: Acro-Bat-JP
+            homepage_url: https://acrobatjp.jimdofree.com/
+            logo: acroBatJp.jpg
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Loire (42)"
+          - name: Acro-Loire
+            homepage_url: https://www.acro-loire.fr/
+            logo: acroLoire.png
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Loire (42)"
           - name: Acrobat
             homepage_url: https://acrobat.fr/
             logo: acrobat.webp
@@ -439,6 +454,16 @@ categories:
             logo: alpIme.jpg
             second_path: 
               - "Auvergne-Rhône-Alpes / Isère (38)"
+          - name: Alpi Job
+            homepage_url: https://alpijob.fr/
+            logo: alpiJob.png
+            second_path: 
+              - "Pays de la Loire / Loire-Atlantique (44)"
+          - name: Alpiniste Ouest Sécurité
+            homepage_url: http://www.alpinisteouestsecurite.com/
+            logo: aos.png
+            second_path: 
+              - "Pays de la Loire / Loire-Atlantique (44)"
           - name: Alpinistes Accès Services
             homepage_url: https://a-a-s.fr/
             logo: aas.png
@@ -489,6 +514,11 @@ categories:
             logo: altiServices.avif
             second_path: 
               - "Auvergne-Rhône-Alpes / Isère (38)"
+          - name: Altibati
+            homepage_url: https://altibati.fr/
+            logo: altibati.png
+            second_path: 
+              - "Occitanie / Lot (46)"
           - name: Altimaitre
             homepage_url: https://www.altimaitre-travaux.fr/
             logo: altimaitre.webp
@@ -503,7 +533,7 @@ categories:
             homepage_url: https://altitude37.fr/
             logo: altitude37.png
             second_path: 
-              - "Centre-Val de Loire / INdre-et-Loire (37)"
+              - "Centre-Val de Loire / Indre-et-Loire (37)"
           - name: Altitude Construction
             homepage_url: http://www.altitude-construction.com/
             logo: altitudeConstruction.png
@@ -529,6 +559,11 @@ categories:
             logo: antecime.webp
             second_path: 
               - "Île-de-France / Val-de-Marne (94)"    
+          - name: API Evolution
+            homepage_url: https://www.travaux-en-hauteur.net/
+            logo: apiEvolution.avif
+            second_path: 
+              - "Centre Val-de-Loire / Loiret (45)"  
           - name: APIC
             homepage_url: http://apic-sa.fr/
             logo: apic.png
@@ -549,11 +584,21 @@ categories:
             logo: artCamp.png
             second_path: 
               - "Bretagne / Côtes-d'Armor (22)"
+          - name: Artech Services
+            homepage_url: https://www.artechservices.fr/
+            logo: artechServices.png
+            second_path: 
+              - "Centre Val-de-Loire / Loir-et-Cher (41)"
           - name: ATA
             homepage_url: http://www.ata-ezagouri.fr/
             logo: ata.png
             second_path: 
               - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
+          - name: Atout Cordes
+            homepage_url: https://atoutcordes.fr/
+            logo: atoutCordes.jpg
+            second_path: 
+              - "Nouvelle-Aquitaine / Lot-et-Garonne (47)"
           - name: A.T.S
             homepage_url: https://www.ats-accessibilite.com/
             logo: ats.jpg
@@ -564,6 +609,11 @@ categories:
             logo: atx.png
             second_path: 
               - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
+          - name: AVR-cordistes
+            homepage_url: https://avr-cordistes.fr/
+            logo: avr.jpg
+            second_path: 
+              - "Pays de la Loire / Loire-Atlantique (44)"
           - name: Axis Services
             homepage_url: https://www.axis-services.fr/
             logo: axisServices.png
@@ -655,6 +705,11 @@ categories:
             logo: diwAccess.avif
             second_path: 
               - "Auvergne-Rhône-Alpes / Drôme (26)"
+          - name: DMTSC
+            homepage_url: https://dmtsc.fr/
+            logo: dmtsc.jpg
+            second_path: 
+              - "Pays de la Loire / Loire-Atlantique (44)"
           - name: Elevation Service
             homepage_url: https://www.elevation-service.fr/
             logo: elevationService.png
@@ -680,6 +735,11 @@ categories:
             logo: eurlCordage.png
             second_path: 
               - "Auvergne-Rhône-Alpes / Isère (38)"
+          - name: ExtremWork
+            homepage_url: http://www.extremwork.net/
+            logo: extremWork.webp
+            second_path: 
+              - "Centre Val-de-Loire / Indre-et-Loire (37)"
           - name: Facchineri & Fils
             homepage_url: https://facchineri-et-fils.fr/
             logo: facchineri.png
@@ -728,6 +788,11 @@ categories:
               - "Hauts-de-France / Pas-de-Calais (62)"
             extra: 
               parent_project: Groupe Jarnias
+          - name: Hinovéo
+            homepage_url: https://www.hinoveo.com/
+            logo: hinoveo.jpeg
+            second_path: 
+              - "Pays de la Loire / Loire-Atlantique (44)"
           - name: IFAC
             homepage_url: https://www.ifac-securite.fr/
             logo: ifac.png
@@ -768,6 +833,11 @@ categories:
             logo: etoileAcrobat.png
             second_path:
               - "Corse / -"   
+          - name: La Corde Nantaise
+            homepage_url: https://www.lacordenantaise.com/
+            logo: laCordeNantaise.jpeg
+            second_path: 
+              - "Pays de la Loire / Loire-Atlantique (44)"
           - name: Les Cordes Briançonnaises
             homepage_url: https://www.les-cordes-brianconnaises.fr/
             logo: lesCordesBriançonnaises.png
@@ -798,6 +868,11 @@ categories:
             logo: lifeLine.avif
             second_path: 
               - "Auvergne-Rhône-Alpes / Drôme (26)"
+          - name: Loire Travaux Spéciaux
+            homepage_url: https://travaux-acces-difficiles.info/
+            logo: loireTravauxSpeciaux.png
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Loire (42)"
           - name: MAD Services
             homepage_url: https://www.mad-services.fr/
             logo: madServices.jpeg
@@ -886,6 +961,11 @@ categories:
             second_path: 
               - "Auvergne-Rhône-Alpes / Haute-Savoie (74)"
               - "Formation / Centres"
+          - name: PCSE
+            homepage_url: https://www.pc-se.fr/
+            logo: pcse.png
+            second_path: 
+              - "Centre-Val de Loire / Loir-et-Cher (41)"
           - name: Pons
             homepage_url: https://ponstravaux.fr/
             logo: pons.webp
@@ -916,26 +996,36 @@ categories:
             logo: pythonHauteur.jpg
             second_path: 
               - "Île-de-France / Val-de-Marne (94)"
+          - name: Reflex Acro
+            homepage_url: https://www.facebook.com/reflexacro/?locale=fr_FR
+            logo: reflexAcro.png
+            second_path:
+              - "Auvergne-Rhône-Alpes / Loire (42)"
           - name: ROPES
             homepage_url: https://ropes.fr/
             logo: ropes.png
             second_path:
               - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
-          - name: Services Acro Alsace
-            homepage_url: https://servicesacroalsace.fr/
-            logo: servicesAcroAlsace.png
-            second_path: 
-              - "Grand Est / Bas-Rhin (67)"
           - name: RTS 
             homepage_url: https://rts-travaux.com
             logo: rts.jpg
             second_path: 
               - "Occitanie / Lot (46)"
+          - name: Services Acro Alsace
+            homepage_url: https://servicesacroalsace.fr/
+            logo: servicesAcroAlsace.png
+            second_path: 
+              - "Grand Est / Bas-Rhin (67)"
           - name: SAD & S
             homepage_url: https://www.sadesexpertise.com/
             logo: sadS.png
             second_path: 
               - "Occitanie / Ariège (09)"
+          - name: Silo Clean Services
+            homepage_url: https://silo-clean-services.fr/
+            logo: siloCleanServices.jpg
+            second_path: 
+              - "Pays de la Loire / Loire-Atlantique (44)"
           - name: So'o
             homepage_url: https://www.facebook.com/soo.multiservices/
             logo: soo.jpg
@@ -951,6 +1041,11 @@ categories:
             logo: spiderColor.jpeg
             second_path: 
               - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
+          - name: ST Services
+            homepage_url: https://www.stservices-travauxhauteur.com/
+            logo: stServices.png
+            second_path: 
+              - "Pays de la Loire / Loire-Atlantique (44)"
           - name: STAC
             homepage_url: https://www.stacmtp.fr/
             logo: stac.avif
@@ -1075,6 +1170,11 @@ categories:
             logo: verticalAcces.jpg
             second_path: 
               - "Occitanie / Hérault (34)"
+          - name: Vertical Access
+            homepage_url: https://vertical-access.fr/
+            logo: verticalAccess.webp
+            second_path: 
+              - "Pays de la Loire / Loire-Atlantique (44)"
           - name: Vertical Concept
             homepage_url: https://verticalconcept.fr/
             logo: verticalConcept.svg
@@ -1339,6 +1439,11 @@ categories:
             logo: lcdp.jpg
             second_path:
               - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
+          - name: Les Gars du Vide
+            homepage_url: https://www.lesgarsduvide.com/
+            logo: lesGarsDuVide.png
+            second_path:
+              - "Auvergne-Rhône-Alpes / Haute-Loire (43)"
           - name: MB2A
             homepage_url: https://www.travaux-grande-hauteur.com/
             logo: mb2a.png
@@ -1358,6 +1463,11 @@ categories:
               - "National / -"
             extra: 
               parent_project: Groupe NA
+          - name: Ozone Travaux Spéciaux
+            homepage_url: https://ozone-ts.fr/
+            logo: ozone.png
+            second_path:
+              - "Occitanie / Pyrénées-Orientales (66)"
           - name: Peretti Travaux Spéciaux
             homepage_url: https://www.facebook.com/p/Peretti-Travaux-Speciaux-100076057965812/
             logo: peretti.jpg
@@ -1404,10 +1514,16 @@ categories:
               - "Normandie / Seine-Maritime (76)"
             extra: 
               parent_project: Groupe NA 
+          - name: SILOnet
+            homepage_url: http://www.silonet.fr/
+            logo: silonet.jpg
+            second_path:
+              - "Pays de la Loire / Loire-Atlantique (44)"
           - name: STAM
             homepage_url: https://stam.fr/
             logo: stam.png
             second_path:
+              - "Auvergne-Rhône-Alpes / Haute-Loire (43)"
               - "Nouvelle-Aquitaine / Corrèze (19)"
               - "Occitanie / Haute-Garonne (31)"
           - name: Sky Scrapper
@@ -1517,6 +1633,11 @@ categories:
           - name: Hydrokarst
             homepage_url: https://hydrokarst.fr/
             logo: hydrokarst.jpeg
+            second_path:
+              - "National / -"
+          - name: Mistras
+            homepage_url: https://mistrasgroup.fr/prestation-de-service/travaux-sur-cordes/
+            logo: mistras.png
             second_path:
               - "National / -"
           - name: NGE Fondations
