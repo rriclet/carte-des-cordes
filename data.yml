@@ -17,6 +17,7 @@ categories:
             second_path:
               - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
           - name: Cordistes en colère
+            description: Quand des cordistes, des anciens cordistes, des formateurs, des avocats, des journalistes, des inspecteurs du travail, des proches de victimes d'accidents mortels se croisent, qu'est-ce qu'ils se racontent ? Des histoires d'association… Et qu'est-ce qu'ils font ? Ils fondent une association. Au vu de la colère, de l'indignation, de la volonté d'agir, des revendications, des alertes, de l'envie de solidarité qui transparaissent dans les publications de cette page, on devrait crouler sous les adhésions. Mais ne vous inquiétez pas, nous saurons être forts.
             homepage_url: https://cordistesencolere.fr/
             logo: cordistesEnColere.jpg
             second_path:
@@ -73,7 +74,15 @@ categories:
 
       - name: Réseaux sociaux
         items: 
+          - name: Cordiste for life.
+            description: Sont les bienvenus tout les amoureux de la corde, montrez-le !!!
+            homepage_url: https://www.facebook.com/groups/cordiste
+            logo: facebook.png
+            second_path:
+              - "National / -"
           - name: je suis cordiste et j'ai des trucs à dire
+            description: |
+              Espace d'échanges et de discussions sur tout ce qui touche les métiers de la corde. Partages d'expériences, conseils, témoignages. Par et pour les cordistes, sans pubs ni annonces de recrutement. Une rubrique « Annonces » (a gauche de l'écran) regroupe les publications les plus pertinentes, Faites y un tour.
             homepage_url: https://www.facebook.com/groups/jesuiscordiste/
             logo: facebook.png
             second_path:
@@ -261,6 +270,7 @@ categories:
           - name: Teufelberger
             homepage_url: https://www.teufelberger.com/
             logo: teufelberger.png
+            
       - name: Gestion
         items: 
           - name: OpenSafe
@@ -271,6 +281,10 @@ categories:
             homepage_url: https://www.registre-epi.com
             logo: registreEpi.png
             description: Registre-EPI peut vous proposer des solutions de pucage pour faciliter la gestion de vos EPI
+          - name: Scannable
+            homepage_url: https://www.scannable.io/
+            logo: scannable.jpg
+            description: Outil de gestion des EPI gratuit pour les particuliers
 
   - name: Employeurs
     subcategories:
@@ -1551,21 +1565,35 @@ categories:
             extra: 
               parent_project: CAN    
           - name: Sud Acrobatic
+            description: |
+              06/03/2018 : Décès de Mickaël Beccavin
+            extra:
+              other_links:
+                - name: Accident 06/03/2018
+                  url: https://cordistesencolere.fr/dans-la-presse/accidents-de-travail/mickael-sud-acrobatic/   
             homepage_url: https://www.sud-acrobatic.com
             logo: sudAcrobatic.png
             second_path:
               - "Occitanie / Hérault (34)"
+              - 2018 / -
           - name: Tetra
             homepage_url: https://tetra.fr/
             logo: tetra.png
             second_path:
               - "Bourgogne-Franche-Comté / Doubs (25)"     
           - name: TGH
+            description: |
+              09/2019 : Décès de Ambroise
+            extra: 
+              other_links: 
+                - name: Accident 09/2019
+                  url: https://cordistesencolere.fr/2019/09/08/ambroise-un-nouveau-collegue-mort-au-travail/
             homepage_url: http://www.tgh.fr/
             logo: tgh.png
             second_path:
               - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
               - "Provence-Alpes-Côte d'Azur / Vaucluse (84)"
+              - "2019 / -"
           - name: Traforex
             homepage_url: https://www.facebook.com/Traforex/
             logo: traforex.jpeg
@@ -1592,17 +1620,30 @@ categories:
             extra: 
               parent_project: Groupe Jarnias  
           - name: CAN
+            description: |
+              27/08/2018 : Décès de Régis
+            extra:
+              other_links:
+                - name: Accident 27/08/2018
+                  url: https://cordistesencolere.fr/2018/08/28/presse-un-ouvrier-tue-par-lexplosion-dun-rocher/ 
+              parent_project: Groupe CAN
             homepage_url: https://www.can.fr
             logo: can.jpeg
             second_path:
               - "National / -"
-            extra: 
-              parent_project: Groupe CAN
+              - "2018 / -"
           - name: Garelli Travaux Publics
+            description: |
+              20/08/2018 : Décès de François Chirat
+            extra:
+              other_links:
+                - name: Accident 20/08/2018
+                  url: https://cordistesencolere.fr/dans-la-presse/accidents-de-travail/francois-garelli/ 
             homepage_url: https://www.garelli.fr/metier/travaux-acrobatiques
             logo: garelli.jpeg
             second_path:
               - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
+              - "2018 / -"
           - name: Groupe Accsys
             homepage_url: https://www.accsys.fr/
             logo: groupeAccsys.jpeg
@@ -1631,10 +1672,21 @@ categories:
             extra: 
               parent_project: Groupe Jarnias
           - name: Hydrokarst
+            description: |
+              26/10/2022 : Décès de Jérôme Aubert || 
+              23/06/2023 : Décès de André Serena Nunes
+            extra:
+              other_links:
+                - name: Accident 26/10/2022
+                  url: https://cordistesencolere.fr/2022/10/30/jerome-un-cordiste-en-activite-decede-apres-une-chute-de-plus-de-300-metres/ 
+                - name: Accident 23/06/2023
+                  url: https://cordistesencolere.fr/2023/06/25/andre-un-collegue-perds-la-vie-apres-une-chute-sur-un-chantier-en-isere/ 
             homepage_url: https://hydrokarst.fr/
             logo: hydrokarst.jpeg
             second_path:
               - "National / -"
+              - "2022 / -"
+              - "2023 / -"
           - name: Mistras
             homepage_url: https://mistrasgroup.fr/prestation-de-service/travaux-sur-cordes/
             logo: mistras.png
@@ -1654,3 +1706,37 @@ categories:
   
   - name: Auvergne-Rhône-Alpes
     subcategories:
+  
+  - name: 2012
+    subcategories:
+      - name: "-"
+        items: 
+          - name: Carrard Services (racheté par Atalian)
+            description: |
+              19/05/2010 : Accident de Xavier || 
+              13/03/2012 : Décès de Arthur et Vincent
+            extra:
+              other_links:
+                - name: Accident du 19/05/2010 
+                  url: https://cordistesencolere.fr/2020/09/04/temoignage-xavier-3-jours-de-corde-10-ans-de-souffrances/    
+                - name: Accident 13/03/2012
+                  url: https://cordistesencolere.fr/dans-la-presse/accidents-de-travail/arthur-vincent-2012/
+            homepage_url: https://atalian.fr/
+            logo: carrardServices.jpeg
+            second_path:
+              - "2010 / -"
+          - name: Cristal Union 
+            description: |
+              13/03/2012 : Décès de Arthur et Vincent || 
+              21/06/2017 : Décès de Quentin Zaraoui-Bruat
+            extra:
+              other_links:
+                - name: Accident 13/03/2012
+                  url: https://cordistesencolere.fr/dans-la-presse/accidents-de-travail/arthur-vincent-2012/
+                - name: Accident 21/06/2017
+                  url: https://cordistesencolere.fr/dans-la-presse/accidents-de-travail/arthur-vincent-2012/quentin-2017/    
+            homepage_url: https://www.cristal-union.fr/
+            logo: cristalUnion.jpg
+            second_path:
+              - "2017 / -"
+              - "Grand Est / Marne (51)"
