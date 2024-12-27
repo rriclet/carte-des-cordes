@@ -50,6 +50,16 @@ groups:
       - Outre-mer
       - Pays de la Loire
       - Provence-Alpes-Côte d'Azur
+
+  - name: par accident
+    categories: 
+      - 2010
+      - 2012
+      - 2017
+      - 2018
+      - 2019
+      - 2022
+      - 2023
   
 header:
   links:
