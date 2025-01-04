@@ -448,6 +448,11 @@ categories:
             logo: acrosystems.webp
             second_path: 
               - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
+          - name: Acrotravaux
+            homepage_url: https://acrotravaux.com/accueil-acro-travaux-en-hauteur/travaux-en-hauteur-lozere/
+            logo: acrotravaux.png
+            second_path: 
+              - "Occitanie / Lozère (48)"
           - name: Acrowatt
             homepage_url: http://www.acrowatt.fr/
             logo: acrowatt.svg
@@ -508,6 +513,11 @@ categories:
             logo: alpiTech.png
             second_path: 
               - "Provence-Alpes-Côte d'Azur / Hautes-Alpes (05)"
+          - name: A.L.R Cordiste 
+            homepage_url: https://www.cordistemarneepernay.fr/
+            logo: alrCordiste.gif
+            second_path: 
+              - "Grand Est / Marne (51)"
           - name: Alt'Accro Services
             homepage_url: https://altaccroservices.fr/
             logo: altAccroServices.jpg
@@ -538,6 +548,11 @@ categories:
             logo: altimaitre.webp
             second_path: 
               - "Auvergne-Rhône-Alpes / Isère (38)"
+          - name: Altis
+            homepage_url: https://altis-acces.fr/
+            logo: altis.png
+            second_path: 
+              - "Grand Est / Marne (51)"
           - name: Altitech
             homepage_url: https://altitech.fr/lentreprise/
             logo: altitech.jpeg
@@ -638,6 +653,11 @@ categories:
             logo: bcs.jpg
             second_path: 
               - "Auvergne-Rhône-Alpes / Rhône (69)" 
+          - name: Bel'O Pur Services
+            homepage_url: https://aprolliance-hygienespecifique.fr/entreprises/belopur-1011/
+            logo: belOPurServices.jpeg
+            second_path: 
+              - "Pays de la Loire / Mayenne (53)"
           - name: Belvédère TSC
             homepage_url: https://www.belvedere-tsc.com/
             logo: belvedereTsc.png
@@ -847,6 +867,11 @@ categories:
             logo: etoileAcrobat.png
             second_path:
               - "Corse / -"   
+          - name: La Cime Cordiste
+            homepage_url: https://www.cordiste-lorraine.com/
+            logo: laCimeCordiste.png
+            second_path: 
+              - "Grand Est / Marne (51)"
           - name: La Corde Nantaise
             homepage_url: https://www.lacordenantaise.com/
             logo: laCordeNantaise.jpeg
@@ -1010,6 +1035,11 @@ categories:
             logo: pythonHauteur.jpg
             second_path: 
               - "Île-de-France / Val-de-Marne (94)"
+          - name: RAID
+            homepage_url: https://www.raid-org.com/
+            logo: raid.avif
+            second_path:
+              - "Centre Val-de-Loire / Indre (36)"
           - name: Reflex Acro
             homepage_url: https://www.facebook.com/reflexacro/?locale=fr_FR
             logo: reflexAcro.png
@@ -1283,6 +1313,11 @@ categories:
               - "Bourgogne-Franche-Comté / Jura (39)"
               - "Occitanie / Gers (32)"
               - "Occitanie / Pyrénées-Atlantiques (64)"
+          - name: Acrotir
+            homepage_url: https://www.acrotir.com/
+            logo: acrotir.png
+            second_path: 
+              - "National / -"
           - name: Adrenaline
             homepage_url: https://adrenaline-ee.com/
             logo: adrenaline.png
@@ -1687,6 +1722,11 @@ categories:
               - "National / -"
               - "2022 / -"
               - "2023 / -"
+          - name: Kaefer
+            homepage_url: https://kaefer.fr/services/travaux-sur-cordes/
+            logo: kaefer.svg
+            second_path:
+              - "National / -"
           - name: Mistras
             homepage_url: https://mistrasgroup.fr/prestation-de-service/travaux-sur-cordes/
             logo: mistras.png
