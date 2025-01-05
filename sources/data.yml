@@ -372,6 +372,11 @@ categories:
             logo: accesVerticaux.webp
             second_path: 
               - "Occitanie / Hérault (34)"
+          - name: Accès' Sur
+            homepage_url: https://www.accessur.com/
+            logo: accesSur.jpg
+            second_path: 
+              - "Grand Est / Meurthe-et-Moselle (54)"
           - name: AccesCible
             homepage_url: https://accescible.sitew.fr/
             logo: accesCible.jpg
@@ -699,6 +704,11 @@ categories:
             logo: cordAttitude.png
             second_path: 
               - "Bretagne / Ile-et-Vilaine (35)"
+          - name: Cord'East
+            homepage_url: https://www.cordeast.fr/
+            logo: cordEast.webp
+            second_path: 
+              - "Grand Est / Meurthe-et-Moselle (54)"
           - name: Cordactions
             homepage_url: https://cordactions.fr/
             logo: cordactions.png
@@ -724,6 +734,11 @@ categories:
             logo: cts.avif
             second_path: 
               - "Occitanie / Lot (46)"
+          - name: DDC Cordist'
+            homepage_url: https://www.ddccordist.com/
+            logo: ddcCordist.webp
+            second_path: 
+              - "Grand Est / Meurthe-et-Moselle (54)"
           - name: Delta Acro
             homepage_url: https://www.delta-acro.fr/
             logo: deltaAcro.png
@@ -1005,6 +1020,11 @@ categories:
             logo: pcse.png
             second_path: 
               - "Centre-Val de Loire / Loir-et-Cher (41)"
+          - name: Plastéol
+            homepage_url: https://plasteol.fr/
+            logo: plasteol.png
+            second_path: 
+              - "Bretagne / Morbihan (56)"
           - name: Pons
             homepage_url: https://ponstravaux.fr/
             logo: pons.webp
@@ -1142,6 +1162,11 @@ categories:
               - "Normandie / Seine-Maritime (76)"
             extra: 
               parent_project: Groupe Jarnias
+          - name: Techni-TAD & Associés
+            homepage_url: https://www.technitad.com/
+            logo: techniTad.jpeg
+            second_path: 
+              - "Grand Est / Meurthe-et-Moselle (54)"
           - name: Techni Travaux
             homepage_url: https://www.facebook.com/profile.php?id=61558731191291
             logo: techniTravaux.jpeg
@@ -1534,6 +1559,11 @@ categories:
               - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
             extra: 
               parent_project: Groupe Jarnias
+          - name: Profil Armor
+            homepage_url: https://www.profilarmor.com/
+            logo: profilArmor.png
+            second_path:
+              - "Bretagne / Morbihan (56)"
           - name: Réseau Jade
             homepage_url: https://reseau-jade.com
             logo: reseauJade.png
@@ -1604,7 +1634,7 @@ categories:
               06/03/2018 : Décès de Mickaël Beccavin
             extra:
               other_links:
-                - name: Accident 06/03/2018
+                - name: Accident du 06/03/2018
                   url: https://cordistesencolere.fr/dans-la-presse/accidents-de-travail/mickael-sud-acrobatic/   
             homepage_url: https://www.sud-acrobatic.com
             logo: sudAcrobatic.png
@@ -1621,7 +1651,7 @@ categories:
               09/2019 : Décès de Ambroise
             extra: 
               other_links: 
-                - name: Accident 09/2019
+                - name: Accident du 09/2019
                   url: https://cordistesencolere.fr/2019/09/08/ambroise-un-nouveau-collegue-mort-au-travail/
             homepage_url: http://www.tgh.fr/
             logo: tgh.png
@@ -1644,6 +1674,7 @@ categories:
             logo: vertica.png
             second_path:
               - "Bretagne / Finistère (29)"
+              - "Bretagne / Morbihan (56)"
 
       - name: Grandes entreprises
         items: 
@@ -1659,7 +1690,7 @@ categories:
               27/08/2018 : Décès de Régis
             extra:
               other_links:
-                - name: Accident 27/08/2018
+                - name: Accident du 27/08/2018
                   url: https://cordistesencolere.fr/2018/08/28/presse-un-ouvrier-tue-par-lexplosion-dun-rocher/ 
               parent_project: Groupe CAN
             homepage_url: https://www.can.fr
@@ -1672,7 +1703,7 @@ categories:
               20/08/2018 : Décès de François Chirat
             extra:
               other_links:
-                - name: Accident 20/08/2018
+                - name: Accident du 20/08/2018
                   url: https://cordistesencolere.fr/dans-la-presse/accidents-de-travail/francois-garelli/ 
             homepage_url: https://www.garelli.fr/metier/travaux-acrobatiques
             logo: garelli.jpeg
@@ -1712,9 +1743,9 @@ categories:
               23/06/2023 : Décès de André Serena Nunes
             extra:
               other_links:
-                - name: Accident 26/10/2022
+                - name: Accident du 26/10/2022
                   url: https://cordistesencolere.fr/2022/10/30/jerome-un-cordiste-en-activite-decede-apres-une-chute-de-plus-de-300-metres/ 
-                - name: Accident 23/06/2023
+                - name: Accident du 23/06/2023
                   url: https://cordistesencolere.fr/2023/06/25/andre-un-collegue-perds-la-vie-apres-une-chute-sur-un-chantier-en-isere/ 
             homepage_url: https://hydrokarst.fr/
             logo: hydrokarst.jpeg
@@ -1759,7 +1790,7 @@ categories:
               other_links:
                 - name: Accident du 19/05/2010 
                   url: https://cordistesencolere.fr/2020/09/04/temoignage-xavier-3-jours-de-corde-10-ans-de-souffrances/    
-                - name: Accident 13/03/2012
+                - name: Accident du 13/03/2012
                   url: https://cordistesencolere.fr/dans-la-presse/accidents-de-travail/arthur-vincent-2012/
             homepage_url: https://atalian.fr/
             logo: carrardServices.jpeg
@@ -1771,9 +1802,9 @@ categories:
               21/06/2017 : Décès de Quentin Zaraoui-Bruat
             extra:
               other_links:
-                - name: Accident 13/03/2012
+                - name: Accident du 13/03/2012
                   url: https://cordistesencolere.fr/dans-la-presse/accidents-de-travail/arthur-vincent-2012/
-                - name: Accident 21/06/2017
+                - name: Accident du 21/06/2017
                   url: https://cordistesencolere.fr/dans-la-presse/accidents-de-travail/arthur-vincent-2012/quentin-2017/    
             homepage_url: https://www.cristal-union.fr/
             logo: cristalUnion.jpg
