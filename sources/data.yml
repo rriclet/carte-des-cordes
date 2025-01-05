@@ -543,6 +543,11 @@ categories:
             logo: altiServices.avif
             second_path: 
               - "Auvergne-Rhône-Alpes / Isère (38)"
+          - name: Altibat.fr
+            homepage_url: https://www.altibat.fr/
+            logo: altibatFr.png
+            second_path: 
+              - "Grand Est / Moselle (57)"
           - name: Altibati
             homepage_url: https://altibati.fr/
             logo: altibati.png
@@ -648,6 +653,11 @@ categories:
             logo: avr.jpg
             second_path: 
               - "Pays de la Loire / Loire-Atlantique (44)"
+          - name: Axe Nord Cordée
+            homepage_url: https://www.axenordcordee.com/
+            logo: axeNordCordee.png
+            second_path: 
+              - "Hauts-de-France / Nord (59)"
           - name: Axis Services
             homepage_url: https://www.axis-services.fr/
             logo: axisServices.png
@@ -694,6 +704,11 @@ categories:
             second_path: 
               - "Occitanie / Hérault (34)"
               - "Auvergne-Rhône-Alpes / Puy-de-Dôme (63)"
+          - name: CHF
+            homepage_url: https://cordiste-hautsdefrance.fr/
+            logo: chf.png
+            second_path: 
+              - "Hauts-de-France / Nord (59)"
           - name: Citad
             homepage_url: https://citad.fr/
             logo: citad.png
@@ -830,6 +845,11 @@ categories:
             logo: greenRope.avif
             second_path: 
               - "Île-de-France / Val-d'Oise (95)"
+          - name: Haute Qualité Acrobatic
+            homepage_url: https://www.hautequaliteacrobatic.fr/
+            logo: hauteQualiteAcrobatic.png
+            second_path: 
+              - "Hauts-de-France / Pas-de-Calais (62)"
           - name: HAUTLINE 
             homepage_url: https://www.hautline.fr/
             logo: hautline.webp
@@ -871,7 +891,12 @@ categories:
             homepage_url: https://www.kstructure.com/
             logo: kstructure.png
             second_path: 
-              - "Occitanie / Haute-Garonne (31)"     
+              - "Occitanie / Haute-Garonne (31)"
+          - name: KTR
+            homepage_url: https://www.ktrcordiste.fr/
+            logo: ktr.png
+            second_path: 
+              - "Grand Est / Moselle (57)"     
           - name: L'antichute
             homepage_url: https://antichute.re/
             logo: lantichute.webp
@@ -979,6 +1004,11 @@ categories:
             logo: natureVerticale.png
             second_path: 
               - "Provence-Alpes-Côte d'Azur / Alpes-de-Haute-Provence (04)"
+          - name: Nord Acro Bat
+            homepage_url: https://www.nord-acrobat.com/
+            logo: nordAcroBat.jpg
+            second_path: 
+              - "Hauts-de-France / Nord (59)"
           - name: NVS
             homepage_url: https://nettoyagevitresol.fr/
             logo: nvs.png
@@ -989,6 +1019,11 @@ categories:
             logo: oco.webp
             second_path: 
               - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
+          - name: Odul Dimitry
+            homepage_url: https://www.odul-couvreur-cordiste.fr/
+            logo: odulDimitry.png
+            second_path: 
+              - "Hauts-de-France / Oise (60)"
           - name: OS Habitat
             homepage_url: https://os-habitat.fr/
             logo: osHabitat.webp
@@ -1162,6 +1197,11 @@ categories:
               - "Normandie / Seine-Maritime (76)"
             extra: 
               parent_project: Groupe Jarnias
+          - name: TDTH
+            homepage_url: https://www.tdth.fr/
+            logo: tdth.jpeg
+            second_path: 
+              - "Hauts-de-France / Nord (59)"
           - name: Techni-TAD & Associés
             homepage_url: https://www.technitad.com/
             logo: techniTad.jpeg
@@ -1547,6 +1587,11 @@ categories:
             logo: peretti.jpg
             second_path:
               - "Corse / -"
+          - name: Plus Haut
+            homepage_url: https://www.plushaut.net/
+            logo: plusHaut.jpeg
+            second_path:
+              - "Hauts-de-France / Nord (59)"
           - name: Prism
             homepage_url: https://prism-color.fr/
             logo: prism.webp
@@ -1564,6 +1609,11 @@ categories:
             logo: profilArmor.png
             second_path:
               - "Bretagne / Morbihan (56)"
+          - name: Quali-Corde
+            homepage_url: https://quali-corde.com/
+            logo: qualiCorde.jpeg
+            second_path:
+              - "Hauts-de-France / Nord (59)"
           - name: Réseau Jade
             homepage_url: https://reseau-jade.com
             logo: reseauJade.png
@@ -1641,6 +1691,11 @@ categories:
             second_path:
               - "Occitanie / Hérault (34)"
               - 2018 / -
+          - name: Tech Sub
+            homepage_url: https://techsub.com/
+            logo: techSub.png
+            second_path:
+              - "Hauts-de-France / Pas-de-Calais (62)"
           - name: Tetra
             homepage_url: https://tetra.fr/
             logo: tetra.png
@@ -1675,6 +1730,11 @@ categories:
             second_path:
               - "Bretagne / Finistère (29)"
               - "Bretagne / Morbihan (56)"
+          - name: Voltige
+            homepage_url: http://www.voltige.fr/
+            logo: voltige.png
+            second_path:
+              - "Grand Est / Moselle (57)"
 
       - name: Grandes entreprises
         items: 
