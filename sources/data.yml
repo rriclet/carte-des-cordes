@@ -667,12 +667,7 @@ categories:
             homepage_url: https://www.bcs-lyon.fr
             logo: bcs.jpg
             second_path: 
-              - "Auvergne-Rhône-Alpes / Rhône (69)" 
-          - name: Bel'O Pur Services
-            homepage_url: https://aprolliance-hygienespecifique.fr/entreprises/belopur-1011/
-            logo: belOPurServices.jpeg
-            second_path: 
-              - "Pays de la Loire / Mayenne (53)"
+              - "Auvergne-Rhône-Alpes / Rhône (69)"
           - name: Belvédère TSC
             homepage_url: https://www.belvedere-tsc.com/
             logo: belvedereTsc.png
