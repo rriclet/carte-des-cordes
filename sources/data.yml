@@ -347,6 +347,11 @@ categories:
         
       - name: Petites entreprises
         items: 
+          - name: 2 Cordes à Cordes
+            homepage_url: https://www.2cordesacordes.com/
+            logo: 2cordesACordes.png
+            second_path: 
+              - "Occitanie / Hautes-Pyrénées (65)"
           - name: 2KM Travaux en Hauteur
             homepage_url: https://2km.fr/
             logo: 2KM.webp
@@ -357,6 +362,11 @@ categories:
             logo: 7emeCiel.png
             second_path: 
               - "Provence-Alpes-Côte d'Azur / Var (83)" 
+          - name: AC2M
+            homepage_url: https://ac2m-travaux-speciaux.fr/
+            logo: ac2m.png
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Puy-de-Dôme (63)" 
           - name: Accede Atout
             homepage_url: https://www.accede-atout.fr/
             logo: accedeAtout.png
@@ -402,6 +412,11 @@ categories:
             logo: accrocheNet.png
             second_path: 
               - "Bretagne / Ile-et-Vilaine (35)"
+          - name: Acro Chez Vous
+            homepage_url: https://www.acrochezvous.com/index.php/fr/
+            logo: acroChezVous.png
+            second_path: 
+              - "Occitanie / Pyrénées-Atlantiques (64)"
           - name: Acro Tec
             homepage_url: https://www.acrotec-travauxacrobatiques.com/
             logo: acroTec.png
@@ -432,6 +447,11 @@ categories:
             logo: acrobatic.png
             second_path: 
               - "Occitanie / Aude (11)"
+          - name: Acrocéan
+            homepage_url: https://www.acrocean.fr/
+            logo: acrocean.png
+            second_path: 
+              - "Occitanie / Pyrénées-Atlantiques (64)"
           - name: Acrofeel
             homepage_url: https://acrofeel.fr/
             logo: acrofeel.png
@@ -468,6 +488,11 @@ categories:
             logo: actionAltitude.jpg
             second_path: 
               - "Pays de la Loire / Maine-et-Loire (49)"
+          - name: Adour Travaux Spéciaux
+            homepage_url: http://www.adourtravauxspeciaux.fr/
+            logo: ats.png
+            second_path: 
+              - "Occitanie / Hautes-Pyrénées (65)"
           - name: AgilBat
             homepage_url: https://www.agilbat.fr/
             logo: agilBat.jpg
@@ -643,6 +668,11 @@ categories:
             logo: ats.jpg
             second_path: 
               - "Île-de-France / Val-de-Marne (94)"
+          - name: ATTM
+            homepage_url: https://sarlattm.com/
+            logo: attm.png
+            second_path: 
+              - "Occitanie / Hautes-Pyrénées (65)"
           - name: A.T.X
             homepage_url: https://www.aloides-travaux.fr/
             logo: atx.png
@@ -744,6 +774,11 @@ categories:
             logo: cts.avif
             second_path: 
               - "Occitanie / Lot (46)"
+          - name: DCTS
+            homepage_url: https://www.dcts.fr/
+            logo: dcts.avif
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Puy-de-Dôme (63)"
           - name: DDC Cordist'
             homepage_url: https://www.ddccordist.com/
             logo: ddcCordist.webp
@@ -877,6 +912,11 @@ categories:
             logo: kanope.gif
             second_path: 
               - "Centre-Val de Loire / Indre-et-Loire (37)"
+          - name: Kathaayatraa Acro
+            homepage_url: https://www.travaux-cordiste.com/
+            logo: kathaayatraaAcro.png
+            second_path: 
+              - "Occitanie / Pyrénées-Atlantiques (64)"
           - name: Kordenn
             homepage_url: https://www.kordenn.bzh/
             logo: kordenn.png
@@ -1264,11 +1304,6 @@ categories:
             logo: vertaco.webp
             second_path: 
               - "Auvergne-Rhône-Alpes / Isère (38)"
-          - name: Vertical-R
-            homepage_url: https://vertical-r.com/
-            logo: verticalR.png
-            second_path: 
-              - "Normandie / Eure (27)"
           - name: Vertical Accès
             homepage_url: http://www.vertical-acces.fr/
             logo: verticalAcces.jpg
@@ -1279,11 +1314,21 @@ categories:
             logo: verticalAccess.webp
             second_path: 
               - "Pays de la Loire / Loire-Atlantique (44)"
+          - name: Vertical Axess
+            homepage_url: https://www.vertical-axess.fr/
+            logo: verticalAxess.png
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Puy-de-Dôme (63)"
           - name: Vertical Concept
             homepage_url: https://verticalconcept.fr/
             logo: verticalConcept.svg
             second_path: 
               - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
+          - name: Vertical Réno Bat
+            homepage_url: https://vertical-reno-bat.com/
+            logo: verticalRenoBat.png
+            second_path: 
+              - "Occitanie / Hautes-Pyrénées (65)"
           - name: Vertical Sécurité
             homepage_url: https://www.vertical-securite.com/
             logo: verticalSecurite.jpg
@@ -1294,6 +1339,11 @@ categories:
             logo: verticalServices.avif
             second_path: 
               - "Auvergne-Rhône-Alpes / Haute-Savoie (74)"
+          - name: Vertical-R
+            homepage_url: https://vertical-r.com/
+            logo: verticalR.png
+            second_path: 
+              - "Normandie / Eure (27)"
           - name: Verticale Solution
             homepage_url: https://www.verticale-solution.com
             logo: verticaleSolution.png
@@ -1503,6 +1553,13 @@ categories:
             logo: extrem.gif
             second_path:
               - "Nouvelle-Aquitaine / Gironde (33)"    
+              - "Occitanie / Pyrénées-Atlantiques (64)"
+              - "Occitanie / Hautes-Pyrénées (65)"
+          - name: FFT
+            homepage_url: https://www.fabrefourtinetravaux.fr/travaux-d-acces-difficile
+            logo: fft.png
+            second_path:
+              - "Occitanie / Hautes-Pyrénées (65)"
           - name: Fil A Plomb
             homepage_url: https://filaplomb.wixsite.com
             logo: filAPlomb.avif
