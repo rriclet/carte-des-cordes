@@ -372,6 +372,11 @@ categories:
             logo: accedeAtout.png
             second_path: 
               - "Bretagne / Morbihan (56)" 
+          - name: Accès Cordes
+            homepage_url: https://www.acces-cordes-69.com/
+            logo: accesCordes.png
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Rhône (69)"
           - name: Accès Service
             homepage_url: https://asn-cordiste.fr/
             logo: accesService.png
@@ -447,6 +452,11 @@ categories:
             logo: acrobatic.png
             second_path: 
               - "Occitanie / Aude (11)"
+          - name: Acrobatik
+            homepage_url: https://www.facebook.com/CanonDavid43
+            logo: acrobatik.png
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Rhône (69)"
           - name: Acrocéan
             homepage_url: https://www.acrocean.fr/
             logo: acrocean.png
@@ -463,6 +473,16 @@ categories:
             second_path: 
               - "Occitanie / Haute-Garonne (31)"
               - "Occitanie / Hérault (34)"
+          - name: Acrolys
+            homepage_url: https://ventilation-travaux-hauteur-rhone-alpes.fr/
+            logo: acrolys.png
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Rhône (69)"
+          - name: Acromax
+            homepage_url: https://www.acromax.fr/
+            logo: acromax.svg
+            second_path: 
+              - "Occitanie / Pyrénées-Orientales (66)"
           - name: Acroservices
             homepage_url: https://www.acroservices.org/
             logo: acroservices.jpg
@@ -498,6 +518,11 @@ categories:
             logo: agilBat.jpg
             second_path: 
               - "Auvergne-Rhône-Alpes / Isère (38)"
+          - name: AirG Acro
+            homepage_url: https://www.facebook.com/p/AirG-Acro-Travaux-dacc%C3%A8s-difficiles-100090982250175/
+            logo: airGAcro.jpg
+            second_path: 
+              - "Grand Est / Haut-Rhin (68)"
           - name: Alp'Ime
             homepage_url: https://www.alpime.com/
             logo: alpIme.jpg
@@ -568,6 +593,16 @@ categories:
             logo: altiServices.avif
             second_path: 
               - "Auvergne-Rhône-Alpes / Isère (38)"
+          - name: Alti Zinc
+            homepage_url: https://www.altizinc.fr/
+            logo: altiZinc.png
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Rhône (69)"
+          - name: AltiBat
+            homepage_url: https://www.altibat-etancheite.com/
+            logo: altiBat.png
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Rhône (69)"
           - name: Altibat.fr
             homepage_url: https://www.altibat.fr/
             logo: altibatFr.png
@@ -578,6 +613,11 @@ categories:
             logo: altibati.png
             second_path: 
               - "Occitanie / Lot (46)"
+          - name: Altifusion
+            homepage_url: https://www.altifusion.com/
+            logo: altifusion.webp
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Rhône (69)"
           - name: Altimaitre
             homepage_url: https://www.altimaitre-travaux.fr/
             logo: altimaitre.webp
@@ -658,6 +698,16 @@ categories:
             logo: ata.png
             second_path: 
               - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
+          - name: Atelier sur Cordes
+            homepage_url: https://www.ateliersurcordes.com/
+            logo: ateliersurCordes.png
+            second_path: 
+              - "Grand Est / Bas-Rhin (67)"
+          - name: Atelier Vertical
+            homepage_url: https://www.atelier-vertical.fr/
+            logo: atelierVertical.webp
+            second_path: 
+              - "Grand Est / Bas-Rhin (67)"
           - name: Atout Cordes
             homepage_url: https://atoutcordes.fr/
             logo: atoutCordes.jpg
@@ -707,7 +757,12 @@ categories:
             homepage_url: https://www.bourchanin.fr/
             logo: bourchanin.webp
             second_path: 
-              - "Bretagne / Côtes-d'Armor (22)" 
+              - "Bretagne / Côtes-d'Armor (22)"  
+          - name: BR-Travaux-Verticaux
+            homepage_url: https://www.br-travauxverticaux.fr/
+            logo: brTravauxVerticaux.avif
+            second_path: 
+              - "Grand Est / Haut-Rhin (68)" 
           - name: Cap Vertical
             homepage_url: https://www.capverticalcordiste.fr
             logo: capVertical.jpg
@@ -739,6 +794,11 @@ categories:
             logo: citad.png
             second_path: 
               - "Occitanie / Gard (30)"
+          - name: Cord'Access
+            homepage_url: https://www.cordaccess.fr/
+            logo: cordAccess.jpg
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Rhône (69)"
           - name: Cord'Attitude
             homepage_url: https://www.cordattitude.fr/
             logo: cordAttitude.png
@@ -804,6 +864,11 @@ categories:
             logo: dmtsc.jpg
             second_path: 
               - "Pays de la Loire / Loire-Atlantique (44)"
+          - name: DS Cordiste
+            homepage_url: https://www.ds-cordiste.fr/
+            logo: dsCordiste.jpg
+            second_path: 
+              - "Grand Est / Haut-Rhin (68)"
           - name: Elevation Service
             homepage_url: https://www.elevation-service.fr/
             logo: elevationService.png
@@ -864,6 +929,11 @@ categories:
             logo: gatSolutions.png
             second_path: 
               - "Nouvelle-Aquitaine / Gironde (33)"
+          - name: GraviTech
+            homepage_url: https://gravitech.fr/
+            logo: graviTech.png
+            second_path: 
+              - "Occitanie / Pyrénées-Orientales (66)"
           - name: Green'Up
             homepage_url: https://greenup-cordiste.com/
             logo: greenUp.png
@@ -892,11 +962,21 @@ categories:
             logo: hinoveo.jpeg
             second_path: 
               - "Pays de la Loire / Loire-Atlantique (44)"
+          - name: Horizon Vertical
+            homepage_url: https://horizonvertical-fc.com/
+            logo: horizonVertical.jpg
+            second_path: 
+              - "Bourgogne-Franche-Comté / Haute-Saône (70)"
           - name: IFAC
             homepage_url: https://www.ifac-securite.fr/
             logo: ifac.png
             second_path: 
               - "Auvergne-Rhône-Alpes / Isère (38)"
+          - name: IMOTEP
+            homepage_url: https://www.sarlimotep.fr/
+            logo: imotep.jpg
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Rhône (69)"
           - name: Inter Faces 
             homepage_url: https://inter-faces.fr/
             logo: interfaces.png
@@ -922,6 +1002,11 @@ categories:
             logo: kordenn.png
             second_path: 
               - "Bretagne / Finistère (29)"
+          - name: Kordes
+            homepage_url: https://www.kordes.fr/
+            logo: kordes.webp
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Rhône (69)"
           - name: KSTRUCTURE
             homepage_url: https://www.kstructure.com/
             logo: kstructure.png
@@ -952,6 +1037,16 @@ categories:
             logo: laCordeNantaise.jpeg
             second_path: 
               - "Pays de la Loire / Loire-Atlantique (44)"
+          - name: La Cordée Lyonnaise
+            homepage_url: http://www.lacordeelyonnaise.com/site/
+            logo: laCordeeLyonnaise.png
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Rhône (69)"
+          - name: Laurent Moretton
+            homepage_url: https://www.moretton.fr/
+            logo: laurentMoretton.jpeg
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Rhône (69)"
           - name: Les Cordes Briançonnaises
             homepage_url: https://www.les-cordes-brianconnaises.fr/
             logo: lesCordesBriançonnaises.png
@@ -987,6 +1082,11 @@ categories:
             logo: loireTravauxSpeciaux.png
             second_path: 
               - "Auvergne-Rhône-Alpes / Loire (42)"
+          - name: Loyon Travaux Spéciaux
+            homepage_url: https://www.lyontravauxspeciaux.fr/
+            logo: lyonTravauxSpeciaux.jpeg
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Rhône (69)"
           - name: MAD Services
             homepage_url: https://www.mad-services.fr/
             logo: madServices.jpeg
@@ -1155,6 +1255,11 @@ categories:
             logo: sadS.png
             second_path: 
               - "Occitanie / Ariège (09)"
+          - name: Sherpa
+            homepage_url: https://cordiste-acro.fr/
+            logo: sherpa.jpg
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Rhône (69)"
           - name: Silo Clean Services
             homepage_url: https://silo-clean-services.fr/
             logo: siloCleanServices.jpg
@@ -1165,6 +1270,11 @@ categories:
             logo: soo.jpg
             second_path: 
               - "Nouvelle-Aquitaine / Charente-Maritime (17)"
+          - name: SOMAI
+            homepage_url: https://www.somai.fr/
+            logo: somai.png
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Rhône (69)"
           - name: S.O.S Voltige
             homepage_url: https://sos-voltige-marseille.fr/
             logo: sosVoltige.png
@@ -1175,6 +1285,11 @@ categories:
             logo: spiderColor.jpeg
             second_path: 
               - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
+          - name: SR2I
+            homepage_url: https://www.facebook.com/sr2imaintenanceindustrielle
+            logo: sr2i.jpg
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Rhône (69)"
           - name: ST Services
             homepage_url: https://www.stservices-travauxhauteur.com/
             logo: stServices.png
@@ -1215,6 +1330,11 @@ categories:
             logo: skyWork.jpeg
             second_path: 
               - "Centre-Val de Loire / Loiret (45)"  
+          - name: T.A.D
+            homepage_url: https://www.service-tad.com/
+            logo: tad.gif
+            second_path: 
+              - "Bretagne / Morbihan (56)"  
           - name: TAF69 
             homepage_url: https://www.taf69.com/
             logo: taf69.png
@@ -1252,6 +1372,11 @@ categories:
             logo: techniquesVerticales.png
             second_path: 
               - "Outre-mer / La Réunion"
+          - name: Tooiture et Façade
+            homepage_url: http://www.toitureetfacade.fr/front/index.php
+            logo: toitureEtFacade.jpg
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Rhône (69)"
           - name: Totem 
             homepage_url: https://www.totem-travaux.fr
             logo: totem.jpg
@@ -1324,6 +1449,11 @@ categories:
             logo: verticalConcept.svg
             second_path: 
               - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
+          - name: Vertical Expert
+            homepage_url: https://www.vertical-expert.com/
+            logo: verticalExpert.png
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Rhône (69)"
           - name: Vertical Réno Bat
             homepage_url: https://vertical-reno-bat.com/
             logo: verticalRenoBat.png
@@ -1470,6 +1600,11 @@ categories:
             logo: apesanteur.png
             second_path:
               - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"              
+          - name: Altimaître
+            homepage_url: https://altimaitre.net/
+            logo: altimaitre.png
+            second_path:
+              - "Auvergne-Rhône-Alpes / Rhône (69)"                            
           - name: Altitude Services
             homepage_url: https://www.altitude-services.pro
             logo: altitudeServices.png
@@ -1615,6 +1750,11 @@ categories:
             logo: mb2a.png
             second_path:
               - "Auvergne-Rhône-Alpes / Isère (38)"
+          - name: Netconcept
+            homepage_url: https://www.netconceptalsace.fr/
+            logo: netconcept.svg
+            second_path:
+              - "Grand Est / Bas-Rhin (67)"
           - name: Nord Accès Difficle
             homepage_url: https://www.nord-acces-difficiles.fr/
             logo: nordAccesDifficiles.jpg
