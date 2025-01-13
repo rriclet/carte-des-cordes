@@ -362,6 +362,16 @@ categories:
             logo: 7emeCiel.png
             second_path: 
               - "Provence-Alpes-Côte d'Azur / Var (83)" 
+          - name: A'PIC
+            homepage_url: https://www.apic73.fr/
+            logo: apic73.png
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Savoie (73)" 
+          - name: AACID
+            homepage_url: https://aacid.fr/
+            logo: aacid.webp
+            second_path: 
+              - "Pays de la Loire / Sarthe (72)"
           - name: AC2M
             homepage_url: https://ac2m-travaux-speciaux.fr/
             logo: ac2m.png
@@ -422,6 +432,11 @@ categories:
             logo: acroChezVous.png
             second_path: 
               - "Occitanie / Pyrénées-Atlantiques (64)"
+          - name: Acro Fixe
+            homepage_url: https://acrofixe.com/
+            logo: acroFixe.webp
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Savoie (73)"
           - name: Acro Tec
             homepage_url: https://www.acrotec-travauxacrobatiques.com/
             logo: acroTec.png
@@ -508,6 +523,11 @@ categories:
             logo: actionAltitude.jpg
             second_path: 
               - "Pays de la Loire / Maine-et-Loire (49)"
+          - name: ADC Plein Ciel
+            homepage_url: https://adcpleinciel.site-solocal.com/
+            logo: adcPleinCiel.webp
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Savoie (73)"
           - name: Adour Travaux Spéciaux
             homepage_url: http://www.adourtravauxspeciaux.fr/
             logo: ats.png
@@ -523,6 +543,11 @@ categories:
             logo: airGAcro.jpg
             second_path: 
               - "Grand Est / Haut-Rhin (68)"
+          - name: Alp'Ad
+            homepage_url: https://www.alp-ad.fr/
+            logo: alpAd.png
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Savoie (73)"
           - name: Alp'Ime
             homepage_url: https://www.alpime.com/
             logo: alpIme.jpg
@@ -613,6 +638,11 @@ categories:
             logo: altibati.png
             second_path: 
               - "Occitanie / Lot (46)"
+          - name: Alticodre Pro
+            homepage_url: https://www.alticordepro.fr/
+            logo: alticordePro.png
+            second_path: 
+              - "Bourgogne-Franche-Comté / Saône-et-Loire (71)"
           - name: Altifusion
             homepage_url: https://www.altifusion.com/
             logo: altifusion.webp
@@ -693,6 +723,11 @@ categories:
             logo: artechServices.png
             second_path: 
               - "Centre Val-de-Loire / Loir-et-Cher (41)"
+          - name: AT2C
+            homepage_url: https://www.at2c.fr/
+            logo: at2c.png
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Savoie (73)"
           - name: ATA
             homepage_url: http://www.ata-ezagouri.fr/
             logo: ata.png
@@ -773,6 +808,11 @@ categories:
             logo: cdnc.png
             second_path: 
               - "Normandie / Calvados (14)"
+          - name: CEG
+            homepage_url: https://www.ceg-cordiste-acces-difficile-macon.fr/
+            logo: ceg.png
+            second_path: 
+              - "Bourgogne-Franche-Comté / Saône-et-Loire (71)"
           - name: Celticorde
             homepage_url: https://www.celticorde.com/
             logo: celticorde.webp
@@ -874,6 +914,11 @@ categories:
             logo: elevationService.png
             second_path: 
               - "Bretagne / Côtes-d'Armor (22)"
+          - name: En Cordes Et Bois
+            homepage_url: https://www.facebook.com/En.Cordes.Et.Bois/
+            logo: enCordesEtBois.png
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Savoie (73)"
           - name: ENT J.Léon
             homepage_url: http://www.entleonjonathan.com/
             logo: entJLéon.jpg
@@ -945,11 +990,21 @@ categories:
             logo: greenRope.avif
             second_path: 
               - "Île-de-France / Val-d'Oise (95)"
+          - name: Halgand
+            homepage_url: https://acces-difficile.fr/
+            logo: halgand.png
+            second_path: 
+              - "Pays de la Loire / Sarthe (72)"
           - name: Haute Qualité Acrobatic
             homepage_url: https://www.hautequaliteacrobatic.fr/
             logo: hauteQualiteAcrobatic.png
             second_path: 
               - "Hauts-de-France / Pas-de-Calais (62)"
+          - name: Haute Voltige 
+            homepage_url: https://www.hautevoltige.fr/
+            logo: hauteVoltige.png
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Savoie (73)"
           - name: HAUTLINE 
             homepage_url: https://www.hautline.fr/
             logo: hautline.webp
@@ -982,6 +1037,11 @@ categories:
             logo: interfaces.png
             second_path: 
               - "Auvergne-Rhône-Alpes / Isère (38)"     
+          - name: JLM Services
+            homepage_url: https://www.jlmservices-chalonsursaone.fr/
+            logo: jlmServices.png
+            second_path: 
+              - "Bourgogne-Franche-Comté / Saône-et-Loire (71)" 
           - name: Jura Gravité
             homepage_url: https://www.jura-gravite.com/
             logo: juraGravite.png
@@ -1128,6 +1188,11 @@ categories:
             logo: msAccess.jpg
             second_path: 
               - "Nouvelle-Aquitaine / Gironde (33)"
+          - name: MTGH
+            homepage_url: https://www.mtgh-batiment-industrie.fr/
+            logo: mtgh.png
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Savoie (73)"
           - name: MV2
             homepage_url: http://www.mv2acro.com/
             logo: mv2.jpg
@@ -1255,6 +1320,16 @@ categories:
             logo: sadS.png
             second_path: 
               - "Occitanie / Ariège (09)"
+          - name: SARL Brun
+            homepage_url: http://www.acces-difficile.com/
+            logo: sarlBrun.png
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Savoie (73)"
+          - name: Savoie Travaux Acrobatiques
+            homepage_url: https://www.savoie-travaux-acrobatiques.com/
+            logo: savoieTravauxAcrobatiques.jpg
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Savoie (73)"
           - name: Sherpa
             homepage_url: https://cordiste-acro.fr/
             logo: sherpa.jpg
@@ -1407,6 +1482,11 @@ categories:
             logo: tsm.png
             second_path: 
               - "Monaco / -"
+          - name: TTAD
+            homepage_url: https://www.ttad-savoie.com/
+            logo: ttad.png
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Savoie (73)"
           - name: Työ
             homepage_url: https://www.tyo.work/
             logo: tyo.png
