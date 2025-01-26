@@ -10,6 +10,12 @@ categories:
     subcategories: 
       - name: Collectifs
         items: 
+          - name: AFAST
+            description: Association Flandres-Artois Secours Technique
+            homepage_url: https://www.facebook.com/AFAST59/
+            logo: afast.png
+            second_path:
+              - "Hauts-de-France / Nord (59)"
           - name: Collectif BTP autonome
             description: PERMANENCES TOUS LES MERCREDIS 18H30-20H / 29 Bd Longchamps - 13001 Marseille
             homepage_url: https://www.facebook.com/people/Collectif-BTP-autonome/100089338942143
@@ -240,6 +246,9 @@ categories:
           - name: Clone ind
             homepage_url: https://clone-ind.com/
             logo: cloneInd.png
+          - name: CMC
+            homepage_url: https://www.cmcpro.com/
+            logo: cmc.webp
           - name: Courant
             homepage_url: https://www.mycourant.com/fr
             logo: courant.svg
@@ -249,6 +258,9 @@ categories:
           - name: Harken
             homepage_url: https://www.harken.com/safetyandrescue/fr/home/
             logo: harken.png
+          - name: Kong
+            homepage_url: https://www.kong.it/fr/
+            logo: kong.jpg
           - name: Kratos Safety
             homepage_url: https://kratossafety.com/fr/
             logo: kratosSafety.jpg
@@ -320,6 +332,9 @@ categories:
           - name: Acro Intérim
             homepage_url: https://www.intwee-emploi.com/agence/acro-interim-agence-france/
             logo: acroInterim.png
+          - name: ACTS
+            homepage_url: https://www.acts-interim.fr/
+            logo: acts.svg
           - name: Cordial
             homepage_url: https://www.proman-emploi.fr/groupe-proman-cordial
             logo: cordial.png
@@ -472,6 +487,7 @@ categories:
             logo: acrobatik.png
             second_path: 
               - "Auvergne-Rhône-Alpes / Rhône (69)"
+              - "Auvergne-Rhône-Alpes / Haute-Savoie (74)"
           - name: Acrocéan
             homepage_url: https://www.acrocean.fr/
             logo: acrocean.png
@@ -533,6 +549,11 @@ categories:
             logo: ats.png
             second_path: 
               - "Occitanie / Hautes-Pyrénées (65)"
+          - name: Aéro Bat
+            homepage_url: https://www.aerobat74.com/
+            logo: aeroBat.png
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Haute-Savoie (74)"
           - name: AgilBat
             homepage_url: https://www.agilbat.fr/
             logo: agilBat.jpg
@@ -658,6 +679,11 @@ categories:
             logo: altis.png
             second_path: 
               - "Grand Est / Marne (51)"
+          - name: Altiscience
+            homepage_url: https://www.altiscence.com/
+            logo: altiscence.webp
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Haute-Savoie (74)"
           - name: Altitech
             homepage_url: https://altitech.fr/lentreprise/
             logo: altitech.jpeg
@@ -687,7 +713,12 @@ categories:
             homepage_url: https://ancrage.fr/
             logo: ancrage.png
             second_path: 
-              - "Occitanie / Haute-Garonne (31)"    
+              - "Occitanie / Haute-Garonne (31)"      
+          - name: Ancy Rope Access
+            homepage_url: https://ancyropeaccess.com/
+            logo: ancyRopeAccess.png
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Haute-Savoie (74)"    
           - name: Antecime
             homepage_url: https://antecime.fr/
             logo: antecime.webp
@@ -1432,6 +1463,11 @@ categories:
             logo: tdth.jpeg
             second_path: 
               - "Hauts-de-France / Nord (59)"
+          - name: Techni-Corde
+            homepage_url: https://www.techni-corde.com/
+            logo: techniCorde.png
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Haute-Savoie (74)"
           - name: Techni-TAD & Associés
             homepage_url: https://www.technitad.com/
             logo: techniTad.jpeg
@@ -1447,7 +1483,7 @@ categories:
             logo: techniquesVerticales.png
             second_path: 
               - "Outre-mer / La Réunion"
-          - name: Tooiture et Façade
+          - name: Toiture et Façade
             homepage_url: http://www.toitureetfacade.fr/front/index.php
             logo: toitureEtFacade.jpg
             second_path: 
@@ -1494,6 +1530,11 @@ categories:
               - "Grand Est / Bas-Rhin (67)"
             extra: 
               parent_project: Groupe Accsys
+          - name: UBAC
+            homepage_url: https://urban-access.fr/
+            logo: ubac.png
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Haute-Savoie (74)"
           - name: Verticad
             homepage_url: https://www.verticad.fr/
             logo: verticad.webp
@@ -1580,11 +1621,21 @@ categories:
             logo: vta38.png
             second_path: 
               - "Auvergne-Rhône-Alpes / Isère (38)"
+          - name: VTA 74
+            homepage_url: https://vta74.fr/
+            logo: vta74.webp
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Haute-Savoie (74)"
           - name: Yann Plan
             homepage_url: https://www.yannplan.fr/
             logo: yannPlan.png
             second_path: 
               - "Auvergne-Rhône-Alpes / Allier (03)"
+          - name: YDEMS
+            homepage_url: https://www.facebook.com/profile.php?id=100050519451053
+            logo: ydems.jpg
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Haute-Savoie (74)"
 
       - name: Moyennes entreprises
         items: 
@@ -1619,6 +1670,7 @@ categories:
             logo: acropoles.png
             second_path:
               - "Auvergne-Rhône-Alpes / Isère (38)"
+              - "Auvergne-Rhône-Alpes / Haute-Savoie (74)"
           - name: Acrosys
             homepage_url: https://www.acrosys.eu
             logo: acrosys.png
@@ -1815,6 +1867,11 @@ categories:
             logo: lesAlpinistesAssocies.png
             second_path:
               - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
+          - name: Les Cordistes Savoyards
+            homepage_url: https://www.cordistes.fr/
+            logo: lesCordistesSavoyards.svg
+            second_path:
+              - "Auvergne-Rhône-Alpes / Haute-Savoie (74)"
           - name: Les Couvreurs de Proximité
             homepage_url: https://les-couvreurs-de-proximite.fr/
             logo: lcdp.jpg
@@ -1915,6 +1972,11 @@ categories:
               - "Normandie / Seine-Maritime (76)"
             extra: 
               parent_project: Groupe NA 
+          - name: Set Up
+            homepage_url: http://setup-cordistes.fr/
+            logo: setUp.jpeg
+            second_path:
+              - "Hauts-de-France / Nord (59)"
           - name: SILOnet
             homepage_url: http://www.silonet.fr/
             logo: silonet.jpg
@@ -1950,7 +2012,12 @@ categories:
             second_path:
               - "Provence-Alpes-Côte d'Azur / Hautes-Alpes (05)"    
             extra: 
-              parent_project: CAN    
+              parent_project: CAN 
+          - name: STM Pugnat
+            homepage_url: http://www.stmpugnat.fr/
+            logo: stmPugnat.png
+            second_path:
+              - "Auvergne-Rhône-Alpes / Haute-Savoie (74)"    
           - name: Sud Acrobatic
             description: |
               06/03/2018 : Décès de Mickaël Beccavin
