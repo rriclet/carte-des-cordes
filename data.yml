@@ -422,6 +422,11 @@ categories:
             logo: accesCible.jpg
             second_path: 
               - "Auvergne-Rhône-Alpes / Drôme (26)"
+          - name: Access Line
+            homepage_url: https://accessline.tech/
+            logo: accessLine.png
+            second_path: 
+              - "Nouvelle-Aquitaine / Deux-Sèvres (79)"
           - name: Accordes
             homepage_url: https://accordes.fr/
             logo: accordes.png
@@ -514,6 +519,11 @@ categories:
             logo: acromax.svg
             second_path: 
               - "Occitanie / Pyrénées-Orientales (66)"
+          - name: Acro Pole
+            homepage_url: https://acro-pole.fr/
+            logo: acroPole.png
+            second_path: 
+              - "Occitanie / Tarn (81)"
           - name: Acroservices
             homepage_url: https://www.acroservices.org/
             logo: acroservices.jpg
@@ -554,6 +564,11 @@ categories:
             logo: aeroBat.png
             second_path: 
               - "Auvergne-Rhône-Alpes / Haute-Savoie (74)"
+          - name: Aerotech
+            homepage_url: https://www.aerotech-pro.fr/
+            logo: aerotech.png
+            second_path: 
+              - "Île-de-France / Seine-et-Marne (77)"
           - name: AgilBat
             homepage_url: https://www.agilbat.fr/
             logo: agilBat.jpg
@@ -564,6 +579,11 @@ categories:
             logo: airGAcro.jpg
             second_path: 
               - "Grand Est / Haut-Rhin (68)"
+          - name: Alliance Alpinistes
+            homepage_url: https://www.alliance-alpinistes-paris.fr/
+            logo: allianceAlpinistes.png
+            second_path: 
+              - "Île-de-France / Paris (75)"
           - name: Alp'Ad
             homepage_url: https://www.alp-ad.fr/
             logo: alpAd.png
@@ -589,6 +609,16 @@ categories:
             logo: aas.png
             second_path: 
               - "Île-de-France / Val-d'Oise (95)"
+          - name: Alpinistes des Batîments Parisiens 
+            homepage_url: https://www.abp-pro.com/
+            logo: abp.svg
+            second_path: 
+              - "Île-de-France / Seine-et-Marne (77)"
+          - name: Alpi Clean
+            homepage_url: https://www.alpiclean.fr/
+            logo: alpiClean.png
+            second_path: 
+              - "Île-de-France / Yvelines (78)"
           - name: Alpi Ouest
             homepage_url: https://www.alpi-ouest.fr/
             logo: alpiOuest.webp
@@ -634,6 +664,11 @@ categories:
             logo: alternativeCordes.png
             second_path: 
               - "Bourgogne-Franche-Comté / Côte-d'Or (21)"
+          - name: Alti 81
+            homepage_url: https://www.alti81.fr/
+            logo: alti81.png
+            second_path: 
+              - "Occitanie / Tarn (81)"
           - name: Alti Services
             homepage_url: https://www.altiservices.net/
             logo: altiServices.avif
@@ -659,7 +694,7 @@ categories:
             logo: altibati.png
             second_path: 
               - "Occitanie / Lot (46)"
-          - name: Alticodre Pro
+          - name: Alticorde Pro
             homepage_url: https://www.alticordepro.fr/
             logo: alticordePro.png
             second_path: 
@@ -684,6 +719,11 @@ categories:
             logo: altiscence.webp
             second_path: 
               - "Auvergne-Rhône-Alpes / Haute-Savoie (74)"
+          - name: ALTISSUR
+            homepage_url: http://www.altissur-cordiste.fr/
+            logo: altissur.jpg
+            second_path: 
+              - "Île-de-France / Seine-et-Marne (77)"
           - name: Altitech
             homepage_url: https://altitech.fr/lentreprise/
             logo: altitech.jpeg
@@ -734,6 +774,11 @@ categories:
             logo: apic.png
             second_path: 
               - "Île-de-France / Hauts-de-Seine (92)"  
+          - name: Aquilas
+            homepage_url: https://www.aquilas.fr/
+            logo: aquilas.avif
+            second_path: 
+              - "Île-de-France / Paris (75)"  
           - name: Aquitaine Ascension BTP
             homepage_url: https://aabtp.fr/
             logo: aabtp.png
@@ -744,6 +789,11 @@ categories:
             logo: arakne.png
             second_path: 
               - "Bretagne / Finistère (29)"
+          - name: Arcane Access
+            homepage_url: https://www.arcaneaccess.com/
+            logo: arcaneAccess.png
+            second_path: 
+              - "Île-de-France / Seine-et-Marne (77)"
           - name: Art Camp'
             homepage_url: https://www.art-camp.com/
             logo: artCamp.png
@@ -809,6 +859,11 @@ categories:
             logo: axisServices.png
             second_path: 
               - "Occitanie / Haute-Garonne (31)" 
+          - name: BAT Doctors
+            homepage_url: https://batdoctors.com/
+            logo: batDoctors.jpeg
+            second_path: 
+              - "Île-de-France / Paris (75)"
           - name: B.C.S
             homepage_url: https://www.bcs-lyon.fr
             logo: bcs.jpg
@@ -970,6 +1025,11 @@ categories:
             logo: eurlCordage.png
             second_path: 
               - "Auvergne-Rhône-Alpes / Isère (38)"
+          - name: Experience Cordiste
+            homepage_url: https://www.experience-cordiste.fr/
+            logo: experienceCordiste.png
+            second_path: 
+              - "Hauts-de-France / Somme (80)"
           - name: ExtremWork
             homepage_url: http://www.extremwork.net/
             logo: extremWork.webp
@@ -1178,6 +1238,11 @@ categories:
             logo: lyonTravauxSpeciaux.jpeg
             second_path: 
               - "Auvergne-Rhône-Alpes / Rhône (69)"
+          - name: Ma Solution Acro
+            homepage_url: https://www.masolutionacro-cordiste.fr/
+            logo: maSolutionAcro.jpeg
+            second_path: 
+              - "Île-de-France / Seine-et-Marne (77)"
           - name: MAD Services
             homepage_url: https://www.mad-services.fr/
             logo: madServices.jpeg
@@ -1189,6 +1254,11 @@ categories:
             logo: mcf.png
             second_path: 
               - "Normandie / Calvados (14)"
+          - name: Mancio
+            homepage_url: https://www.mancio.fr/
+            logo: mancio.png
+            second_path: 
+              - "Île-de-France / Paris (75)"
           - name: Michel Girard
             homepage_url: https://www.michel-girard.fr/
             logo: michelGirard.jpg
@@ -1281,6 +1351,11 @@ categories:
             second_path: 
               - "Auvergne-Rhône-Alpes / Haute-Savoie (74)"
               - "Formation / Centres"
+          - name: Paris Cordes
+            homepage_url: https://www.paris-cordes.fr/
+            logo: parisCordes.png
+            second_path: 
+              - "Île-de-France / Paris (75)"
           - name: PCSE
             homepage_url: https://www.pc-se.fr/
             logo: pcse.png
@@ -1411,6 +1486,11 @@ categories:
             logo: staiph.webp
             second_path: 
               - "Nouvelle-Aquitaine / Gironde (33)"
+          - name: STEC
+            homepage_url: http://stecrenov.com/
+            logo: stec.png
+            second_path: 
+              - "Île-de-France / Yvelines (78)"
           - name: STH
             homepage_url: https://sth-normandie.fr/
             logo: sth.png
@@ -1435,12 +1515,22 @@ categories:
             homepage_url: https://www.skywork.fr
             logo: skyWork.jpeg
             second_path: 
-              - "Centre-Val de Loire / Loiret (45)"  
+              - "Centre-Val de Loire / Loiret (45)"
+          - name: Skyworkers 
+            homepage_url: https://www.entreprise-travaux-en-hauteur.fr/
+            logo: skyworkers.png
+            second_path: 
+              - "Île-de-France / Paris (75)"  
           - name: T.A.D
             homepage_url: https://www.service-tad.com/
             logo: tad.gif
             second_path: 
               - "Bretagne / Morbihan (56)"  
+          - name: TAD
+            homepage_url: https://www.cordiste-tad-paris.fr/
+            logo: tadParis.png
+            second_path: 
+              - "Île-de-France / Paris (75)"  
           - name: TAF69 
             homepage_url: https://www.taf69.com/
             logo: taf69.png
@@ -1535,6 +1625,11 @@ categories:
             logo: ubac.png
             second_path: 
               - "Auvergne-Rhône-Alpes / Haute-Savoie (74)"
+          - name: Up-Travaux
+            homepage_url: https://www.up-travaux.com/
+            logo: upTravaux.png
+            second_path: 
+              - "Île-de-France / Paris (75)"
           - name: Verticad
             homepage_url: https://www.verticad.fr/
             logo: verticad.webp
@@ -1702,6 +1797,16 @@ categories:
             logo: adret.jpg
             second_path:
               - "Nouvelle-Aquitaine / Gironde (33)"
+          - name: Agrip'
+            homepage_url: https://www.cordiste-agrip-paris.fr/
+            logo: agrip.webp
+            second_path:
+              - "Île-de-France / Paris (75)"
+          - name: Alpipro Services
+            homepage_url: https://www.cordistes-alpiproservices.fr/
+            logo: alpiproServices.png
+            second_path:
+              - "Île-de-France / Paris (75)"
           - name: ALTi CiTY
             homepage_url: https://www.alticity.eu
             logo: altiCity.png
@@ -1784,6 +1889,11 @@ categories:
             logo: catraBtp.png
             second_path:
               - "Occitanie / Haute-Garonne (31)"       
+          - name: Cimes Urbaines
+            homepage_url: http://www.cimesurbaines.com/
+            logo: cimesUrbaines.png
+            second_path:
+              - "Île-de-France / Paris (75)"   
           - name: Citem
             homepage_url: https://citem.fr
             logo: citem.png
@@ -1795,6 +1905,11 @@ categories:
             logo: colibri.jpeg
             second_path:
               - "Île-de-France / Val-de-Marne (94)"
+          - name: DGM Industrie
+            homepage_url: https://dgm-industrie.fr/accueil/travaux-dacces-difficile/
+            logo: dgmIndustrie.png
+            second_path:
+              - "Île-de-France / Seine-et-Marne (77)"
           - name: EGITEC
             homepage_url: https://egitec.fr/
             logo: egitec.png
@@ -1857,6 +1972,11 @@ categories:
             logo: hypogeeMCB.png
             second_path:
               - "Occitanie / Gard (30)"
+          - name: Imeuax Services
+            homepage_url: https://www.imeauxservices.com/
+            logo: imeauxServices.png
+            second_path:
+              - "Île-de-France / Seine-et-Marne (77)"
           - name: L'Octant
             homepage_url: https://www.loctant.com/
             logo: lOctant.gif
@@ -1867,11 +1987,17 @@ categories:
             logo: lesAlpinistesAssocies.png
             second_path:
               - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
+              - "Île-de-France / Paris (75)"
           - name: Les Cordistes Savoyards
             homepage_url: https://www.cordistes.fr/
             logo: lesCordistesSavoyards.svg
             second_path:
               - "Auvergne-Rhône-Alpes / Haute-Savoie (74)"
+          - name: Les Cordistes Savoyards Paris
+            homepage_url: https://www.cordistes-savoyards.fr/
+            logo: lesCordistesSavoyardsParis.png
+            second_path:
+              - "Île-de-France / Paris (75)"
           - name: Les Couvreurs de Proximité
             homepage_url: https://les-couvreurs-de-proximite.fr/
             logo: lcdp.jpg
