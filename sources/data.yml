@@ -539,6 +539,11 @@ categories:
             logo: acromax.svg
             second_path: 
               - "Occitanie / Pyrénées-Orientales (66)"
+          - name: Acropol
+            homepage_url: https://acropol.pf/
+            logo: acropol.png
+            second_path: 
+              - "Outre-Mer / Polynésie"
           - name: Acro Pole
             homepage_url: https://acro-pole.fr/
             logo: acroPole.png
@@ -1506,6 +1511,11 @@ categories:
             logo: sdPapillon.png
             second_path: 
               - "Pays de la Loire / Vendée (85)"
+          - name: Secur'Protect
+            homepage_url: https://www.facebook.com/securprotect/
+            logo: securProtect.jpg
+            second_path: 
+              - "Outre-Mer / Martinique"
           - name: Sherpa
             homepage_url: https://cordiste-acro.fr/
             logo: sherpa.jpg
@@ -1516,6 +1526,11 @@ categories:
             logo: siloCleanServices.jpg
             second_path: 
               - "Pays de la Loire / Loire-Atlantique (44)"
+          - name: SKIF'X
+            homepage_url: https://www.skifx.fr/
+            logo: skifx.jpg
+            second_path: 
+              - "Outre-Mer / Guadeloupe"
           - name: So'o
             homepage_url: https://www.facebook.com/soo.multiservices/
             logo: soo.jpg
@@ -1892,6 +1907,11 @@ categories:
             logo: adret.jpg
             second_path:
               - "Nouvelle-Aquitaine / Gironde (33)"
+          - name: Agence Cordiste
+            homepage_url: https://www.agencecordiste.com/
+            logo: agenceCordiste.webp
+            second_path:
+              - "Outre-Mer / La Réunion"
           - name: Agrip'
             homepage_url: https://www.cordiste-agrip-paris.fr/
             logo: agrip.webp
@@ -2082,6 +2102,11 @@ categories:
             logo: imeauxServices.png
             second_path:
               - "Île-de-France / Seine-et-Marne (77)"
+          - name: Kwata' Bat
+            homepage_url: https://www.kwata-bat.com/
+            logo: kwataBat.png
+            second_path:
+              - "Outre-Mer / Guyane"
           - name: L'Octant
             homepage_url: https://www.loctant.com/
             logo: lOctant.gif
@@ -2296,6 +2321,16 @@ categories:
             logo: traforex.jpeg
             second_path:
               - "Bourgogne-Franche-Comté / Côte-d'Or (21)"
+          - name: Tremplin's
+            homepage_url: http://www.tremplins.eu/activites/index_travaux.html
+            logo: tremplins.png
+            second_path:
+              - "Outre-Mer / Martinique"
+          - name: TTS
+            homepage_url: http://www.tts.re/site/
+            logo: tts.png
+            second_path:
+              - "Outre-Mer / La Réunion"
           - name: Versant
             homepage_url: https://versant-groupe.com
             logo: versant.png
@@ -2410,7 +2445,13 @@ categories:
             logo: ouestAcro.svg
             second_path:
               - "National / -"
-              
+          - name: ROCS
+            homepage_url: https://www.rocs.fr/
+            logo: rocs.png
+            second_path:
+              - "Outre-Mer / La Réunion"
+            extra: 
+              parent_project: NGE Fondations
   
   - name: Auvergne-Rhône-Alpes
     subcategories:
