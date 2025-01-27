@@ -323,6 +323,10 @@ categories:
             homepage_url: https://www.francetravauxsurcordes.fr
             logo: ftc.jpg
             description: France Travaux sur Cordes est un syndicat français professionnel. Il a pour vocation de regrouper les entreprises appartenant aux secteurs des Travaux Publics ou du Bâtiment qui ont pour activité principale ou secondaire les travaux d'accès difficiles sur cordes.
+          - name: La French Rope
+            homepage_url: http://frenchrope.fr/
+            logo: frenchRope.png
+            description: Syndicat Interprofessionnel des travaux sur cordes
           - name: SYFFORHA
             homepage_url: https://www.syfforha.fr
             logo: syfforha.jpg
@@ -1629,6 +1633,11 @@ categories:
             logo: reflexAcro.png
             second_path:
               - "Auvergne-Rhône-Alpes / Loire (42)"
+          - name: Rope Concept
+            homepage_url: https://ropeconcept.fr/
+            logo: ropeConcept.png
+            second_path:
+              - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
           - name: ROPES
             homepage_url: https://ropes.fr/
             logo: ropes.png
