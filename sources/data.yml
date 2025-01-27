@@ -120,11 +120,21 @@ categories:
             logo: alpic.png
             second_path: 
               - "Auvergne-Rhône-Alpes / Isère (38)"
+          - name: Altisafety
+            homepage_url: https://altisafety.fr/
+            logo: altisfety.jpg
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Rhône (69)"
           - name: Altitude Formation
             homepage_url: https://www.altitudeformation.fr/
             logo: altitudeFormation.avif
             second_path: 
               - "National / -"
+          - name: Aryana
+            homepage_url: https://www.aryana.biz/
+            logo: aryana.avif
+            second_path: 
+              - "Bourgogne-Franche-Comté / Doubs (25)"
           - name: Atoutcorde
             homepage_url: https://atoutcorde.com/accueil.htm
             logo: atoutcorde.jpeg
@@ -569,6 +579,18 @@ categories:
             logo: acrowatt.svg
             second_path: 
               - "Auvergne-Rhône-Alpes / Isère (38)"
+          - name: Acro Zenith
+            description: |
+              11/04/2024 : Décès de Philippe
+            extra:
+              other_links:
+                - name: Accident du 11/04/2024
+                  url: https://cordistesencolere.fr/2024/04/11/5550/ 
+            homepage_url: https://acro-zenith.com/
+            logo: acroZenith.jpg
+            second_path: 
+              - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
+              - "2024 / -"
           - name: Action Altitude
             homepage_url: https://www.action-altitude.fr/
             logo: actionAltitude.jpg
@@ -669,6 +691,11 @@ categories:
             logo: alpineAccess.jpg
             second_path: 
               - "Auvergne-Rhône-Alpes / Savoie (73)"    
+          - name: AlpiProBat
+            homepage_url: https://www.alpiprobat.fr/
+            logo: alpiProBat.png
+            second_path: 
+              - "Île-de-France / Seine-Saint-Denis (93)"    
           - name: Alpiroc
             homepage_url: https://www.alpiroc.fr/
             logo: alpiroc.png
@@ -699,6 +726,16 @@ categories:
             logo: alternativeCordes.png
             second_path: 
               - "Bourgogne-Franche-Comté / Côte-d'Or (21)"
+          - name: Althyplane
+            homepage_url: https://althyplane.com/
+            logo: althyplane.png
+            second_path: 
+              - "Île-de-France / Val-de-Marne (94)"
+          - name: Alti 77
+            homepage_url: https://www.alti77.fr/
+            logo: alti77.png
+            second_path: 
+              - "Île-de-France / Val-de-Marne (94)"
           - name: Alti 81
             homepage_url: https://www.alti81.fr/
             logo: alti81.png
@@ -769,6 +806,11 @@ categories:
             logo: altitude37.png
             second_path: 
               - "Centre-Val de Loire / Indre-et-Loire (37)"
+          - name: Altitude 75
+            homepage_url: https://altitude75.com/
+            logo: altitude75.jpg
+            second_path: 
+              - "Île-de-France / Hauts-de-Seine (92)"
           - name: Altitude Construction
             homepage_url: http://www.altitude-construction.com/
             logo: altitudeConstruction.png
@@ -839,6 +881,11 @@ categories:
             logo: artechServices.png
             second_path: 
               - "Centre Val-de-Loire / Loir-et-Cher (41)"
+          - name: Artif
+            homepage_url: http://www.artif.fr/
+            logo: artif.jpg
+            second_path: 
+              - "Île-de-France / Seine-Saint-Denis (93)"
           - name: AT2C
             homepage_url: https://www.at2c.fr/
             logo: at2c.png
@@ -885,15 +932,28 @@ categories:
             second_path: 
               - "Pays de la Loire / Loire-Atlantique (44)"
           - name: Axe Nord Cordée
+            description: |
+              26/06/2020 : Décès de Sylvain
+            extra: 
+              other_links:
+                - name: Accident du 26/06/2020
+                  url: https://cordistesencolere.fr/2020/06/26/presse-un-cordiste-perd-la-vie-en-tombant-dun-silo-chez-nord-cereales/
             homepage_url: https://www.axenordcordee.com/
             logo: axeNordCordee.png
             second_path: 
               - "Hauts-de-France / Nord (59)"
+              - "2020 / -"
           - name: Axis Services
             homepage_url: https://www.axis-services.fr/
             logo: axisServices.png
             second_path: 
               - "Occitanie / Haute-Garonne (31)" 
+          - name: Bartasse
+            homepage_url: http://bartasse.com/
+            logo: bartasse.png
+            second_path: 
+              - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
+              - "Formation / Centres"
           - name: BAT Doctors
             homepage_url: https://batdoctors.com/
             logo: batDoctors.jpeg
@@ -919,16 +979,21 @@ categories:
             logo: brTravauxVerticaux.avif
             second_path: 
               - "Grand Est / Haut-Rhin (68)" 
-          - name: Cap Vertical
-            homepage_url: https://www.capverticalcordiste.fr
-            logo: capVertical.jpg
-            second_path: 
-              - "Grand Est / Haut-Rhin (68)" 
           - name: C.D.N.C
             homepage_url: https://www.cdnc.fr/
             logo: cdnc.png
             second_path: 
-              - "Normandie / Calvados (14)"
+              - "Normandie / Calvados (14)" 
+          - name: C. Mirifique
+            homepage_url: http://www.c-mirifique.fr/
+            logo: cMirifique.jpg
+            second_path: 
+              - "Île-de-France / Seine-Saint-Denis (93)"
+          - name: Cap Vertical
+            homepage_url: https://www.capverticalcordiste.fr
+            logo: capVertical.jpg
+            second_path: 
+              - "Grand Est / Haut-Rhin (68)"
           - name: CEG
             homepage_url: https://www.ceg-cordiste-acces-difficile-macon.fr/
             logo: ceg.png
@@ -990,6 +1055,31 @@ categories:
             logo: cordeOption.png
             second_path: 
               - "Bourgogne-Franche-Comté / Côte-d'Or (21)"
+          - name: Corde-Systemes
+            homepage_url: https://www.corde-systemes.com/
+            logo: cordeSystemes.png
+            second_path: 
+              - "Île-de-France / Essonne (91)"
+          - name: CordiBAT
+            homepage_url: https://www.cordibat.fr/
+            logo: cordiBat.png
+            second_path: 
+              - "Île-de-France / Hauts-de-Seine (92)"
+          - name: Cordifrance
+            homepage_url: https://www.cordifrance.com/
+            logo: cordifrance.webp
+            second_path: 
+              - "Île-de-France / Val-de-Marne (94)"
+          - name: Cordistes Responsables
+            homepage_url: https://www.cordistes-responsables.com/
+            logo: cordistesResponsables.png
+            second_path: 
+              - "Île-de-France / Val-de-Marne (94)"
+          - name: Corsica Cordes
+            homepage_url: https://www.corsica-cordes.fr/
+            logo: corsicaCordes.png
+            second_path: 
+              - "Île-de-France / Hauts-de-Seine (92)"
           - name: Corsica Interventions
             homepage_url: https://www.corsicainterventions.com/
             logo: corsicaInterventions.png
@@ -1000,6 +1090,11 @@ categories:
             logo: cts.avif
             second_path: 
               - "Occitanie / Lot (46)"
+          - name: DB Gecko
+            homepage_url: https://www.dbgecko.com/
+            logo: dbGecko.png
+            second_path: 
+              - "Île-de-France / Val-de-Marne (94)"
           - name: DCTS
             homepage_url: https://www.dcts.fr/
             logo: dcts.avif
@@ -1100,6 +1195,16 @@ categories:
             logo: fmi.png
             second_path: 
               - "Île-de-France / Val-de-Marne (94)"
+          - name: Focus Corde
+            homepage_url: https://focuscorde.com/
+            logo: focusCorde.png
+            second_path: 
+              - "Île-de-France / Hauts-de-Seine (92)"
+          - name: G.D. Couverture
+            homepage_url: https://gdcouverture.fr/
+            logo: gdCouverture.png
+            second_path: 
+              - "Île-de-France / Hauts-de-Seine (92)"
           - name: GAT Solutions
             homepage_url: https://gat-solutions.com/
             logo: gatSolutions.png
@@ -1163,6 +1268,11 @@ categories:
             logo: imotep.jpg
             second_path: 
               - "Auvergne-Rhône-Alpes / Rhône (69)"
+          - name: Intégral
+            homepage_url: https://www.integralpro.fr/
+            logo: integral.webp
+            second_path: 
+              - "Île-de-France / Essonne (91)"
           - name: Inter Faces 
             homepage_url: https://inter-faces.fr/
             logo: interfaces.png
@@ -1177,7 +1287,12 @@ categories:
             homepage_url: https://www.jlmservices-chalonsursaone.fr/
             logo: jlmServices.png
             second_path: 
-              - "Bourgogne-Franche-Comté / Saône-et-Loire (71)" 
+              - "Bourgogne-Franche-Comté / Saône-et-Loire (71)"
+          - name: JS Cordes
+            homepage_url: https://www.js-cordes.com/
+            logo: jsCordes.avif
+            second_path: 
+              - "Île-de-France / Val-d'Oise (95)" 
           - name: Jura Gravité
             homepage_url: https://www.jura-gravite.com/
             logo: juraGravite.png
@@ -1243,6 +1358,16 @@ categories:
             logo: laurentMoretton.jpeg
             second_path: 
               - "Auvergne-Rhône-Alpes / Rhône (69)"
+          - name: LCF CORD
+            homepage_url: https://www.facebook.com/lcfcord/
+            logo: lcfCord.jpg
+            second_path: 
+              - "Île-de-France / Hauts-de-Seine (92)"
+          - name: Le Cordiste Français
+            homepage_url: https://www.lecordistefrancais.fr/
+            logo: leCordisteFrancais.png
+            second_path: 
+              - "Île-de-France / Essonne (91)"
           - name: Les Cordes Briançonnaises
             homepage_url: https://www.les-cordes-brianconnaises.fr/
             logo: lesCordesBriançonnaises.png
@@ -1252,7 +1377,12 @@ categories:
             homepage_url: https://www.lescordistesdelouest.fr/
             logo: lesCordistesdeLouest.png
             second_path: 
-              - "Bretagne / Morbihan (56)"
+              - "Bretagne / Morbihan (56)"   
+          - name: Les Cordistes Franciliens
+            homepage_url: https://www.les-cordistes-franciliens.fr/
+            logo: lesCordistesFranciliens.png
+            second_path: 
+              - "Île-de-France / Essonne (91)"
           - name: Les Grimpeurs Tout-Terrain
             homepage_url: https://www.lesgrimpeurstoutterrain.fr/
             logo: lesGrimpeursToutTerrain.avif
@@ -1304,11 +1434,22 @@ categories:
             logo: mancio.png
             second_path: 
               - "Île-de-France / Paris (75)"
+          - name: Méthode Alpine
+            homepage_url: https://www.methodealpine.fr/
+            logo: methodeAlpine.png
+            second_path: 
+              - "Île-de-France / Hauts-de-Seine (92)"
           - name: MGH
             homepage_url: https://www.societe-mgh.fr/
             logo: mghjpeg
             second_path: 
               - "Pays de la Loire / Vendée (85)"
+              - "Formation / Centres"
+          - name: MH Alticorde
+            homepage_url: https://www.mhalticordes.fr/
+            logo: mhAlticorde.png
+            second_path: 
+              - "Île-de-France / Val-de-Marne (94)"
           - name: Michel Girard
             homepage_url: https://www.michel-girard.fr/
             logo: michelGirard.jpg
@@ -1319,6 +1460,11 @@ categories:
             logo: midiCordes.png
             second_path: 
               - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
+          - name: Mitaccess
+            homepage_url: https://www.mit-access.com/
+            logo: mitaccess.png
+            second_path: 
+              - "Île-de-France / Hauts-de-Seine (92)"
           - name: Monacro
             homepage_url: https://www.monacro.com/
             logo: monacro.avif
@@ -1366,10 +1512,17 @@ categories:
             second_path: 
               - "Hauts-de-France / Nord (59)"
           - name: NVS
+            description: |
+              19/09/2024 : Décès de Chérif
+            extra:
+              other_links:
+                - name: Accident du 19/09/2024
+                  url: https://www.nicematin.com/faits-divers/un-jeune-cordiste-fait-une-chute-mortelle-a-sophia-antipolis-945710 
             homepage_url: https://nettoyagevitresol.fr/
             logo: nvs.png
             second_path: 
               - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
+              - "2024 / -"
           - name: O.C.O
             homepage_url: https://www.travaux-sur-cordes-marseille.fr/
             logo: oco.webp
@@ -1482,10 +1635,17 @@ categories:
             second_path:
               - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
           - name: RTS 
+            description: |
+              19/06/2024 : Décès de Iason
+            extra:
+              other_links:
+                - name: Accident du 19/06/2024
+                  url: https://www.francebleu.fr/infos/faits-divers-justice/un-cordiste-dans-un-etat-tres-grave-apres-une-chute-sur-un-chantier-au-chateau-de-lourdes-5509287 
             homepage_url: https://rts-travaux.com
             logo: rts.jpg
             second_path: 
               - "Occitanie / Lot (46)"
+              - "2024 / -"
           - name: Services Acro Alsace
             homepage_url: https://servicesacroalsace.fr/
             logo: servicesAcroAlsace.png
@@ -1536,6 +1696,11 @@ categories:
             logo: soo.jpg
             second_path: 
               - "Nouvelle-Aquitaine / Charente-Maritime (17)"
+          - name: Solution Verticale
+            homepage_url: https://solution-verticale.com/
+            logo: solutionVerticale.gif
+            second_path: 
+              - "Auvergne-Rhône-Alpes / Savoie (73)"
           - name: SOMAI
             homepage_url: https://www.somai.fr/
             logo: somai.png
@@ -1811,6 +1976,11 @@ categories:
             logo: vertika.png
             second_path: 
               - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
+          - name: Vertiko
+            homepage_url: https://www.vertiko.fr/
+            logo: vertiko.avif
+            second_path: 
+              - "Île-de-France / Val-d'Oise (95)"
           - name: Vid'Alpi
             homepage_url: https://www.vidalpi.com/
             logo: vidAlpi.avif
@@ -1895,6 +2065,13 @@ categories:
             logo: acrotir.png
             second_path: 
               - "National / -"
+          - name: Adequat
+            homepage_url: https://www.adequat-batiment.com/
+            logo: adequat.png
+            second_path:
+              - "Île-de-France / Val-de-Marne (94)"
+            extra: 
+              parent_project: Versant
           - name: Adrenaline
             homepage_url: https://adrenaline-ee.com/
             logo: adrenaline.png
@@ -1922,6 +2099,11 @@ categories:
             logo: alpiproServices.png
             second_path:
               - "Île-de-France / Paris (75)"
+          - name: Altaïs
+            homepage_url: https://groupealtais.com/
+            logo: altais.jpg
+            second_path:
+              - "Île-de-France / Hauts-de-Seine (92)"
           - name: ALTi CiTY
             homepage_url: https://www.alticity.eu
             logo: altiCity.png
@@ -1993,17 +2175,36 @@ categories:
             second_path:
               - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
           - name: Cabestan
+            description: |
+              20/07/2016 : Décès de Joshua
+            extra:
+              other_links:
+                - name: Accident du 20/07/2016
+                  url: https://cordistesencolere.fr/2016/07/23/presse-un-ouvrier-decede-au-centre-spatial-joshua/
             homepage_url: https://www.cabestan-montgeron.fr/
             logo: cabestan.webp
             second_path:
               - "Île-de-France / Essonne (91)"          
               - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"          
               - "Outre-mer / Guyane"     
+              - "2016 / -"     
           - name: Catra BTP
             homepage_url: https://www.catrabtp.com/
             logo: catraBtp.png
             second_path:
               - "Occitanie / Haute-Garonne (31)"       
+          - name: Celt'Hygiène
+            description: |
+              09/09/2009 : Décès de Gérald Marie
+            extra: 
+              other_links: 
+                - name: Accident du 09/09/2009
+                  url: https://cordistesencolere.fr/2015/05/05/presse-il-etait-mort-dans-un-silo-du-gouessant-les-employeurs-condamnes-pour-un-homicide-involontaire/
+            homepage_url: https://www.celthygiene.fr/
+            logo: celtHygiene.png
+            second_path:
+              - "Bretagne / Côtes-d'Armor (22)"       
+              - "2009 / -"       
           - name: Cimes Urbaines
             homepage_url: http://www.cimesurbaines.com/
             logo: cimesUrbaines.png
@@ -2077,6 +2278,18 @@ categories:
             logo: ftta.png
             second_path:
               - "Bourgogne-Franche-Comté / Jura (39)"
+          - name: GFC Travaux Spéciaux
+            description: |
+              03/06/2022 : Décès de Benjamin
+            extra: 
+              other_links: 
+                - name: Accident du 03/06/2022
+                  url: https://cordistesencolere.fr/2022/06/05/presse-benjamin-deces-dun-cordiste-en-nouvelle-caledonie/
+            homepage_url: https://www.facebook.com/gfctravauxspeciauxnc/
+            logo: gfc.jpg
+            second_path:
+              - "Outre-mer / Nouvelle-Calédonie"
+              - "2022 / -"
           - name: GGM Travaux Acrobatiques
             homepage_url: https://www.ggm-travaux-acrobatiques.fr
             logo: ggm.png
@@ -2117,7 +2330,12 @@ categories:
             logo: lesAlpinistesAssocies.png
             second_path:
               - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
-              - "Île-de-France / Paris (75)"
+              - "Île-de-France / Seine-Saint-Denis (93)"
+          - name: Les Cordistes Parisiens
+            homepage_url: https://lescordistesparisiens.fr/
+            logo: lesCordistesParisiens.png
+            second_path:
+              - "Île-de-France / Hauts-de-Seine (92)"
           - name: Les Cordistes Savoyards
             homepage_url: https://www.cordistes.fr/
             logo: lesCordistesSavoyards.svg
@@ -2140,6 +2358,11 @@ categories:
             logo: lesGarsDuVide.png
             second_path:
               - "Auvergne-Rhône-Alpes / Haute-Loire (43)"
+          - name: Locapose
+            homepage_url: https://www.locapose.fr/
+            logo: locapose.jpeg
+            second_path:
+              - "Île-de-France / Essonne (91)"
           - name: MB2A
             homepage_url: https://www.travaux-grande-hauteur.com/
             logo: mb2a.png
@@ -2174,6 +2397,11 @@ categories:
             logo: peretti.jpg
             second_path:
               - "Corse / -"
+          - name: Pluritech Solutions
+            homepage_url: https://plurisol.fr/
+            logo: pluritechSolutions.svg
+            second_path:
+              - "Île-de-France / Essonne (91)"
           - name: Plus Haut
             homepage_url: https://www.plushaut.net/
             logo: plusHaut.jpeg
@@ -2185,12 +2413,18 @@ categories:
             second_path:
               - "Auvergne-Rhône-Alpes / Isère (38)"
           - name: Profil
+            description: |
+              01/02/2017 : Décès de Pascal
+            extra: 
+              other_links:
+                - name: Accident du 01/02/2017
+                  url: https://cordistesencolere.fr/2017/02/01/presse-un-travailleur-meurt-dune-attaque-cardiaque-a-70-metres-de-haut-sur-le-site-du-tricastin/
+              parent_project: Groupe Jarnias
             homepage_url: https://profil-acro.fr
             logo: profil.png
             second_path:
               - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
-            extra: 
-              parent_project: Groupe Jarnias
+              - "2017 / -"
           - name: Profil Armor
             homepage_url: https://www.profilarmor.com/
             logo: profilArmor.png
@@ -2240,6 +2474,11 @@ categories:
             logo: silonet.jpg
             second_path:
               - "Pays de la Loire / Loire-Atlantique (44)"
+          - name: SM5
+            homepage_url: https://www.sarl-sm5.fr/
+            logo: sm5.png
+            second_path:
+              - "Île-de-France / Val-d'Oise (95)"
           - name: STAM
             homepage_url: https://stam.fr/
             logo: stam.png
@@ -2263,7 +2502,12 @@ categories:
             homepage_url: https://www.travaux-acrobatiques-smta.fr/
             logo: smta.png
             second_path:
-              - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)" 
+              - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
+          - name: Solution Corde
+            homepage_url: https://solutioncorde.fr/
+            logo: solutionCorde.png
+            second_path:
+              - "Île-de-France / Val-de-Marne (94)" 
           - name: Stabilisation Protection
             homepage_url: http://www.stabilisationprotection.fr
             logo: stabilisationProtection.jpeg
@@ -2316,11 +2560,21 @@ categories:
               - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
               - "Provence-Alpes-Côte d'Azur / Vaucluse (84)"
               - "2019 / -"
+          - name: TPGH
+            homepage_url: http://tpgh.fr/
+            logo: tpgh.jpg
+            second_path:
+              - "Île-de-France / Seine-Saint-Denis (93)"
           - name: Traforex
             homepage_url: https://www.facebook.com/Traforex/
             logo: traforex.jpeg
             second_path:
               - "Bourgogne-Franche-Comté / Côte-d'Or (21)"
+          - name: Trapeze
+            homepage_url: https://www.trapeze.fr/
+            logo: trapeze.png
+            second_path:
+              - "Île-de-France / Hauts-de-Seine (92)"
           - name: Tremplin's
             homepage_url: http://www.tremplins.eu/activites/index_travaux.html
             logo: tremplins.png
@@ -2351,11 +2605,17 @@ categories:
       - name: Grandes entreprises
         items: 
           - name: AcroBTP
+            description: |
+              2009 : Décès de Charlie
             homepage_url: https://www.acrobtp.fr/
             logo: acrobtp.png
             second_path:
               - "National / -"
+              - "2009 / -"
             extra: 
+              other_links:
+                - name: Accident de 2009
+                  url: https://cordistesencolere.fr/wp-content/uploads/2021/02/EPICEA-22265.pdf
               parent_project: Groupe Jarnias  
           - name: CAN
             description: |
@@ -2426,10 +2686,17 @@ categories:
               - "2022 / -"
               - "2023 / -"
           - name: Kaefer
+            description: |
+              03/01/2023 : Décès de Sébastien
+            extra:
+              other_links: 
+                - name: Accident du 03/01/2023
+                  url: https://cordistesencolere.fr/2023/01/04/sebastien-gironde-une-enquete-ouverte-apres-la-mort-dun-ouvrier/
             homepage_url: https://kaefer.fr/services/travaux-sur-cordes/
             logo: kaefer.svg
             second_path:
               - "National / -"
+              - "2023 / -"
           - name: Mistras
             homepage_url: https://mistrasgroup.fr/prestation-de-service/travaux-sur-cordes/
             logo: mistras.png
