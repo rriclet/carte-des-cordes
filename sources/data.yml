@@ -402,6 +402,11 @@ categories:
             logo: accesCordes.png
             second_path: 
               - "Auvergne-Rhône-Alpes / Rhône (69)"
+          - name: Accès Direct Amiante
+            homepage_url: https://www.acces-direct-amiante.fr/
+            logo: ada.jpg
+            second_path: 
+              - "Nouvelle-Aquitaine / Vienne (86)"
           - name: Accès Service
             homepage_url: https://asn-cordiste.fr/
             logo: accesService.png
@@ -447,6 +452,11 @@ categories:
             logo: accrocheNet.png
             second_path: 
               - "Bretagne / Ile-et-Vilaine (35)"
+          - name: Accroche Toi
+            homepage_url: https://accroche-toi.fr/
+            logo: accrocheToi.png
+            second_path: 
+              - "Provence-Alpes-Côte d'Azur / Var (83)"
           - name: Acro Chez Vous
             homepage_url: https://www.acrochezvous.com/index.php/fr/
             logo: acroChezVous.png
@@ -462,6 +472,16 @@ categories:
             logo: acroTec.png
             second_path: 
               - "Auvergne-Rhône-Alpes / Loire (42)"
+          - name: Acro Vert Tige
+            homepage_url: https://www.facebook.com/p/ACRO-VERT-TIGE-100063775134793/
+            logo: acroVertTige.jpg
+            second_path: 
+              - "Provence-Alpes-Côte d'Azur / Var (83)"
+          - name: Acro'Bat 83
+            homepage_url: https://travaux-difficiles-acrobat83.fr/
+            logo: acroBat83.jpg
+            second_path: 
+              - "Provence-Alpes-Côte d'Azur / Var (83)"
           - name: Acro-Bat-JP
             homepage_url: https://acrobatjp.jimdofree.com/
             logo: acroBatJp.jpg
@@ -579,6 +599,11 @@ categories:
             logo: airGAcro.jpg
             second_path: 
               - "Grand Est / Haut-Rhin (68)"
+          - name: Alae
+            homepage_url: https://www.alae.eu/
+            logo: alae.png
+            second_path: 
+              - "Provence-Alpes-Côte d'Azur / Vaucluse (84)"
           - name: Alliance Alpinistes
             homepage_url: https://www.alliance-alpinistes-paris.fr/
             logo: allianceAlpinistes.png
@@ -623,7 +648,12 @@ categories:
             homepage_url: https://www.alpi-ouest.fr/
             logo: alpiOuest.webp
             second_path: 
-              - "Bretagne / Ile-et-Vilaine (35)"   
+              - "Bretagne / Ile-et-Vilaine (35)"
+          - name: Alpi Progress
+            homepage_url: https://www.travaux-acces-difficile-86.fr/
+            logo: alpiProgress.jpg
+            second_path: 
+              - "Nouvelle-Aquitaine / Vienne (86)"   
           - name: Alpibat Services
             homepage_url: https://www.alpibat-services.fr/
             logo: alpibatServices.avif
@@ -915,6 +945,11 @@ categories:
             logo: chf.png
             second_path: 
               - "Hauts-de-France / Nord (59)"
+          - name: Choux TSC
+            homepage_url: https://www.sarlchouxtsc.fr/
+            logo: chouxTsc.png
+            second_path: 
+              - "Bourgogne-Franche-Comté / Yonne (89)"
           - name: Citad
             homepage_url: https://citad.fr/
             logo: citad.png
@@ -1128,6 +1163,11 @@ categories:
             logo: interfaces.png
             second_path: 
               - "Auvergne-Rhône-Alpes / Isère (38)"     
+          - name: J. Bertholet
+            homepage_url: https://www.facebook.com/julienbertholettravauxacrobatiques/
+            logo: jBertholet.jpg
+            second_path: 
+              - "Provence-Alpes-Côte d'Azur / Vaucluse (84)"
           - name: JLM Services
             homepage_url: https://www.jlmservices-chalonsursaone.fr/
             logo: jlmServices.png
@@ -1259,6 +1299,11 @@ categories:
             logo: mancio.png
             second_path: 
               - "Île-de-France / Paris (75)"
+          - name: MGH
+            homepage_url: https://www.societe-mgh.fr/
+            logo: mghjpeg
+            second_path: 
+              - "Pays de la Loire / Vendée (85)"
           - name: Michel Girard
             homepage_url: https://www.michel-girard.fr/
             logo: michelGirard.jpg
@@ -1294,6 +1339,11 @@ categories:
             logo: mtgh.png
             second_path: 
               - "Auvergne-Rhône-Alpes / Savoie (73)"
+          - name: Multicordes
+            homepage_url: https://multicordes.fr/
+            logo: multicordes.png
+            second_path: 
+              - "Provence-Alpes-Côte d'Azur / Vaucluse (84)"
           - name: MV2
             homepage_url: http://www.mv2acro.com/
             logo: mv2.jpg
@@ -1325,6 +1375,11 @@ categories:
             logo: odulDimitry.png
             second_path: 
               - "Hauts-de-France / Oise (60)"
+          - name: Olao Corde
+            homepage_url: https://olao-corde.fr/
+            logo: olaoCorde.png
+            second_path: 
+              - "Provence-Alpes-Côte d'Azur / Var (83)"
           - name: OS Habitat
             homepage_url: https://os-habitat.fr/
             logo: osHabitat.webp
@@ -1361,6 +1416,11 @@ categories:
             logo: pcse.png
             second_path: 
               - "Centre-Val de Loire / Loir-et-Cher (41)"
+          - name: Pente Extreme
+            homepage_url: https://www.pente-extreme.fr/
+            logo: penteExtreme.jpg
+            second_path: 
+              - "Nouvelle-Aquitaine / Haute-Vienne (87)"
           - name: Plastéol
             homepage_url: https://plasteol.fr/
             logo: plasteol.png
@@ -1386,6 +1446,11 @@ categories:
             logo: proTechfoudre.png
             second_path: 
               - "Nouvelle-Aquitaine / Dordogne (24)"
+          - name: Pro Verticalité
+            homepage_url: https://proverticalite.com/
+            logo: proVerticalite.png
+            second_path: 
+              - "Provence-Alpes-Côte d'Azur / Var (83)"
           - name: PTH13
             homepage_url: https://romain-oliverio.wixsite.com/monsite
             logo: pth13.avif
@@ -1436,6 +1501,11 @@ categories:
             logo: savoieTravauxAcrobatiques.jpg
             second_path: 
               - "Auvergne-Rhône-Alpes / Savoie (73)"
+          - name: SD Papillon
+            homepage_url: https://www.sd-papillon.com/
+            logo: sdPapillon.png
+            second_path: 
+              - "Pays de la Loire / Vendée (85)"
           - name: Sherpa
             homepage_url: https://cordiste-acro.fr/
             logo: sherpa.jpg
@@ -1466,6 +1536,11 @@ categories:
             logo: spiderColor.jpeg
             second_path: 
               - "Provence-Alpes-Côte d'Azur / Alpes-Maritimes (06)"
+          - name: Spiderbat
+            homepage_url: https://www.propeinture87.fr/spiderbat-travaux-de-peinture-acces-difficile/
+            logo: spiderbat.png
+            second_path: 
+              - "Nouvelle-Aquitaine / Haute-Vienne (87)"
           - name: SR2I
             homepage_url: https://www.facebook.com/sr2imaintenanceindustrielle
             logo: sr2i.jpg
@@ -1506,6 +1581,11 @@ categories:
             logo: sudVertical.jpg
             second_path: 
               - "Occitanie / Hérault (34)"
+          - name: Surplomb
+            homepage_url: https://www.surplomb.fr/
+            logo: surplomb.png
+            second_path: 
+              - "Provence-Alpes-Côte d'Azur / Var (83)"
           - name: Skyline-Base
             homepage_url: https://www.skyline-base.fr/
             logo: skylineBase.png
@@ -1630,6 +1710,11 @@ categories:
             logo: upTravaux.png
             second_path: 
               - "Île-de-France / Paris (75)"
+          - name: Urban Acro
+            homepage_url: http://www.urbanacro.fr/
+            logo: urbanAcro.png
+            second_path: 
+              - "Provence-Alpes-Côte d'Azur / Vaucluse (84)"
           - name: Verticad
             homepage_url: https://www.verticad.fr/
             logo: verticad.webp
@@ -1645,6 +1730,11 @@ categories:
             logo: vertaco.webp
             second_path: 
               - "Auvergne-Rhône-Alpes / Isère (38)"
+          - name: Vertex Acro
+            homepage_url: https://vertexacro.com/
+            logo: vertexAcro.png
+            second_path: 
+              - "Provence-Alpes-Côte d'Azur / Var (83)"
           - name: Vertical Accès
             homepage_url: http://www.vertical-acces.fr/
             logo: verticalAcces.jpg
@@ -1696,6 +1786,11 @@ categories:
             second_path: 
               - "Bretagne / Ile-et-Vilaine (35)"
               - "Centre-Val de Loire / Cher (18)"
+          - name: Vertik
+            homepage_url: https://www.vertik.fr/
+            logo: vertik.png
+            second_path: 
+              - "Provence-Alpes-Côte d'Azur / Vaucluse (84)"
           - name: Vertika
             homepage_url: http://vertika.fr/
             logo: vertika.png
@@ -1905,6 +2000,11 @@ categories:
             logo: colibri.jpeg
             second_path:
               - "Île-de-France / Val-de-Marne (94)"
+          - name: Devers
+            homepage_url: https://www.devers.fr/
+            logo: devers.webp
+            second_path:
+              - "Grand Est / Vosges (88)"
           - name: DGM Industrie
             homepage_url: https://dgm-industrie.fr/accueil/travaux-dacces-difficile/
             logo: dgmIndustrie.png
@@ -1937,6 +2037,11 @@ categories:
               - "Nouvelle-Aquitaine / Gironde (33)"    
               - "Occitanie / Pyrénées-Atlantiques (64)"
               - "Occitanie / Hautes-Pyrénées (65)"
+          - name: Face Sud
+            homepage_url: https://www.facesud.com/
+            logo: faceSud.png
+            second_path:
+              - "Provence-Alpes-Côte d'Azur / Var (83)"
           - name: FFT
             homepage_url: https://www.fabrefourtinetravaux.fr/travaux-d-acces-difficile
             logo: fft.png
@@ -2003,6 +2108,8 @@ categories:
             logo: lcdp.jpg
             second_path:
               - "Provence-Alpes-Côte d'Azur / Bouches-du-Rhône (13)"
+              - "Provence-Alpes-Côte d'Azur / Var (83)"
+              - "Provence-Alpes-Côte d'Azur / Vaucluse (84)"
           - name: Les Gars du Vide
             homepage_url: https://www.lesgarsduvide.com/
             logo: lesGarsDuVide.png
@@ -2143,7 +2250,12 @@ categories:
             homepage_url: http://www.stmpugnat.fr/
             logo: stmPugnat.png
             second_path:
-              - "Auvergne-Rhône-Alpes / Haute-Savoie (74)"    
+              - "Auvergne-Rhône-Alpes / Haute-Savoie (74)"
+          - name: STS
+            homepage_url: https://www.synergie-sts.fr/
+            logo: sts.webp
+            second_path:
+              - "Provence-Alpes-Côte d'Azur / Var (83)"
           - name: Sud Acrobatic
             description: |
               06/03/2018 : Décès de Mickaël Beccavin
