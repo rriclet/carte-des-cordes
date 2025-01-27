@@ -543,7 +543,7 @@ categories:
             homepage_url: https://acropol.pf/
             logo: acropol.png
             second_path: 
-              - "Outre-Mer / Polynésie"
+              - "Outre-mer / Polynésie"
           - name: Acro Pole
             homepage_url: https://acro-pole.fr/
             logo: acroPole.png
@@ -1515,7 +1515,7 @@ categories:
             homepage_url: https://www.facebook.com/securprotect/
             logo: securProtect.jpg
             second_path: 
-              - "Outre-Mer / Martinique"
+              - "Outre-mer / Martinique"
           - name: Sherpa
             homepage_url: https://cordiste-acro.fr/
             logo: sherpa.jpg
@@ -1530,7 +1530,7 @@ categories:
             homepage_url: https://www.skifx.fr/
             logo: skifx.jpg
             second_path: 
-              - "Outre-Mer / Guadeloupe"
+              - "Outre-mer / Guadeloupe"
           - name: So'o
             homepage_url: https://www.facebook.com/soo.multiservices/
             logo: soo.jpg
@@ -1911,7 +1911,7 @@ categories:
             homepage_url: https://www.agencecordiste.com/
             logo: agenceCordiste.webp
             second_path:
-              - "Outre-Mer / La Réunion"
+              - "Outre-mer / La Réunion"
           - name: Agrip'
             homepage_url: https://www.cordiste-agrip-paris.fr/
             logo: agrip.webp
@@ -2106,7 +2106,7 @@ categories:
             homepage_url: https://www.kwata-bat.com/
             logo: kwataBat.png
             second_path:
-              - "Outre-Mer / Guyane"
+              - "Outre-mer / Guyane"
           - name: L'Octant
             homepage_url: https://www.loctant.com/
             logo: lOctant.gif
@@ -2325,12 +2325,12 @@ categories:
             homepage_url: http://www.tremplins.eu/activites/index_travaux.html
             logo: tremplins.png
             second_path:
-              - "Outre-Mer / Martinique"
+              - "Outre-mer / Martinique"
           - name: TTS
             homepage_url: http://www.tts.re/site/
             logo: tts.png
             second_path:
-              - "Outre-Mer / La Réunion"
+              - "Outre-mer / La Réunion"
           - name: Versant
             homepage_url: https://versant-groupe.com
             logo: versant.png
@@ -2449,7 +2449,7 @@ categories:
             homepage_url: https://www.rocs.fr/
             logo: rocs.png
             second_path:
-              - "Outre-Mer / La Réunion"
+              - "Outre-mer / La Réunion"
             extra: 
               parent_project: NGE Fondations
   
