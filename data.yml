@@ -40,6 +40,12 @@ categories:
             logo: hautPluriElles.png
             second_path:
               - "National / -"
+          - name: Stop la mort au travail
+            description: Nous sommes une association de familles ayant perdu un proche au travail. Ensemble, brisons le silence !
+            homepage_url: https://stopalamortautravail.fr/
+            logo: stopLaMortAuTravail.webp
+            second_path:
+              - "National / -"
           - name: Syndicat National Indépendant des Cordistes de France
             description: Un syndicat indépendant qui défend les droits et intérêts individuels et collectifs, professionnels, matériels et moraux des Cordistes en France, à l'exception de ceux ayant un rôle d'employeur.
             homepage_url: https://solidaritecordistes.fr/
@@ -49,14 +55,18 @@ categories:
       
       - name: Livres
         items:
+          - name: Casser du sucre à la pioche
+            description: | 
+              Mercredi 21 juin 2017. Il est 12h30. Eric Louis est d’après-midi sur le site industriel de Cristanol. Avec les autres cordistes, ils attendent de relever l’équipe dont fait partie Quentin. La chaleur, la fatigue… et cette phrase, simple et définitive, qui vient claquer à la face : « On a perdu Quentin ».
+            homepage_url: https://www.editionsducommun.org/products/casser-du-sucre-a-la-pioche
+            logo: casserDuSucre.webp
+          - name: Chroniques sur cordes
+            homepage_url: https://cordistesencolere.fr/commande-chroniques-sur-cordes/
+            logo: chroniquesSurCordes.jpg
           - name: Un jour j'irai là-haut
             description: Objet de solidarité, de diffusion de nos luttes, témoin des combats de travailleuses et travailleurs cordistes, Un jour, j'irai là-haut te tend les bras. Loin des bavardages oiseux et stériles, il te racontera des histoires vécues. Pleines de larmes et de douleurs. Pleines surtout de dignité et de combativité. Du concret et de l'humain, en direct de la vraie vie.
             homepage_url: https://cordistesencolere.fr/boutique/
             logo: unJourJirai.jpg
-          - name: On a perdu Quentin
-            description: Mercredi 21 juin 2017. Il est 12h30. Éric Louis est d'après-midi sur le site industriel de Cristanol à Bazancourt.
-            homepage_url: https://www.editionsducommun.org/collections/all/products/on-a-perdu-quentin-eric-louis
-            logo: onAPerduQuentin.webp
           - name: L'Hécatombe invisible
             description: Ils s'appelaient Michel, Harouna, Franck, Romain, Hugo, Christiane, Yucel ou encore Teddy. Ils étaient ouvriers, travailleurs indépendants, apprentis, parfois même stagiaires. Tous ont en commun d'avoir perdu la vie dans l'exercice ou l'apprentissage de leur métier.
             homepage_url: https://www.seuil.com/ouvrage/l-hecatombe-invisible-matthieu-lepine/9782021517385
@@ -76,7 +86,20 @@ categories:
             description: Une histoire dramatique. Un homme, un ouvrier, est mort au travail le 27 août 2018 dans le Parc naturel de la Brague, dans les Alpes-Maritimes. On lui avait demandé de manipuler un explosif, dans des conditions qui à l'évidence relèvent des dysfonctionnements. Régis Brugière avait 38 ans, le jour de l'accident. Il était père de famille, papa de deux enfants.               
             homepage_url: https://www.youtube.com/watch?v=TJ9yilKoMHM
             logo: regisBlast.jpeg
-            
+          - name: Profession cordiste
+            description: Des gestionnaires premiers de cordée, des intérimaires premiers de corvée 
+            extra:
+              other_links: 
+                - name: Partie 1
+                  url: https://www.mixcloud.com/FranckD%C3%A9pretz/profession-cordiste-partie-1/
+                - name: Parie 2
+                  url: https://www.mixcloud.com/FranckD%C3%A9pretz/profession-cordiste-partie-2/
+            homepage_url: https://www.mixcloud.com/FranckD%C3%A9pretz/profession-cordiste-partie-1/
+            logo: professionCordiste.webp
+          - name: Accident de Jean-Marc - Février 2015
+            description: En février 2015, Jean-marc travaille comme cordiste à la maintenance du « Bois des lutins », un parc de loisir situé à Villeneuve-Loubet, dans les Alpes-Maritimes. 
+            homepage_url: https://www.youtube.com/watch?v=JiV1kWGX6xg
+            logo: jeanMarc.jpg
 
       - name: Réseaux sociaux
         items: 
@@ -1246,12 +1269,18 @@ categories:
             second_path: 
               - "Auvergne-Rhône-Alpes / Savoie (73)"
           - name: HAUTLINE 
+            description: |
+              21/06/2017 : Décès de Quentin Zaraoui-Bruat
+            extra:
+              other_links:
+                - name: Accident du 21/06/2017
+                  url: https://cordistesencolere.fr/dans-la-presse/accidents-de-travail/arthur-vincent-2012/quentin-2017/    
+              parent_project: Groupe Jarnias
             homepage_url: https://www.hautline.fr/
             logo: hautline.webp
             second_path: 
               - "Hauts-de-France / Pas-de-Calais (62)"
-            extra: 
-              parent_project: Groupe Jarnias
+              - "2017 / -"
           - name: Hinovéo
             homepage_url: https://www.hinoveo.com/
             logo: hinoveo.jpeg
@@ -2043,6 +2072,19 @@ categories:
             logo: acrobatica.svg
             second_path:
               - "National / -"
+          - name: AcroBTP
+            description: |
+              2009 : Décès de Charlie
+            homepage_url: https://www.acrobtp.fr/
+            logo: acrobtp.png
+            second_path:
+              - "National / -"
+              - "2009 / -"
+            extra: 
+              other_links:
+                - name: Accident de 2009
+                  url: https://cordistesencolere.fr/wp-content/uploads/2021/02/EPICEA-22265.pdf
+              parent_project: Groupe Jarnias
           - name: Acro Solution
             homepage_url: https://www.acro-solution.fr
             logo: acroSolution.png
@@ -2612,20 +2654,7 @@ categories:
               - "Grand Est / Moselle (57)"
 
       - name: Grandes entreprises
-        items: 
-          - name: AcroBTP
-            description: |
-              2009 : Décès de Charlie
-            homepage_url: https://www.acrobtp.fr/
-            logo: acrobtp.png
-            second_path:
-              - "National / -"
-              - "2009 / -"
-            extra: 
-              other_links:
-                - name: Accident de 2009
-                  url: https://cordistesencolere.fr/wp-content/uploads/2021/02/EPICEA-22265.pdf
-              parent_project: Groupe Jarnias  
+        items:   
           - name: CAN
             description: |
               27/08/2018 : Décès de Régis
