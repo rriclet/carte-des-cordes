@@ -27,7 +27,7 @@ grid_items_size: large
 groups:
   - name: par type de structure
     categories:
-      - Solidarité
+      - "# Solidarité"
       - Formation 
       - Matériel
       - Employeurs
